@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tai Wang"
 title_separator          : "-"
-name                     : &name "Tai Wang 王泰"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://taiwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tai Wang 王泰"
+  name             : "Tai Wang"
   avatar           : "brunch.jpg"
   bio              : "PhD student @ MMLab, CUHK"
   location         : "Hong Kong, China"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Tai-Wang"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wangtai97"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
