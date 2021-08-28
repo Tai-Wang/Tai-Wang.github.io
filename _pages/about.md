@@ -36,21 +36,16 @@ Selected Awards
 
 Miscellaneous
 ----------
-**Academic Services**
-
+**Academic Services** <br/>
 I served as a reviewer for CVPR, ICCV, ECCV, ICLR.
 
-**Teaching**
-
-I was a TA for
-
-Zhejiang University
+**Teaching** <br/>
+I was a TA for <br/>
+Zhejiang University <br/>
 - Computer Vision (Undergraduate Course), Winter 2018
-
-The Chinese University of Hong Kong
+The Chinese University of Hong Kong <br/>
 - IERG2080: Introduction to Systems Programming, Fall 2020
 - IERG2470B/ESTR2308: Probability Models and Applications (Elite Students), Spring 2021
 
-**Hobbies**
-
+**Hobbies** <br/>
 Love: Basketball (I am a big fan of [Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry) and [Tracy McGrady](https://en.wikipedia.org/wiki/Tracy_McGrady)), music/singing and Chinese calligraphy (learned from [MA Liangchen](https://baike.baidu.com/item/%E9%A9%AC%E8%89%AF%E8%BE%B0/5438872) and [MA Shanshuang](https://baike.baidu.com/item/%E9%A9%AC%E5%96%84%E5%8F%8C/5954206) from my seven years old).
