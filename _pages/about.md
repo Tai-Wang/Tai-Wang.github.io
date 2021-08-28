@@ -38,7 +38,7 @@ Teaching
 ----------
 - Computer Vision (Undergraduate Course), Winter 2018 @ ZJU
 - IERG2080: Introduction to Systems Programming, Fall 2020 @ CUHK
-- IERG2470B/ESTR2308: Probability Models & Applications (Elite Students), Spring 2021 @ CUHK
+- ESTR2308: Probability Models and Applications (Elite Students), Spring 2021 @ CUHK
 
 Miscellaneous
 ----------
