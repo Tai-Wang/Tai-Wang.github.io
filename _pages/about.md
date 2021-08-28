@@ -34,16 +34,16 @@ Selected Awards
 - National Scholarship (1.5%), 2017-2018
 - First Prize in Physics Competition for Undergraduate, 2017
 
+Teaching
+----------
+- Computer Vision (Undergraduate Course), Winter 2018 @ ZJU
+- IERG2080: Introduction to Systems Programming, Fall 2020 @ CUHK
+- IERG2470B/ESTR2308: Probability Models and Applications (Elite Students), Spring 2021 @ CUHK
+
 Miscellaneous
 ----------
 **Academic Services** <br/>
 I served as a reviewer for CVPR, ICCV, ECCV, ICLR.
-
-**Teaching** <br/>
-I was a TA for
-- Computer Vision (Undergraduate Course) @ Winter 2018, ZJU
-- IERG2080: Introduction to Systems Programming @ Fall 2020, CUHK
-- IERG2470B/ESTR2308: Probability Models and Applications (Elite Students) @ Spring 2021, CUHK
 
 **Hobbies** <br/>
 Love: Basketball (I am a big fan of [Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry) and [Tracy McGrady](https://en.wikipedia.org/wiki/Tracy_McGrady)), music/singing and Chinese calligraphy (learned from [MA Liangchen](https://baike.baidu.com/item/%E9%A9%AC%E8%89%AF%E8%BE%B0/5438872) and [MA Shanshuang](https://baike.baidu.com/item/%E9%A9%AC%E5%96%84%E5%8F%8C/5954206) from my seven years old).
