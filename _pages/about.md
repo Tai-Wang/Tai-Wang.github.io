@@ -41,9 +41,9 @@ I served as a reviewer for CVPR, ICCV, ECCV, ICLR.
 
 **Teaching** <br/>
 I was a TA for <br/>
-Zhejiang University <br/>
-- Computer Vision (Undergraduate Course), Winter 2018
-The Chinese University of Hong Kong <br/>
+Zhejiang University
+- Computer Vision (Undergraduate Course), Winter 2018 <br/>
+The Chinese University of Hong Kong
 - IERG2080: Introduction to Systems Programming, Fall 2020
 - IERG2470B/ESTR2308: Probability Models and Applications (Elite Students), Spring 2021
 
