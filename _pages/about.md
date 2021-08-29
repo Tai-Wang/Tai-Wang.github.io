@@ -25,7 +25,6 @@ Experience
 
 Selected Awards
 ----------
-<font size=3>
 - 1st place of vision-only track and best PKL award of overall track, [NuScenes 3D Detection Challenge](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any), NeurIPS 2020
 - Runner-up of [NuScenes LiDAR Segmentation Challenge](https://www.nuscenes.org/lidar-segmentation?externalData=all&mapData=all&modalities=Any), NeurIPS 2020
 - Gold Medal of Kaggle Competition (Top 1% of [Lyft 3D Detection Challenge](https://www.nuscenes.org/lidar-segmentation?externalData=all&mapData=all&modalities=Any)), NeurIPS 2019
@@ -34,7 +33,6 @@ Selected Awards
 - Top 10 Students of Zhejiang University (Highest honor for 5 undergraduates/graduates), 2018
 - National Scholarship (1.5%), 2017-2018
 - First Prize in Physics Competition for Undergraduate, 2017
-</font>
 
 Teaching
 ----------
