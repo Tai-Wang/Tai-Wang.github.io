@@ -14,14 +14,14 @@ News
 
 Education
 ----------
-<div align="left"><img width="80" height="80" src="../images/zju.png"/></div>
+<img src="../images/cuhk.png" width = "90" height = "90" alt="zju" align="left" />
 
 &ensp;**Zhejiang University** <br>
 &ensp;<font size=2> August 2015 - July 2019 </font> <br>
 &ensp;<font size=2> Major: B.E. in Information Engineering </font> <br>
 &ensp;<font size=2> Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College </font>
 
-<img src="../images/cuhk.png" width = "80" height = "80" alt="cuhk" align="left" />
+<img src="../images/cuhk.png" width = "90" height = "90" alt="cuhk" align="left" />
 
 &ensp;**The Chinese University of Hong Kong** <br>
 &ensp;<font size=2> August 2019 - July 2023 (Expected) </font> <br>
