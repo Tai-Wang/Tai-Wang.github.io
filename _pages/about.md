@@ -17,9 +17,9 @@ Education
 <img src="../images/zju.png" width = "120" height = "120" alt="zju" align="left" />
 
 &ensp;**Zhejiang University** <br />
-&ensp;<font size=2> August 2015 - July 2019 </font><br />
-&ensp;<font size=2> Major: B.E. in Information Engineering </font><br />
-&ensp;<font size=2> Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College </font>
+&ensp;:August 2015 - July 2019 <br />
+&ensp;:Major: B.E. in Information Engineering <br />
+&ensp;:Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College </font>
 
 <img src="../images/cuhk.png" width = "120" height = "120" alt="cuhk" align="left" />
 
