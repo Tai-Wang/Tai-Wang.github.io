@@ -14,16 +14,16 @@ News
 
 Education
 ----------
-<img src="https://github.com/Tai-Wang/tai-wang.github.io/blob/master/images/zju.png" width = "200" height = "200" alt="zju" align="left" />
-**Zhejiang University**
-August 2015 - July 2019
-Major: B.E. in Information Engineering
-Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College
+<img src="../images/zju.png" width = "200" height = "200" alt="zju" align="left" />
+**Zhejiang University** <br/>
+<font size=3> August 2015 - July 2019 </font> <br/>
+<font size=3> Major: B.E. in Information Engineering </font> <br/>
+<font size=3> Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College </font> <br/>
 
-<img src="https://github.com/Tai-Wang/tai-wang.github.io/blob/master/images/cuhk.png" width = "200" height = "200" alt="cuhk" align="left" />
-**The Chinese University of Hong Kong**
-August 2019 - July 2023 (Expected)
-Ph.D. in Information Engineering.
+<img src="../images/cuhk.png" width = "200" height = "200" alt="cuhk" align="left" />
+**The Chinese University of Hong Kong** <br/>
+<font size=3> August 2019 - July 2023 (Expected) </font> <br/>
+<font size=3> Ph.D. in Information Engineering. </font> <br/>
 
 Publications
 ----------
