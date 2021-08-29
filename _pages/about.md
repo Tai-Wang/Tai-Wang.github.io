@@ -14,8 +14,7 @@ News
 
 Education
 ----------
-<img src="../images/cuhk.png" width = "90" height = "90" alt="cuhk" align="left" />
-
+<img src="../images/cuhk.png" width = "100" height = "100" alt="cuhk" align="left" />
 &nbsp;The Chinese University of Hong Kong
 :   &ensp;August 2019 - July 2023 (Expected)
 :   &ensp;Ph.D. in Information Engineering.
