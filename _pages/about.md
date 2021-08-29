@@ -14,12 +14,12 @@ News
 
 Education
 ----------
-<img src="../images/cuhk.png" width = "100" height = "100" alt="cuhk" align="left" />
+<img src="../images/cuhk.png" width = "80" height = "80" alt="cuhk" align="left" />
 &nbsp;The Chinese University of Hong Kong
 :   &ensp;August 2019 - July 2023 (Expected)
 :   &ensp;Ph.D. in Information Engineering.
 
-<img src="../images/zju.png" width = "100" height = "100" alt="zju" align="left" />
+<img src="../images/zju.png" width = "80" height = "80" alt="zju" align="left" />
 
 &nbsp;Zhejiang University
 :   &ensp;August 2015 - July 2019
