@@ -30,7 +30,7 @@ Selected Awards
 - Gold Medal of Kaggle Competition (Top 1% of [Lyft 3D Detection Challenge](https://www.nuscenes.org/lidar-segmentation?externalData=all&mapData=all&modalities=Any)), NeurIPS 2019
 - Hong Kong PhD Fellowship (HKPFS), 2019
 - Chu Kochen Scholarship (Highest scholarship at Zhejiang University), 2018
-- Top 10 Students of Zhejiang University (Highest honor for 5 undergraduate/graduate students), 2018
+- Top 10 Students of Zhejiang University (Highest honor for 5 undergraduates/graduates), 2018
 - National Scholarship (1.5%), 2017-2018
 - First Prize in Physics Competition for Undergraduate, 2017
 
