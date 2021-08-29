@@ -14,18 +14,18 @@ News
 
 Education
 ----------
-<img src="../images/zju.png" width = "100" height = "100" alt="zju" align="left" />
-
-Zhejiang University
-:   August 2015 - July 2019
-:   Major: B.E. in Information Engineering
-:   Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College
-
 <img src="../images/cuhk.png" width = "100" height = "100" alt="cuhk" align="left" />
 
-The Chinese University of Hong Kong
-:   August 2019 - July 2023 (Expected)
-:   Ph.D. in Information Engineering.
+&ensp;The Chinese University of Hong Kong
+:   &ensp;August 2019 - July 2023 (Expected)
+:   &ensp;Ph.D. in Information Engineering.
+
+<img src="../images/zju.png" width = "100" height = "100" alt="zju" align="left" />
+
+&ensp;Zhejiang University
+:   &ensp;August 2015 - July 2019
+:   &ensp;Major: B.E. in Information Engineering
+:   &ensp;Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College
 
 Publications
 ----------
