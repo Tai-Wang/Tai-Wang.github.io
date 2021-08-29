@@ -14,17 +14,16 @@ News
 
 Education
 ----------
-<img src="../images/cuhk.png" width = "80" height = "80" alt="cuhk" align="left" />
-&nbsp;The Chinese University of Hong Kong
-:   &ensp;August 2019 - July 2023 (Expected)
-:   &ensp;Ph.D. in Information Engineering.
+<img src="../images/cuhk.png" width = "90" height = "90" alt="cuhk" align="left" />
+&ensp;The Chinese University of Hong Kong
+:   &nbsp;&ensp;August 2019 - July 2023 (Expected)
+:   &nbsp;&ensp;Ph.D. in Information Engineering.
 
-<img src="../images/zju.png" width = "80" height = "80" alt="zju" align="left" />
-
-&nbsp;Zhejiang University
-:   &ensp;August 2015 - July 2019
-:   &ensp;Major: B.E. in Information Engineering
-:   &ensp;Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College
+<img src="../images/zju.png" width = "90" height = "90" alt="zju" align="left" />
+&ensp;Zhejiang University
+:   &nbsp;&ensp;August 2015 - July 2019
+:   &nbsp;&ensp;Major: B.E. in Information Engineering
+:   &nbsp;&ensp;Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College
 
 Publications
 ----------
