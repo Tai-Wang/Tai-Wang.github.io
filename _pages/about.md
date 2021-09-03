@@ -33,24 +33,24 @@ Research Projects
 
 Experience
 ----------
-<img src="../images/shlab.jpg" width = "95" height = "95" alt="shlab" align="left" />
+<img src="../images/shlab.jpg" width = "90" height = "80" alt="shlab" align="left" />
 &ensp;Adjunct Researcher, Sensetime & Visiting Scholar, Shanghai AI Laboratory
 :   &nbsp;&ensp;July 2020 - June 2021 & July 2021 - Now
 :   &nbsp;&ensp;Focus: The next-generation platform for general 3D object detection
 
-<img src="../images/sensetime.jpg" width = "95" height = "95" alt="sensetime" align="left" />
+<img src="../images/sensetime.jpg" width = "90" height = "100" alt="sensetime" align="left" />
 &ensp;Adjunct Researcher, Sensetime
 :   &nbsp;&ensp;Nov. 2019 - June 2020
 :   &nbsp;&ensp;Advisor: Conghui He, Zhe Wang, Jianping Shi
 :   &nbsp;&ensp;Focus: Efficient annotation of LiDAR point clouds, development of LiDAR perception system
 
-<img src="../images/cuhk.png" width = "95" height = "95" alt="cuhk" align="left" />
+<img src="../images/cuhk.png" width = "90" height = "100" alt="cuhk" align="left" />
 &ensp;Junior Research Assistant, The Chinese University of Hong Kong (CUHK)
 :   &nbsp;&ensp;Feb. 2019 - May 2020
 :   &nbsp;&ensp;Advisor: Dahua Lin
 :   &nbsp;&ensp;Focus: Real-time 3D object detection in autonomous driving
 
-<img src="../images/AZFT.png" width = "95" height = "95" alt="AZFT" align="left" />
+<img src="../images/AZFT.png" width = "90" height = "100" alt="AZFT" align="left" />
 &ensp;Research Intern, Alibaba-ZJU Joint Institute of Frontier Technologies (AZFT)
 :   &nbsp;&ensp;Dec. 2017 - June 2019
 :   &nbsp;&ensp;Advisor: Zicheng Liao, Gang Wang
