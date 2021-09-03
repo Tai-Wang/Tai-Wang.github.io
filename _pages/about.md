@@ -37,17 +37,17 @@ Experience
 &ensp;Adjunct Researcher, Sensetime & Visiting Scholar, Shanghai AI Laboratory
 :   &nbsp;&ensp;July 2020 - June 2021 & July 2021 - Now
 :   &nbsp;&ensp;Focus: The next-generation platform for general 3D object detection
-
+<br/>
 <img src="../images/sensetime.jpg" width = "90" height = "90" alt="sensetime" align="left" />
 &ensp;Adjunct Researcher, Sensetime
 :   &nbsp;&ensp;Nov. 2019 - June 2020. Advisor: Conghui He, Zhe Wang, Jianping Shi
 :   &nbsp;&ensp;Focus: Efficient annotation of LiDAR point clouds, development of LiDAR perception system
-
+<br/>
 <img src="../images/cuhk.png" width = "90" height = "90" alt="cuhk" align="left" />
 &ensp;Junior Research Assistant, The Chinese University of Hong Kong (CUHK)
 :   &nbsp;&ensp;Feb. 2019 - May 2020. Advisor: Dahua Lin
 :   &nbsp;&ensp;Focus: Real-time 3D object detection in autonomous driving
-
+<br/>
 <img src="../images/AZFT.png" width = "90" height = "90" alt="AZFT" align="left" />
 &ensp;Research Intern, Alibaba-ZJU Joint Institute of Frontier Technologies (AZFT)
 :   &nbsp;&ensp;Dec. 2017 - June 2019. Advisor: Zicheng Liao, Gang Wang
