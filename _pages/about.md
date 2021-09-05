@@ -32,6 +32,8 @@ Research Projects
 ----------
 <img src="../images/mmdet3d.gif" width = "110" height = "110" alt="mmdet3d" align="left" />
 &ensp;MMDetection3D: The Next Generation Platform for General 3D detection
+:   &nbsp;&ensp;An open source object detection toolbox based on PyTorch
+:   &nbsp;&ensp;Support both multi-modality and single-modality detectors, both indoor and outdoor 3D detection and segmentation, natural integration with 2D detection with high computation efficiency
 :   &nbsp;&ensp;MMDetection3D Contributors
 :   &nbsp;&ensp;May 2020 – Now
 :   &nbsp;&ensp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Doc\]](https://mmdetection3d.readthedocs.io/en/latest/)
