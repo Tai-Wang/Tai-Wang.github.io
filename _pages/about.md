@@ -48,7 +48,7 @@ Research Projects
 &ensp;Spherical Convolutional Networks for 3D Mesh Processing
 :   &nbsp;&ensp;New approaches to generating 3D meshes from scratch with S2 parametrization & extended spherical CNNs
 :   &nbsp;&ensp;**Tai Wang**, Weiwei Zhou and Zicheng Liao
-:   &nbsp;&ensp;Under revision and further developement
+:   &nbsp;&ensp;Under revision and further development
 :   &nbsp;&ensp;Mar 2018 – Nov 2018
 
 Experience
