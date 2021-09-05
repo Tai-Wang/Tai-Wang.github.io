@@ -37,7 +37,7 @@ Research Projects
 :   &nbsp;&ensp;May 2020 – Now
 :   &nbsp;&ensp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Doc\]](https://mmdetection3d.readthedocs.io/en/latest/)
 
-<img src="../images/flava.gif" width = "110" height = "70" alt="flava" align="left" />
+<img src="../images/flava.gif" width = "180" height = "110" alt="flava" align="left" />
 &ensp;FLAVA: An Annotation Pipeline for LiDAR Point Clouds
 :   &nbsp;&ensp;A systematic pipeline with a customized UI for LiDAR points annotation
 :   &nbsp;&ensp;**Tai Wang**, Conghui He, Zhe Wang, Jianping Shi and Dahua Lin
