@@ -30,7 +30,7 @@ Publications
 
 Research Projects
 ----------
-<img src="../images/cuhk.png" width = "90" height = "90" alt="cuhk" align="left" />
+<img src="../images/mmdet3d.gif" width = "110" height = "110" alt="mmdet3d" align="left" />
 &ensp;MMDetection3D: The Next Generation Platform for General 3D detection
 :   &nbsp;&ensp;MMDetection3D Contributors
 :   &nbsp;&ensp;May 2020 – Now
