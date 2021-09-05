@@ -30,19 +30,19 @@ Publications
 
 Research Projects
 ----------
-<img src="../images/mmdet3d.gif" width = "110" height = "110" alt="mmdet3d" align="left" />
-&ensp;MMDetection3D: The Next Generation Platform for General 3D detection
-:   &nbsp;&ensp;A versatile, open-source 3D object detection toolbox based on PyTorch
-:   &nbsp;&ensp;MMDetection3D Contributors
-:   &nbsp;&ensp;May 2020 – Now
-:   &nbsp;&ensp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Doc\]](https://mmdetection3d.readthedocs.io/en/latest/)
-
 <img src="../images/flava.gif" width = "180" height = "110" alt="flava" align="left" />
 &ensp;FLAVA: An Annotation Pipeline for LiDAR Point Clouds
 :   &nbsp;&ensp;A systematic pipeline with a customized UI for LiDAR points annotation
 :   &nbsp;&ensp;**Tai Wang**, Conghui He, Zhe Wang, Jianping Shi and Dahua Lin
 :   &nbsp;&ensp;ACM Symposium on User Interface Software and Technology (**UIST**) 2020, Poster
 :   &nbsp;&ensp;[\[Full tech report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Poster Summary\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)
+
+<img src="../images/mmdet3d.gif" width = "110" height = "110" alt="mmdet3d" align="left" />
+&ensp;MMDetection3D: The Next Generation Platform for General 3D detection
+:   &nbsp;&ensp;A versatile, open-source 3D object detection toolbox based on PyTorch
+:   &nbsp;&ensp;MMDetection3D Contributors
+:   &nbsp;&ensp;May 2020 – Now
+:   &nbsp;&ensp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Doc\]](https://mmdetection3d.readthedocs.io/en/latest/)
 
 <img src="../images/s2mesh.png" width = "110" height = "110" alt="s2mesh" align="left" />
 &ensp;Spherical Convolutional Networks for 3D Mesh Processing
