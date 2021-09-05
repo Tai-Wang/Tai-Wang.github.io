@@ -34,7 +34,7 @@ Research Projects
 &ensp;MMDetection3D: The Next Generation Platform for General 3D detection
 :   &nbsp;&ensp;MMDetection3D Contributors
 :   &nbsp;&ensp;May 2020 – Now
-:   &nbsp;&ensp;[\[Code]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Doc]](https://mmdetection3d.readthedocs.io/en/latest/)
+:   &nbsp;&ensp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Doc\]](https://mmdetection3d.readthedocs.io/en/latest/)
 
 Experience
 ----------
