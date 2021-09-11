@@ -35,8 +35,7 @@ Publications
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)
 
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
-&ensp;
-:   &nbsp;&ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
+&ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang and Dahua Lin
 :   &nbsp;&ensp;IEEE International Conference on Computer Vision Workshop (ICCVW) 2021
 :   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, NeurIPS 2020
@@ -47,10 +46,12 @@ Publications
 :   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma,
 :   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (WACV) 2022
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)
+----------
 
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
 <img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
-&ensp;Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation
+&ensp;Cylindrical and Asymmetrical 3D Convolution Networks for
+&ensp;LiDAR Segmentation
 :   &nbsp;&ensp;Xinge Zhu*, Hui Zhou*, **Tai Wang**, Fangzhou Hong, Yuexin Ma, Wei Li, Hongsheng Li and Dahua Lin
 :   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021, Oral
 :   &nbsp;&ensp;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021
@@ -62,11 +63,12 @@ Publications
 :   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)
 
-<img src="../images/ssn.png" width = "180" height = "110" alt="ssn" align="left" />
-&ensp;SSN: Shape Signature Networks for Object Detection from Point Clouds.
+<img src="../images/SSN.png" width = "180" height = "110" alt="ssn" align="left" />
+&ensp;SSN: Shape Signature Networks for Object Detection from Point Clouds
 :   &nbsp;&ensp;Xinge Zhu, Yuexin Ma, **Tai Wang**, Yan Xu, Jianping Shi and Dahua Lin,
 :   &nbsp;&ensp;European Conference on Computeer Vision (ECCV) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)
+----------
 
 **Efficient Annotation of LiDAR Point Clouds** <br/>
 <img src="../images/flava.gif" width = "180" height = "110" alt="flava" align="left" />
