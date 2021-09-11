@@ -18,7 +18,7 @@ News
 - MMDet3D Team wins the Best PKL Award and best vision-only results in the 3rd nuScenes detection challenge of 5th AI Driving Olympics, NeurIPS 2020.
 - We release our full technical report for our previously developed LiDAR annotation tool, [FLAVA](https://arxiv.org/abs/2011.10174). The report reveals some really interesting findings and thinkings.
 - Our work [Reconfigurable Voxels](https://arxiv.org/abs/2004.02724) is accepted to CoRL 2020. Looking forward to more research on voxel representation learning for non-uniformly distributed point clouds.
-- [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) is finally released! Fork this versatile toolbox and have a try, pushing forward this field to general 3D detection together.
+- [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) is finally released! Fork this versatile codebase and have a try, pushing forward this field to general 3D detection together.
 
 Education
 ----------
