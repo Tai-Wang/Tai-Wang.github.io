@@ -59,7 +59,7 @@ Publications
 &ensp;Reconfigurable Voxels: A New Representation for LiDAR-Based <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2020
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)
 
 <img src="../images/SSN.png" width = "180" height = "110" alt="ssn" align="left" />
 &ensp;SSN: Shape Signature Networks for Object Detection from <br/> &ensp;Point Clouds
