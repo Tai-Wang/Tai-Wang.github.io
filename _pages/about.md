@@ -12,7 +12,7 @@ I am a PhD student in [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Laborato
 
 News
 ----------
-- [PGD](https://arxiv.org/abs/2107.14160), our follow-up work based on FCOS3D, is released. Check out our paper for the exhaustive study on the dominant role of depth estimation in the current monocular 3D detection.
+- Our follow-up work based on FCOS3D, [PGD](https://arxiv.org/abs/2107.14160), is released. Check out our paper for the exhaustive study on the dominant role of depth estimation in the monocular 3D detection.
 - The paper of our study that bridges 2D detection and monocular 3D detection, [FCOS3D](https://arxiv.org/abs/2104.10956), has been released. The code is also available at [MMDet3D](https://github.com/open-mmlab/mmdetection3d).
 - Our further research on voxel representation learning, [Cylinder3D](https://arxiv.org/abs/2011.10033), is accepted by CVPR 2021! We also obtained the runner-up in the nuScenes LiDAR Segmentation Challenge.
 - MMDet3D Team wins the Best PKL Award and best vision-only results in the 3rd nuScenes detection challenge of 5th AI Driving Olympics, NeurIPS 2020.
