@@ -34,15 +34,50 @@ Publications
 :   &nbsp;&ensp;In submission
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)
 
-Research Projects
-----------
+<img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
+&ensp;
+:   &nbsp;&ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
+:   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang and Dahua Lin
+:   &nbsp;&ensp;IEEE International Conference on Computer Vision Workshop (ICCVW) 2021
+:   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, NeurIPS 2020
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)
+
+<img src="../images/SIDE.png" width = "180" height = "110" alt="side" align="left" />
+&ensp;SIDE: Center-based Stereo 3D Detector with Structure-aware Instance Depth Estimation
+:   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma,
+:   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (WACV) 2022
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)
+
+**Voxel Representation Learning in LiDAR-Based Perception** <br/>
+<img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
+&ensp;Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation
+:   &nbsp;&ensp;Xinge Zhu*, Hui Zhou*, **Tai Wang**, Fangzhou Hong, Yuexin Ma, Wei Li, Hongsheng Li and Dahua Lin
+:   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021, Oral
+:   &nbsp;&ensp;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021
+:   &nbsp;&ensp;[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Cylindrical_and_Asymmetrical_3D_Convolution_Networks_for_LiDAR_Segmentation_CVPR_2021_paper.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/Cylinder3D)&nbsp;[\[TPAMI version\]](https://ieeexplore.ieee.org/document/9495168)
+
+<img src="../images/reconfig.png" width = "180" height = "110" alt="reconfig" align="left" />
+&ensp;Reconfigurable Voxels: A New Representation for LiDAR-Based Point Clouds
+:   &nbsp;&ensp;**Tai Wang**, Xinge Zhu and Dahua Lin
+:   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2020
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)
+
+<img src="../images/ssn.png" width = "180" height = "110" alt="ssn" align="left" />
+&ensp;SSN: Shape Signature Networks for Object Detection from Point Clouds.
+:   &nbsp;&ensp;Xinge Zhu, Yuexin Ma, **Tai Wang**, Yan Xu, Jianping Shi and Dahua Lin,
+:   &nbsp;&ensp;European Conference on Computeer Vision (ECCV) 2020
+:   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)
+
+**Efficient Annotation of LiDAR Point Clouds** <br/>
 <img src="../images/flava.gif" width = "180" height = "110" alt="flava" align="left" />
-&ensp;FLAVA: An Annotation Pipeline for LiDAR Point Clouds
+&ensp;FLAVA: Find, Localize, Adjust and Verify to Annotate LiDAR-based Point Clouds
 :   &nbsp;&ensp;A systematic pipeline with a customized UI for LiDAR points annotation
 :   &nbsp;&ensp;**Tai Wang**, Conghui He, Zhe Wang, Jianping Shi and Dahua Lin
 :   &nbsp;&ensp;ACM Symposium on User Interface Software and Technology (**UIST**) 2020, Poster
 :   &nbsp;&ensp;[\[Full tech report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Poster Summary\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)
 
+Research Projects
+----------
 <img src="../images/mmdet3d.gif" width = "110" height = "110" alt="mmdet3d" align="left" />
 &ensp;MMDetection3D: The Next Generation Platform for General 3D detection
 :   &nbsp;&ensp;A versatile, open-source 3D object detection toolbox based on PyTorch
