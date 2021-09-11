@@ -104,22 +104,22 @@ Experience
 ----------
 <img src="../images/shlab.jpg" width = "80" height = "90" alt="shlab" align="left" />
 &ensp;Adjunct Researcher, Sensetime & Visiting Scholar, Shanghai AI Laboratory
-:   &nbsp;&ensp;July 2020 - June 2021 & July 2021 - Now. Advisor: Jiangmiao Pang, Kai Chen
+:   &nbsp;&ensp;July 2020 - June 2021 & July 2021 - Now. &ensp;Advisor: Jiangmiao Pang, Kai Chen
 :   &nbsp;&ensp;Focus: The next-generation platform for general 3D object detection
 
 <img src="../images/sensetime.jpg" width = "80" height = "90" alt="sensetime" align="left" />
 &ensp;Adjunct Researcher, Sensetime
-:   &nbsp;&ensp;Nov. 2019 - June 2020. Advisor: Conghui He, Zhe Wang, Jianping Shi
+:   &nbsp;&ensp;Nov. 2019 - June 2020. &ensp;Advisor: Conghui He, Zhe Wang, Jianping Shi
 :   &nbsp;&ensp;Focus: Efficient annotation of LiDAR point clouds, development of LiDAR perception system
 
 <img src="../images/cuhk.png" width = "80" height = "90" alt="cuhk" align="left" />
 &ensp;Junior Research Assistant, The Chinese University of Hong Kong (CUHK)
-:   &nbsp;&ensp;Feb. 2019 - May 2020. Advisor: Dahua Lin
+:   &nbsp;&ensp;Feb. 2019 - May 2020. &ensp;Advisor: Dahua Lin
 :   &nbsp;&ensp;Focus: Real-time 3D object detection in autonomous driving
 
 <img src="../images/AZFT.png" width = "80" height = "90" alt="AZFT" align="left" />
 &ensp;Research Intern, Alibaba-ZJU Joint Institute of Frontier Technologies (AZFT)
-:   &nbsp;&ensp;Dec. 2017 - June 2019. Advisor: Zicheng Liao, Gang Wang
+:   &nbsp;&ensp;Dec. 2017 - June 2019. &ensp;Advisor: Zicheng Liao, Gang Wang
 :   &nbsp;&ensp;Focus: Joint analysis of 2D Images and 3D Shapes, machine learning approaches
 
 Selected Awards
