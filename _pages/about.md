@@ -28,8 +28,8 @@ Publications
 ----------
 **Vision-Only 3D Detection** <br/>
 <img src="../images/PGD.png" width = "180" height = "110" alt="pgd" align="left" />
-&ensp;
-:   &nbsp;&ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
+&ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
+:   &nbsp;&ensp;Monocular 3D Detection can be reduced to an instance depth estimation problem
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang and Dahua Lin
 :   &nbsp;&ensp;In submission
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)
