@@ -46,8 +46,8 @@ Publications
 :   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma,
 :   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (WACV) 2022
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)
-----------
 
+----------
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
 <img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
 &ensp;Cylindrical and Asymmetrical 3D Convolution Networks for
@@ -68,8 +68,8 @@ Publications
 :   &nbsp;&ensp;Xinge Zhu, Yuexin Ma, **Tai Wang**, Yan Xu, Jianping Shi and Dahua Lin,
 :   &nbsp;&ensp;European Conference on Computeer Vision (ECCV) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)
-----------
 
+----------
 **Efficient Annotation of LiDAR Point Clouds** <br/>
 <img src="../images/flava.gif" width = "180" height = "110" alt="flava" align="left" />
 &ensp;FLAVA: Find, Localize, Adjust and Verify to Annotate LiDAR-based Point Clouds
