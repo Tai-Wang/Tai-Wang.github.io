@@ -50,8 +50,7 @@ Publications
 ----------
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
 <img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
-&ensp;Cylindrical and Asymmetrical 3D Convolution Networks for
-&ensp;LiDAR Segmentation
+&ensp;Cylindrical and Asymmetrical 3D Convolution Networks for <br/> &ensp;LiDAR Segmentation
 :   &nbsp;&ensp;Xinge Zhu*, Hui Zhou*, **Tai Wang**, Fangzhou Hong, Yuexin Ma, Wei Li, Hongsheng Li and Dahua Lin
 :   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021, Oral
 :   &nbsp;&ensp;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021
