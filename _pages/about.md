@@ -43,7 +43,7 @@ Publications
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)
 
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
-&ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D <br/> &ensp;Object Detection
+&ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;IEEE International Conference on Computer Vision Workshop (ICCVW) 2021
 :   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, NeurIPS 2020
@@ -58,7 +58,7 @@ Publications
 ----------
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
 <img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
-&ensp;Cylindrical and Asymmetrical 3D Convolution Networks for <br/> &ensp;LiDAR Segmentation
+&ensp;Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation
 :   &nbsp;&ensp;Xinge Zhu\*, Hui Zhou\*, **Tai Wang**, Fangzhou Hong, Yuexin Ma, Wei Li, Hongsheng Li, Dahua Lin
 :   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021, Oral
 :   &nbsp;&ensp;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021
