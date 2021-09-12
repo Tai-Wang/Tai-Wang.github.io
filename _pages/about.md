@@ -102,7 +102,7 @@ Research Projects
 
 Experience
 ----------
-<img src="../images/shlab.jpg" width = "80" height = "90" alt="shlab" align="left" />
+<img src="../images/shlab.jpg" width = "80" height = "85" alt="shlab" align="left" />
 &ensp;Adjunct Researcher, Sensetime & Visiting Scholar, Shanghai AI Laboratory
 :   &nbsp;&ensp;July 2020 - June 2021 & July 2021 - Now. &nbsp;Advisor: Jiangmiao Pang, Kai Chen
 :   &nbsp;&ensp;Focus: The next-generation platform for general 3D object detection
