@@ -70,7 +70,7 @@ Publications
 :   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)
 
-<img src="../images/SSN.png" width = "180" height = "100" alt="ssn" align="left" />
+<img src="../images/SSN.png" width = "180" height = "90" alt="ssn" align="left" />
 &ensp;SSN: Shape Signature Networks for Object Detection from Point Clouds
 :   &nbsp;&ensp;Xinge Zhu, Yuexin Ma, **Tai Wang**, Yan Xu, Jianping Shi, Dahua Lin,
 :   &nbsp;&ensp;European Conference on Computeer Vision (ECCV) 2020
