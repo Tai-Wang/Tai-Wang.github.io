@@ -65,7 +65,7 @@ Publications
 :   &nbsp;&ensp;[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Cylindrical_and_Asymmetrical_3D_Convolution_Networks_for_LiDAR_Segmentation_CVPR_2021_paper.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/Cylinder3D)&nbsp;[\[TPAMI version\]](https://ieeexplore.ieee.org/document/9495168)
 
 <img src="../images/reconfig.png" width = "180" height = "110" alt="reconfig" align="left" />
-&ensp;Reconfigurable Voxels: A New Representation for LiDAR-Based <br/> &ensp;Point Clouds
+&ensp;Reconfigurable Voxels: A New Representation for LiDAR-Based Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)
