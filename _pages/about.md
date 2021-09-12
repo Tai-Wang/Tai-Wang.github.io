@@ -71,7 +71,7 @@ Publications
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)
 
 <img src="../images/SSN.png" width = "180" height = "110" alt="ssn" align="left" />
-&ensp;SSN: Shape Signature Networks for Object Detection from <br/> &ensp;Point Clouds
+&ensp;SSN: Shape Signature Networks for Object Detection from Point Clouds
 :   &nbsp;&ensp;Xinge Zhu, Yuexin Ma, **Tai Wang**, Yan Xu, Jianping Shi, Dahua Lin,
 :   &nbsp;&ensp;European Conference on Computeer Vision (ECCV) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)
@@ -137,7 +137,7 @@ Teaching
 ----------
 - Computer Vision (Undergraduate Course), Winter 2018 @ ZJU
 - IERG2080: Introduction to Systems Programming, Fall 2020 @ CUHK
-- ESTR2308: Probability Models and Applications (Elite Students), Spring 2021 @ CUHK
+- IERG2470B/ESTR2308: Probability Models and Applications (Elite Students), Spring 2021 @ CUHK
 
 Miscellaneous
 ----------
