@@ -16,7 +16,7 @@ News
 - Our further research on voxel representation learning, [Cylinder3D](https://arxiv.org/abs/2011.10033), is accepted by CVPR 2021! We also obtained the runner-up in the nuScenes LiDAR Segmentation Challenge.
 - MMDet3D Team wins the Best PKL Award and best vision-only results in the 3rd nuScenes detection challenge of 5th AI Driving Olympics, NeurIPS 2020.
 - We release our full technical report for our previously developed LiDAR annotation tool, [FLAVA](https://arxiv.org/abs/2011.10174).
-- Our work [Reconfigurable Voxels](https://arxiv.org/abs/2004.02724) is accepted to CoRL 2020.
+- [Reconfigurable Voxels](https://arxiv.org/abs/2004.02724) is accepted to CoRL 2020.
 - [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) is finally released! Fork this versatile codebase and have a try, pushing forward this field to general 3D detection together.
 
 Education
