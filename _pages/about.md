@@ -12,7 +12,8 @@ I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Labora
 
 News
 ----------
-- [FCOS3D](https://arxiv.org/abs/2104.10956) and its follow-up work [PGD](https://arxiv.org/abs/2107.14160) are released.
+- [PGD](https://arxiv.org/abs/2107.14160), our follow-up work of FCOS3D, is accepted by CoRL 2021!
+- The [report](https://arxiv.org/abs/2104.10956) and [code](https://github.com/open-mmlab/mmdetection3d/tree/master/configs/fcos3d) of FCOS3D are released.
 - Our further research on voxel representation learning, [Cylinder3D](https://arxiv.org/abs/2011.10033), is accepted by CVPR 2021! We also obtained the runner-up in the nuScenes LiDAR Segmentation Challenge.
 - MMDet3D Team wins the Best PKL Award and best vision-only results in the 3rd nuScenes detection challenge of 5th AI Driving Olympics, NeurIPS 2020.
 - We release our full technical report for our previously developed LiDAR annotation tool, [FLAVA](https://arxiv.org/abs/2011.10174).
