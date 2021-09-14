@@ -120,7 +120,7 @@ Experience
 <img src="../images/AZFT.png" width = "80" height = "90" alt="AZFT" align="left" />
 &ensp;Research Intern, Alibaba-ZJU Joint Institute of Frontier Technologies (AZFT)
 :   &nbsp;&ensp;Dec. 2017 - June 2019. &nbsp;Advisor: Zicheng Liao, Gang Wang
-:   &nbsp;&ensp;Focus: Joint analysis of 2D Images and 3D Shapes, machine learning approaches
+:   &nbsp;&ensp;Focus: Joint analysis of 2D Images and 3D Shapes with machine learning approaches
 
 Selected Awards
 ----------
