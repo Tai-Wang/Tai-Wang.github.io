@@ -38,7 +38,7 @@ Publications
 <img src="../images/PGD.png" width = "180" height = "110" alt="pgd" align="left" />
 &ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;In submission
+:   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2021
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)
 
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
