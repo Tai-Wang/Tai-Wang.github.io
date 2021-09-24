@@ -50,7 +50,7 @@ Publications
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)
 
 <img src="../images/SIDE.png" width = "180" height = "110" alt="side" align="left" />
-&ensp;SIDE: Center-based Stereo 3D Detector with Structure-aware <br/> &ensp;Instance Depth Estimation
+&ensp;SIDE: Center-Based Stereo 3D Detector with Structure-Aware <br/> &ensp;Instance Depth Estimation
 :   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma,
 :   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (WACV) 2022
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)
