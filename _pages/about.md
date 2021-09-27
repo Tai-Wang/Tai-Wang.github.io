@@ -40,20 +40,20 @@ Publications
 &ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2021
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lDnsLl0vm6gi4_XhKj-4IuEnE6LwuQRe/view?usp=sharing)
 
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
 &ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;IEEE International Conference on Computer Vision Workshop (ICCVW) 2021
 :   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, NeurIPS 2020
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/13Qv40nhOUZKenpK5FEbc0fw-IsLnEW2r/view?usp=sharing)
 
 <img src="../images/SIDE.png" width = "180" height = "110" alt="side" align="left" />
 &ensp;SIDE: Center-Based Stereo 3D Detector with Structure-Aware <br/> &ensp;Instance Depth Estimation
-:   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma,
+:   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma
 :   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (WACV) 2022
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/15FIrYx6HfrX6ijghlbdSk6itN1BQ-wgj/view?usp=sharing)
 
 ----------
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
@@ -62,19 +62,19 @@ Publications
 :   &nbsp;&ensp;Xinge Zhu\*, Hui Zhou\*, **Tai Wang**, Fangzhou Hong, Yuexin Ma, Wei Li, Hongsheng Li, Dahua Lin
 :   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021, Oral
 :   &nbsp;&ensp;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021
-:   &nbsp;&ensp;[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Cylindrical_and_Asymmetrical_3D_Convolution_Networks_for_LiDAR_Segmentation_CVPR_2021_paper.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/Cylinder3D)&nbsp;[\[TPAMI version\]](https://ieeexplore.ieee.org/document/9495168)
+:   &nbsp;&ensp;[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Cylindrical_and_Asymmetrical_3D_Convolution_Networks_for_LiDAR_Segmentation_CVPR_2021_paper.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/Cylinder3D)&nbsp;[\[TPAMI version\]](https://ieeexplore.ieee.org/document/9495168)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1AiNyWAdGG4vcljsuzByeivjcLG8BtK_o/view?usp=sharing)
 
 <img src="../images/reconfig.png" width = "180" height = "110" alt="reconfig" align="left" />
 &ensp;Reconfigurable Voxels: A New Representation for LiDAR-Based <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2020
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1VcsRhtlcbUiFjmqYNu1ertL6REq5RlBT/view?usp=sharing)
 
 <img src="../images/SSN.png" width = "180" height = "110" alt="ssn" align="left" />
 &ensp;SSN: Shape Signature Networks for Object Detection from <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;Xinge Zhu, Yuexin Ma, **Tai Wang**, Yan Xu, Jianping Shi, Dahua Lin,
 :   &nbsp;&ensp;European Conference on Computeer Vision (ECCV) 2020
-:   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)
+:   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1ABoEED_6JNGf8cvAiCIn_F3AcqwlOdnp/view?usp=sharing)
 
 ----------
 **Efficient Annotation of LiDAR Point Clouds** <br/>
@@ -82,7 +82,7 @@ Publications
 &ensp;FLAVA: Find, Localize, Adjust and Verify to Annotate LiDAR-based <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Conghui He, Zhe Wang, Jianping Shi, Dahua Lin
 :   &nbsp;&ensp;ACM Symposium on User Interface Software and Technology (**UIST**) 2020, Poster
-:   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)
+:   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lA8zX8cEEFT43CXDkVcsEdvpHBpg7cBY/view?usp=sharing)
 
 Research Projects
 ----------
@@ -91,7 +91,7 @@ Research Projects
 :   &nbsp;&ensp;A versatile, open-source 3D object detection toolbox based on PyTorch
 :   &nbsp;&ensp;MMDetection3D Contributors
 :   &nbsp;&ensp;May 2020 – Now
-:   &nbsp;&ensp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Doc\]](https://mmdetection3d.readthedocs.io/en/latest/)
+:   &nbsp;&ensp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Doc\]](https://mmdetection3d.readthedocs.io/en/latest/)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1X24zBeM0dwol10CcKSN_SkIolhopsA85/view?usp=sharing)
 
 <img src="../images/s2mesh.png" width = "110" height = "110" alt="s2mesh" align="left" />
 &ensp;Spherical Convolutional Networks for 3D Mesh Processing
