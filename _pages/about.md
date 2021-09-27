@@ -82,7 +82,7 @@ Publications
 &ensp;FLAVA: Find, Localize, Adjust and Verify to Annotate LiDAR-based <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Conghui He, Zhe Wang, Jianping Shi, Dahua Lin
 :   &nbsp;&ensp;ACM Symposium on User Interface Software and Technology (**UIST**) 2020, Poster
-:   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Poster Summary\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)
+:   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)
 
 Research Projects
 ----------
