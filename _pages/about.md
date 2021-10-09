@@ -17,7 +17,7 @@ News
 - The [report](https://arxiv.org/abs/2104.10956) and [code](https://github.com/open-mmlab/mmdetection3d/tree/master/configs/fcos3d) of FCOS3D are released.
 - Our further research on voxel representation learning, [Cylinder3D](https://arxiv.org/abs/2011.10033), is accepted by [CVPR 2021](https://cvpr2021.thecvf.com/). We also obtained the runner-up in the [nuScenes LiDAR Segmentation Challenge](https://www.nuscenes.org/lidar-segmentation?externalData=all&mapData=all&modalities=Any).
 - MMDet3D Team wins the Best PKL Award and best vision-only results in the 3rd [nuScenes detection challenge](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any) of 5th AI Driving Olympics, [NeurIPS 2020](https://nips.cc/).
-- We release our full technical report for our previously developed LiDAR annotation tool, [FLAVA](https://arxiv.org/abs/2011.10174).
+- We release the full technical report for our previously developed LiDAR annotation tool, [FLAVA](https://arxiv.org/abs/2011.10174).
 - [Reconfigurable Voxels](https://arxiv.org/abs/2004.02724) is accepted to [CoRL 2020](https://sites.google.com/robot-learning.org/corl2020).
 - [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) is finally released! Fork this versatile codebase and have a try, pushing forward this field to general 3D detection together.
 
@@ -40,20 +40,20 @@ Publications
 <img src="../images/PGD.png" width = "180" height = "110" alt="pgd" align="left" />
 &ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2021
+:   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2021
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lDnsLl0vm6gi4_XhKj-4IuEnE6LwuQRe/view?usp=sharing)
 
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
 &ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;IEEE International Conference on Computer Vision Workshop (ICCVW) 2021
-:   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, NeurIPS 2020
+:   &nbsp;&ensp;IEEE International Conference on Computer Vision Workshop (**ICCVW**) 2021
+:   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, **NeurIPS** 2020
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/13Qv40nhOUZKenpK5FEbc0fw-IsLnEW2r/view?usp=sharing)
 
 <img src="../images/SIDE.png" width = "180" height = "110" alt="side" align="left" />
 &ensp;SIDE: Center-Based Stereo 3D Detector with Structure-Aware <br/> &ensp;Instance Depth Estimation
 :   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma
-:   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (WACV) 2022
+:   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (**WACV**) 2022
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/15FIrYx6HfrX6ijghlbdSk6itN1BQ-wgj/view?usp=sharing)
 
 ----------
@@ -61,20 +61,20 @@ Publications
 <img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
 &ensp;Cylindrical and Asymmetrical 3D Convolution Networks for <br/> &ensp;LiDAR Segmentation
 :   &nbsp;&ensp;Xinge Zhu\*, Hui Zhou\*, **Tai Wang**, Fangzhou Hong, Yuexin Ma, Wei Li, Hongsheng Li, Dahua Lin
-:   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021, Oral
-:   &nbsp;&ensp;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021
+:   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021, Oral
+:   &nbsp;&ensp;IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2021
 :   &nbsp;&ensp;[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Cylindrical_and_Asymmetrical_3D_Convolution_Networks_for_LiDAR_Segmentation_CVPR_2021_paper.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/Cylinder3D)&nbsp;[\[TPAMI version\]](https://ieeexplore.ieee.org/document/9495168)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1AiNyWAdGG4vcljsuzByeivjcLG8BtK_o/view?usp=sharing)
 
 <img src="../images/reconfig.png" width = "180" height = "110" alt="reconfig" align="left" />
 &ensp;Reconfigurable Voxels: A New Representation for LiDAR-Based <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Dahua Lin
-:   &nbsp;&ensp;Conference on Robot Learning (CoRL) 2020
+:   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1VcsRhtlcbUiFjmqYNu1ertL6REq5RlBT/view?usp=sharing)
 
 <img src="../images/SSN.png" width = "180" height = "110" alt="ssn" align="left" />
 &ensp;SSN: Shape Signature Networks for Object Detection from <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;Xinge Zhu, Yuexin Ma, **Tai Wang**, Yan Xu, Jianping Shi, Dahua Lin,
-:   &nbsp;&ensp;European Conference on Computeer Vision (ECCV) 2020
+:   &nbsp;&ensp;European Conference on Computeer Vision (**ECCV**) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1ABoEED_6JNGf8cvAiCIn_F3AcqwlOdnp/view?usp=sharing)
 
 ----------
