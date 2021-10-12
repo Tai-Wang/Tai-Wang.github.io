@@ -12,6 +12,7 @@ I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Labora
 
 News
 ----------
+- [FCOS3D] got the best paper award on the ICCV 3DODI workshop! Thanks for the recoginition of organizers!
 - One paper is accepted by [NeurIPS 2021](https://nips.cc/).
 - [PGD](https://arxiv.org/abs/2107.14160), our follow-up work of FCOS3D, is accepted by [CoRL 2021](https://www.robot-learning.org/).
 - The [report](https://arxiv.org/abs/2104.10956) and [code](https://github.com/open-mmlab/mmdetection3d/tree/master/configs/fcos3d) of FCOS3D are released.
@@ -46,7 +47,7 @@ Publications
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
 &ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;IEEE International Conference on Computer Vision Workshop (**ICCVW**) 2021
+:   &nbsp;&ensp;IEEE International Conference on Computer Vision Workshop (**ICCVW**) 2021, **Best Paper**
 :   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, **NeurIPS** 2020
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/13Qv40nhOUZKenpK5FEbc0fw-IsLnEW2r/view?usp=sharing)
 
