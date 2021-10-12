@@ -47,7 +47,7 @@ Publications
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
 &ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;ICCV Workshop on 3D Object Detection from Images (**ICCVW**) 2021, **Best Paper**
+:   &nbsp;&ensp;ICCV Workshop on 3D Object Detection from Images (**ICCVW**) 2021, <font color=#8B4513>Best Paper Award</font>
 :   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, **NeurIPS** 2020
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/13Qv40nhOUZKenpK5FEbc0fw-IsLnEW2r/view?usp=sharing)
 
