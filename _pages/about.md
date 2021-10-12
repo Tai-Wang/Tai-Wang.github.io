@@ -12,7 +12,7 @@ I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Labora
 
 News
 ----------
-- [FCOS3D] got the best paper award on the ICCV 3DODI workshop! Thanks for the recoginition of organizers!
+- [FCOS3D](https://arxiv.org/abs/2104.10956) got the best paper award on the ICCV [3DODI workshop](https://sites.google.com/unitn.it/3dodi/home)! Thanks for the recoginition of organizers!
 - One paper is accepted by [NeurIPS 2021](https://nips.cc/).
 - [PGD](https://arxiv.org/abs/2107.14160), our follow-up work of FCOS3D, is accepted by [CoRL 2021](https://www.robot-learning.org/).
 - The [report](https://arxiv.org/abs/2104.10956) and [code](https://github.com/open-mmlab/mmdetection3d/tree/master/configs/fcos3d) of FCOS3D are released.
