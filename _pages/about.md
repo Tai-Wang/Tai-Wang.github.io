@@ -12,15 +12,14 @@ I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Labora
 
 News
 ----------
-- [FCOS3D](https://arxiv.org/abs/2104.10956) got the best paper award on the [ICCV 3DODI workshop](https://sites.google.com/unitn.it/3dodi/home)! Thanks for the recoginition!
-- One paper is accepted by [NeurIPS 2021](https://nips.cc/).
-- [PGD](https://arxiv.org/abs/2107.14160), our follow-up work of FCOS3D, is accepted by [CoRL 2021](https://www.robot-learning.org/).
-- The [report](https://arxiv.org/abs/2104.10956) and [code](https://github.com/open-mmlab/mmdetection3d/tree/master/configs/fcos3d) of FCOS3D are released.
-- Our further research on voxel representation learning, [Cylinder3D](https://arxiv.org/abs/2011.10033), is accepted by [CVPR 2021](https://cvpr2021.thecvf.com/). We also obtained the runner-up in the [nuScenes LiDAR Segmentation Challenge](https://www.nuscenes.org/lidar-segmentation?externalData=all&mapData=all&modalities=Any).
-- MMDet3D Team wins the Best PKL Award and best vision-only results in the 3rd [nuScenes detection challenge](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any) of 5th AI Driving Olympics, [NeurIPS 2020](https://nips.cc/).
-- We release the full technical report for our previously developed LiDAR annotation tool, [FLAVA](https://arxiv.org/abs/2011.10174).
-- [Reconfigurable Voxels](https://arxiv.org/abs/2004.02724) is accepted to [CoRL 2020](https://sites.google.com/robot-learning.org/corl2020).
-- [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) is finally released! Fork this versatile codebase and have a try, pushing forward this field to general 3D detection together.
+- \[2021/10\] [FCOS3D](https://arxiv.org/abs/2104.10956) got the best paper award on the [ICCV 3DODI workshop](https://sites.google.com/unitn.it/3dodi/home)! Thanks for the recognition!
+- \[2021/09\] One paper is accepted by [NeurIPS 2021](https://nips.cc/).
+- \[2021/09\] [PGD](https://arxiv.org/abs/2107.14160), our follow-up work of FCOS3D, is accepted by [CoRL 2021](https://www.robot-learning.org/).
+- \[2021/02\] Our further research on voxel representation learning, [Cylinder3D](https://arxiv.org/abs/2011.10033), is accepted by [CVPR 2021](https://cvpr2021.thecvf.com/). We also obtained the runner-up in the [nuScenes LiDAR Segmentation Challenge](https://www.nuscenes.org/lidar-segmentation?externalData=all&mapData=all&modalities=Any).
+- \[2020/12\] MMDet3D Team wins the Best PKL Award and best vision-only results in the 3rd [nuScenes detection challenge](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any) of 5th AI Driving Olympics, [NeurIPS 2020](https://nips.cc/).
+- \[2020/11\] We release the full technical report for our previously developed LiDAR annotation tool, [FLAVA](https://arxiv.org/abs/2011.10174).
+- \[2020/10\] [Reconfigurable Voxels](https://arxiv.org/abs/2004.02724) is accepted to [CoRL 2020](https://sites.google.com/robot-learning.org/corl2020).
+- \[2020/07\] [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) is finally released! Fork this versatile codebase and have a try, pushing forward this field to general 3D detection together.
 
 Education
 ----------
