@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Laboratory), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by [Dahua Lin](http://dahua.site/). Previously I spent four wonderful years and obtained my Bachelor's Degree at [Zhejiang University](https://www.zju.edu.cn/english/). I am excited about all the vision or AI technologies that can really change people's lifestyle, for example, building intelligent agents that can interact with us. My current research is mainly focused on general 3D perception, including different modalities, tasks and scenarios. I am also interested in other 3D vision tasks, such as 3D mesh generation, point cloud completion and general 3D representation learning.
+I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Laboratory), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by [Dahua Lin](http://dahua.site/). Previously I spent four wonderful years and obtained my Bachelor's Degree at [Zhejiang University](https://www.zju.edu.cn/english/). I am excited about all the vision or AI technologies that can change people's lifestyles, for example, building intelligent agents that can interact with us. My current research is mainly focused on general 3D perception, including different modalities, tasks and scenarios. I am also interested in other extensive 3D vision research and their robotic applications.
 
 News
 ----------
