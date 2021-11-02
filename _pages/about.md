@@ -41,7 +41,7 @@ Publications
 &ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2021
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d) (To be released)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lDnsLl0vm6gi4_XhKj-4IuEnE6LwuQRe/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Poster\]](https://openreview.net/attachment?id=bEito8UUUmf&name=poster)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lDnsLl0vm6gi4_XhKj-4IuEnE6LwuQRe/view?usp=sharing)
 
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
 &ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
