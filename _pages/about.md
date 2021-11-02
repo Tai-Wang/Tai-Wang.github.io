@@ -115,7 +115,7 @@ Experience
 
 <img src="../images/cuhk.png" width = "80" height = "90" alt="cuhk" align="left" />
 &ensp;Junior Research Assistant, The Chinese University of Hong Kong (CUHK)
-:   &nbsp;&ensp;Feb. 2019 - May 2020. &nbsp;Advisor: Dahua Lin
+:   &nbsp;&ensp;Feb. 2019 - May 2019. &nbsp;Advisor: Dahua Lin
 :   &nbsp;&ensp;Focus: Real-time 3D object detection in autonomous driving
 
 <img src="../images/AZFT.png" width = "80" height = "90" alt="AZFT" align="left" />
