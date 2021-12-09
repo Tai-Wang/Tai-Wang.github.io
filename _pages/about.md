@@ -54,7 +54,7 @@ Publications
 &ensp;SIDE: Center-Based Stereo 3D Detector with Structure-Aware <br/> &ensp;Instance Depth Estimation
 :   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma
 :   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (**WACV**) 2022
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/15FIrYx6HfrX6ijghlbdSk6itN1BQ-wgj/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)&nbsp;[\[Code\]](https://github.com/linmo2333/SIDE)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/15FIrYx6HfrX6ijghlbdSk6itN1BQ-wgj/view?usp=sharing)
 
 ----------
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
@@ -84,6 +84,14 @@ Publications
 :   &nbsp;&ensp;**Tai Wang**, Conghui He, Zhe Wang, Jianping Shi, Dahua Lin
 :   &nbsp;&ensp;ACM Symposium on User Interface Software and Technology (**UIST**) 2020, Poster
 :   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lA8zX8cEEFT43CXDkVcsEdvpHBpg7cBY/view?usp=sharing)
+
+----------
+**3D Generation and Reconstruction** <br/>
+<img src="../images/DCD.png" width = "180" height = "110" alt="dcd" align="left" />
+&ensp;Density-aware Chamfer Distance as a Comprehensive Metric for <br/> &ensp;Point Cloud Completion
+:   &nbsp;&ensp;Tong Wu, Liang Pan, Junzhe Zhang, **Tai Wang**, Ziwei Liu, Dahua Lin
+:   &nbsp;&ensp;Advances in Neural Information Processing Systems (**NeurIPS**), 2021
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2111.12702)&nbsp;[\[Code\]](https://github.com/wutong16/Density_aware_Chamfer_Distance)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1UToOE543--hzBF-FEnqj_xUwdPUdpNfZ/view?usp=sharing)
 
 Research Projects
 ----------
