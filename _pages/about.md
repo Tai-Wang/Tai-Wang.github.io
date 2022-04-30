@@ -96,7 +96,7 @@ Publications
 Research Projects
 ----------
 <img src="../images/mmdet3d.gif" width = "110" height = "110" alt="mmdet3d" align="left" />
-&ensp;MMDetection3D: The Next Generation Platform for General 3D detection
+&ensp;MMDetection3D: The Next-Generation Platform for General 3D detection
 :   &nbsp;&ensp;A versatile, open-source 3D object detection toolbox based on PyTorch
 :   &nbsp;&ensp;MMDetection3D Contributors
 :   &nbsp;&ensp;May 2020 – Now
@@ -114,7 +114,7 @@ Experience
 <img src="../images/shlab.jpg" width = "80" height = "85" alt="shlab" align="left" />
 &ensp;Visiting Scholar, Shanghai AI Laboratory
 :   &nbsp;&ensp;July 2020 - Now. &nbsp;Advisor: Jiangmiao Pang, Kai Chen
-:   &nbsp;&ensp;Focus: The next-generation platform for general 3D object detection
+:   &nbsp;&ensp;Focus: The next-generation platform for general 3D perception
 
 <img src="../images/sensetime.jpg" width = "80" height = "90" alt="sensetime" align="left" />
 &ensp;Adjunct Researcher, Sensetime
