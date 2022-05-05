@@ -152,7 +152,7 @@ Teaching
 Miscellaneous
 ----------
 **Academic Services** <br/>
-I served as a reviewer for CVPR, ICCV, ECCV, NeurIPS, ICLR, WACV.
+I served as a reviewer for CVPR, ICCV, ECCV, NeurIPS, ICLR, CoRL, WACV.
 
 **Hobbies** <br/>
 Love: 🏀Basketball (I am a big fan of [Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry) and [Tracy McGrady](https://en.wikipedia.org/wiki/Tracy_McGrady)), 🎵music/🎤singing and good at 🖌️Chinese calligraphy (learned from [MA Liangchen](https://baike.baidu.com/item/%E9%A9%AC%E8%89%AF%E8%BE%B0/5438872) and [MA Shanshuang](https://baike.baidu.com/item/%E9%A9%AC%E5%96%84%E5%8F%8C/5954206)).
