@@ -39,7 +39,7 @@ Education
 Publications
 ----------
 **Vision-Only 3D Detection** <br/>
-<img src="../images/DfM.png" width = "180" height = "100" alt="dfm" align="left" />
+<img src="../images/DfM.png" width = "180" height = "110" alt="dfm" align="left" />
 &ensp;Monocular 3D Object Detection with Depth from Motion
 :   &nbsp;&ensp;**Tai Wang**, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2022
