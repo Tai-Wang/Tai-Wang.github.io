@@ -51,6 +51,7 @@ Publications
 :   &nbsp;&ensp;Runner-up solution of in the Waymo Camera-Only 3D detection challenge, **CVPR** 2022
 :   &nbsp;&ensp;[\[Preliminary Tech Report\]](https://storage.googleapis.com/waymo-uploads/files/research/3DCam/3DCam_FCOS3D.pdf);\[Code\] (Coming Soon)
 
+<img src="../images/PGD.png" width = "180" height = "110" alt="pgd" align="left" />
 &ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2021
