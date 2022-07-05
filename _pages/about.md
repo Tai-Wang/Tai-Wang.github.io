@@ -12,6 +12,8 @@ I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Labora
 
 News
 ----------
+- \[2022/07\] DfM, our recent study on 3D perception from monocular videos, is accepted by [ECCV 2022](https://eccv2022.ecva.net/). Paper and code will be available soon!
+- \[2022/06\] A simple multi-view baseline, MV-FCOS3D++, obtained the runner-up in the [Waymo Camera-Only 3D Detection Challenge](https://cvpr2022.wad.vision/) with very few bells-and-whistles. Code will be available soon. Please stay tuned. 
 - \[2021/10\] [FCOS3D](https://arxiv.org/abs/2104.10956) got the best paper award on the [ICCV 3DODI workshop](https://sites.google.com/unitn.it/3dodi/home)! Thanks for the recognition!
 - \[2021/09\] One paper is accepted by [NeurIPS 2021](https://nips.cc/).
 - \[2021/09\] [PGD](https://arxiv.org/abs/2107.14160), our follow-up work of FCOS3D, is accepted by [CoRL 2021](https://www.robot-learning.org/).
@@ -37,7 +39,18 @@ Education
 Publications
 ----------
 **Vision-Only 3D Detection** <br/>
-<img src="../images/PGD.png" width = "180" height = "110" alt="pgd" align="left" />
+<img src="../images/DfM.png" width = "180" height = "110" alt="dfm" align="left" />
+&ensp;Monocular 3D Object Detection with Depth from Motion
+:   &nbsp;&ensp;**Tai Wang**, Jiangmiao Pang, Dahua Lin
+:   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2022
+:   &nbsp;&ensp;\[Paper\];\[Code\] (Coming Soon)
+
+<img src="../images/MV-FCOS3D.png" width = "180" height = "110" alt="mv-fcos3d" align="left" />
+&ensp;MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection <br/> &ensp;with Pretrained Monocular Backbones
+:   &nbsp;&ensp;**Tai Wang**, Qing Lian, Chenming Zhu, Xinge Zhu, Wenwei Zhang
+:   &nbsp;&ensp;Runner-up solution of in the Waymo Camera-Only 3D detection challenge, **CVPR** 2022
+:   &nbsp;&ensp;[\[Preliminary Tech Report\]](https://storage.googleapis.com/waymo-uploads/files/research/3DCam/3DCam_FCOS3D.pdf);\[Code\] (Coming Soon)
+
 &ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2021
@@ -133,6 +146,7 @@ Experience
 
 Selected Awards
 ----------
+- Runner-up of [Waymo Camera-Only 3D Detection Challenge](https://cvpr2022.wad.vision/), CVPR 2022
 - Best Paper Award of [Workshop on 3D Object Detection from Images](https://sites.google.com/unitn.it/3dodi/home), ICCV 2021
 - 1st place of vision-only track and best PKL award of overall track, [NuScenes 3D Detection Challenge](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any), NeurIPS 2020
 - Runner-up of [NuScenes LiDAR Segmentation Challenge](https://www.nuscenes.org/lidar-segmentation?externalData=all&mapData=all&modalities=Any), NeurIPS 2020
