@@ -12,8 +12,8 @@ I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Labora
 
 News
 ----------
-- \[2022/07\] DfM, our recent study on 3D perception from monocular videos, is accepted by [ECCV 2022](https://eccv2022.ecva.net/). Paper and code will be available soon!
-- \[2022/06\] A simple multi-view baseline, MV-FCOS3D++, obtained the runner-up in the [Waymo Camera-Only 3D Detection Challenge](https://cvpr2022.wad.vision/) with very few bells-and-whistles. Code will be available soon.
+- \[2022/07\] DfM, our recent study on 3D perception from monocular videos, is accepted by [ECCV 2022](https://eccv2022.ecva.net/).
+- \[2022/06\] A simple multi-view baseline, MV-FCOS3D++, obtained the runner-up in the [Waymo Camera-Only 3D Detection Challenge](https://cvpr2022.wad.vision/) with few bells-and-whistles. Code will be available soon.
 - \[2021/10\] [FCOS3D](https://arxiv.org/abs/2104.10956) got the best paper award on the [ICCV 3DODI workshop](https://sites.google.com/unitn.it/3dodi/home)! Thanks for the recognition!
 - \[2021/09\] One paper is accepted by [NeurIPS 2021](https://nips.cc/).
 - \[2021/09\] [PGD](https://arxiv.org/abs/2107.14160), our follow-up work of FCOS3D, is accepted by [CoRL 2021](https://www.robot-learning.org/).
