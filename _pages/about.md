@@ -43,13 +43,13 @@ Publications
 &ensp;Monocular 3D Object Detection with Depth from Motion
 :   &nbsp;&ensp;**Tai Wang**, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2022
-:   &nbsp;&ensp;\[Paper\];\[Code\] (Coming Soon)
+:   &nbsp;&ensp;\[Paper\]\[Code\](Coming Soon)
 
 <img src="../images/MV-FCOS3D.png" width = "180" height = "110" alt="mv-fcos3d" align="left" />
 &ensp;MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection <br/> &ensp;with Pretrained Monocular Backbones
 :   &nbsp;&ensp;**Tai Wang**, Qing Lian, Chenming Zhu, Xinge Zhu, Wenwei Zhang
-:   &nbsp;&ensp;Runner-up solution of in the Waymo Camera-Only 3D detection challenge, **CVPR** 2022
-:   &nbsp;&ensp;[\[Preliminary Tech Report\]](https://storage.googleapis.com/waymo-uploads/files/research/3DCam/3DCam_FCOS3D.pdf);\[Code\] (Coming Soon)
+:   &nbsp;&ensp;Runner-up solution in the Waymo Camera-Only 3D detection challenge, **CVPR** 2022
+:   &nbsp;&ensp;[\[Preliminary Tech Report\]](https://storage.googleapis.com/waymo-uploads/files/research/3DCam/3DCam_FCOS3D.pdf)\[Code\](Coming Soon)
 
 <img src="../images/PGD.png" width = "180" height = "110" alt="pgd" align="left" />
 &ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
