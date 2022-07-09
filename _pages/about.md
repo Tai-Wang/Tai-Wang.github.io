@@ -42,7 +42,7 @@ Publications
 <img src="../images/DfM.png" width = "180" height = "110" alt="dfm" align="left" />
 &ensp;Monocular 3D Object Detection with Depth from Motion
 :   &nbsp;&ensp;**Tai Wang**, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2022
+:   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2022, **Oral**
 :   &nbsp;&ensp;\[Paper\]\[Code\](Coming Soon)
 
 <img src="../images/MV-FCOS3D.png" width = "180" height = "110" alt="mv-fcos3d" align="left" />
@@ -75,7 +75,7 @@ Publications
 <img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
 &ensp;Cylindrical and Asymmetrical 3D Convolution Networks for <br/> &ensp;LiDAR Segmentation
 :   &nbsp;&ensp;Xinge Zhu\*, Hui Zhou\*, **Tai Wang**, Fangzhou Hong, Yuexin Ma, Wei Li, Hongsheng Li, Dahua Lin
-:   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021, Oral
+:   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021, **Oral**
 :   &nbsp;&ensp;IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2021
 :   &nbsp;&ensp;[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Cylindrical_and_Asymmetrical_3D_Convolution_Networks_for_LiDAR_Segmentation_CVPR_2021_paper.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/Cylinder3D)&nbsp;[\[TPAMI version\]](https://ieeexplore.ieee.org/document/9495168)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1AiNyWAdGG4vcljsuzByeivjcLG8BtK_o/view?usp=sharing)
 
