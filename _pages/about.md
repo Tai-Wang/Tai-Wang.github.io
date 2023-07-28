@@ -51,7 +51,7 @@ Publications
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2208.02797)&nbsp;[\[Code\]](https://github.com/4DVLab/Vision-Centric-BEV-Perception)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1sg57-QxoBh5cGgzRbhukiJzCGcV7wIPp/view?usp=sharing)
 
-<img src="../images/occupancy.gif" width = "180" height = "110" alt="occupancy" align="left" />
+<img src="../images/occupancy.png" width = "180" height = "110" alt="occupancy" align="left" />
 &ensp;Scene as Occupancy
 :   &nbsp;&ensp;Chonghao Sima, Wenwen Tong, **Tai Wang**, Li Chen, Silei Wu, Hanming Deng, Yi Gu, Lewei Lu, <br/> &ensp;Ping Luo, Dahua Lin, Hongyang Li
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
