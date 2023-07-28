@@ -60,13 +60,13 @@ Publications
 
 <img src="../images/geomim.png" width = "180" height = "110" alt="geomim" align="left" />
 &ensp;GeoMIM: Towards Better 3D Knowledge Transfer via Masked Image Modeling <br/> &ensp;for Multi-view 3D Understanding
-:   &nbsp;&ensp;Jihao Liu, Tai Wang, Boxiao Liu, Qihang Zhang, Yu Liu, Hongsheng Li
+:   &nbsp;&ensp;Jihao Liu, **Tai Wang**, Boxiao Liu, Qihang Zhang, Yu Liu, Hongsheng Li
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.11325)&nbsp;\[Code\](Comming Soon)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1eNeQuemmt4JWEJhVqMMezorQPqekJDYQ/view?usp=sharing)
 
 <img src="../images/monodetr.png" width = "180" height = "110" alt="monodetr" align="left" />
 &ensp;MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection
-:   &nbsp;&ensp;Renrui Zhang, Han Qiu, Tai Wang, Ziyu Guo, Ziteng Cui, Peng Gao, Yu Qiao, Hongsheng Li
+:   &nbsp;&ensp;Renrui Zhang, Han Qiu, **Tai Wang**, Ziyu Guo, Ziteng Cui, Peng Gao, Yu Qiao, Hongsheng Li
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2203.13310)&nbsp;[\[Code\]](https://github.com/ZrrSkywalker/MonoDETR)&nbsp;[\[Bibtex\]](https://github.com/ZrrSkywalker/MonoDETR)
 
@@ -111,7 +111,7 @@ Publications
 
 <img src="../images/MV-JAR.png" width = "180" height = "110" alt="mvjar" align="left" />
 &ensp;MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based <br/> &ensp;Self-Supervised Pre-Training
-:   &nbsp;&ensp;Runsen Xu, Tai Wang, Wenwei Zhang, Runjian Chen, Jinkun Cao, Jiangmiao Pang, Dahua Lin
+:   &nbsp;&ensp;Runsen Xu, **Tai Wang**, Wenwei Zhang, Runjian Chen, Jinkun Cao, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13510)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/MV-JAR)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1g8krJnOK1Jp_eOtXerggX_GNfETpEkvi/view?usp=sharing)
 
