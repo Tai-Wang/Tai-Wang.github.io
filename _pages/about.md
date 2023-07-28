@@ -40,25 +40,25 @@ Publications
 ----------
 **Vision-Only 3D Detection** <br/>
 <img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
-&ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp; 3D Object Detection and Tracking
+&ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp;3D Object Detection and Tracking
 :   &nbsp;&ensp;Qing Lian, **Tai Wang**, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.16628)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/DORT)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1S4dzWZJH5jvsPiSGqZfXdy9bm12-AW4j/view?usp=sharing)
 
 <img src="../images/bev-survey.png" width = "180" height = "110" alt="bev-survey" align="left" />
 &ensp;Vision-Centric BEV Perception: A Survey
-:   &nbsp;&ensp;Yuexin Ma*, **Tai Wang***, Xuyang Bai*, Huitong Yang, Yuenan Hou, Yaming Wang, Yu Qiao, Ruigang Yang, Dinesh Manocha, Xinge Zhu
+:   &nbsp;&ensp;Yuexin Ma, **Tai Wang**, Xuyang Bai, Huitong Yang, Yuenan Hou, Yaming Wang, <br/> &ensp;Yu Qiao, Ruigang Yang, Dinesh Manocha, Xinge Zhu
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2208.02797)&nbsp;[\[Code\]](https://github.com/4DVLab/Vision-Centric-BEV-Perception)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1sg57-QxoBh5cGgzRbhukiJzCGcV7wIPp/view?usp=sharing)
 
 <img src="../images/occupancy.gif" width = "180" height = "110" alt="occupancy" align="left" />
 &ensp;Scene as Occupancy
-:   &nbsp;&ensp;Chonghao Sima*, Wenwen Tong*, **Tai Wang**, Li Chen, Silei Wu, Hanming Deng, Yi Gu, Lewei Lu, Ping Luo, Dahua Lin, Hongyang Li
+:   &nbsp;&ensp;Chonghao Sima, Wenwen Tong, **Tai Wang**, Li Chen, Silei Wu, Hanming Deng, Yi Gu, Lewei Lu, <br/> &ensp;Ping Luo, Dahua Lin, Hongyang Li
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2306.02851)&nbsp;[\[Code\]](https://github.com/OpenDriveLab/OccNet)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1wxmnCXPBEb6Fc8gjyHtFZxXPZINtaLR_/view?usp=sharing)
 
 <img src="../images/geomim.png" width = "180" height = "110" alt="geomim" align="left" />
-&ensp;GeoMIM: Towards Better 3D Knowledge Transfer via Masked Image Modeling <br/> &ensp; for Multi-view 3D Understanding
+&ensp;GeoMIM: Towards Better 3D Knowledge Transfer via Masked Image Modeling <br/> &ensp;for Multi-view 3D Understanding
 :   &nbsp;&ensp;Jihao Liu, Tai Wang, Boxiao Liu, Qihang Zhang, Yu Liu, Hongsheng Li
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.11325)&nbsp;\[Code\](Comming Soon)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1eNeQuemmt4JWEJhVqMMezorQPqekJDYQ/view?usp=sharing)
@@ -104,12 +104,12 @@ Publications
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
 <img src="../images/p3former.png" width = "180" height = "110" alt="p3former" align="left" />
 &ensp;Position-Guided Point Cloud Panoptic Segmentation Transformer
-:   &nbsp;&ensp;Zeqi Xiao*, Wenwei Zhang*, **Tai Wang***, Chen Change Loy, Dahua Lin, Jiangmiao Pang
+:   &nbsp;&ensp;Zeqi Xiao\*, Wenwei Zhang\*, **Tai Wang\***, Chen Change Loy, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13509)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/P3Former)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1vnWmAdvkGZzVmiBsS_jqA9M0jl6n1eEG/view?usp=sharing)
 
 <img src="../images/MV-JAR.png" width = "180" height = "110" alt="mvjar" align="left" />
-&ensp;MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based Self-Supervised Pre-Training
+&ensp;MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based <br/> &ensp;Self-Supervised Pre-Training
 :   &nbsp;&ensp;Runsen Xu, Tai Wang, Wenwei Zhang, Runjian Chen, Jinkun Cao, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13510)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/MV-JAR)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1g8krJnOK1Jp_eOtXerggX_GNfETpEkvi/view?usp=sharing)
