@@ -39,6 +39,36 @@ Education
 Publications
 ----------
 **Vision-Only 3D Detection** <br/>
+<img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
+&ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp; 3D Object Detection and Tracking
+:   &nbsp;&ensp;Qing Lian, **Tai Wang**, Jiangmiao Pang, Dahua Lin
+:   &nbsp;&ensp;Arxiv preprint
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.16628)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/DORT)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1S4dzWZJH5jvsPiSGqZfXdy9bm12-AW4j/view?usp=sharing)
+
+<img src="../images/bev-survey.png" width = "180" height = "110" alt="bev-survey" align="left" />
+&ensp;Vision-Centric BEV Perception: A Survey
+:   &nbsp;&ensp;Yuexin Ma*, **Tai Wang***, Xuyang Bai*, Huitong Yang, Yuenan Hou, Yaming Wang, Yu Qiao, Ruigang Yang, Dinesh Manocha, Xinge Zhu
+:   &nbsp;&ensp;Arxiv preprint
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2208.02797)&nbsp;[\[Code\]](https://github.com/4DVLab/Vision-Centric-BEV-Perception)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1sg57-QxoBh5cGgzRbhukiJzCGcV7wIPp/view?usp=sharing)
+
+<img src="../images/occupancy.gif" width = "180" height = "110" alt="occupancy" align="left" />
+&ensp;Scene as Occupancy
+:   &nbsp;&ensp;Chonghao Sima*, Wenwen Tong*, **Tai Wang**, Li Chen, Silei Wu, Hanming Deng, Yi Gu, Lewei Lu, Ping Luo, Dahua Lin, Hongyang Li
+:   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2306.02851)&nbsp;[\[Code\]](https://github.com/OpenDriveLab/OccNet)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1wxmnCXPBEb6Fc8gjyHtFZxXPZINtaLR_/view?usp=sharing)
+
+<img src="../images/geomim.png" width = "180" height = "110" alt="geomim" align="left" />
+&ensp;GeoMIM: Towards Better 3D Knowledge Transfer via Masked Image Modeling <br/> &ensp; for Multi-view 3D Understanding
+:   &nbsp;&ensp;Jihao Liu, Tai Wang, Boxiao Liu, Qihang Zhang, Yu Liu, Hongsheng Li
+:   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.11325)&nbsp;\[Code\](Comming Soon)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1eNeQuemmt4JWEJhVqMMezorQPqekJDYQ/view?usp=sharing)
+
+<img src="../images/monodetr.png" width = "180" height = "110" alt="monodetr" align="left" />
+&ensp;MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection
+:   &nbsp;&ensp;Renrui Zhang, Han Qiu, Tai Wang, Ziyu Guo, Ziteng Cui, Peng Gao, Yu Qiao, Hongsheng Li
+:   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2203.13310)&nbsp;[\[Code\]](https://github.com/ZrrSkywalker/MonoDETR)&nbsp;[\[Bibtex\]](https://github.com/ZrrSkywalker/MonoDETR)
+
 <img src="../images/DfM.png" width = "180" height = "110" alt="dfm" align="left" />
 &ensp;Monocular 3D Object Detection with Depth from Motion
 :   &nbsp;&ensp;**Tai Wang**, Jiangmiao Pang, Dahua Lin
@@ -72,6 +102,18 @@ Publications
 
 ----------
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
+<img src="../images/p3former.png" width = "180" height = "110" alt="p3former" align="left" />
+&ensp;Position-Guided Point Cloud Panoptic Segmentation Transformer
+:   &nbsp;&ensp;Zeqi Xiao*, Wenwei Zhang*, **Tai Wang***, Chen Change Loy, Dahua Lin, Jiangmiao Pang
+:   &nbsp;&ensp;Arxiv preprint
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13509)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/P3Former)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1vnWmAdvkGZzVmiBsS_jqA9M0jl6n1eEG/view?usp=sharing)
+
+<img src="../images/MV-JAR.png" width = "180" height = "110" alt="mvjar" align="left" />
+&ensp;MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based Self-Supervised Pre-Training
+:   &nbsp;&ensp;Runsen Xu, Tai Wang, Wenwei Zhang, Runjian Chen, Jinkun Cao, Jiangmiao Pang, Dahua Lin
+:   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13510)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/MV-JAR)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1g8krJnOK1Jp_eOtXerggX_GNfETpEkvi/view?usp=sharing)
+
 <img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
 &ensp;Cylindrical and Asymmetrical 3D Convolution Networks for <br/> &ensp;LiDAR Segmentation
 :   &nbsp;&ensp;Xinge Zhu\*, Hui Zhou\*, **Tai Wang**, Fangzhou Hong, Yuexin Ma, Wei Li, Hongsheng Li, Dahua Lin
