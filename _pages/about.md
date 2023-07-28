@@ -38,7 +38,7 @@ Education
 
 Publications
 ----------
-**Vision-Only 3D Detection** <br/>
+**Vision-Based 3D Perception** <br/>
 <img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
 &ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp;3D Object Detection and Tracking
 :   &nbsp;&ensp;Qing Lian, **Tai Wang**, Jiangmiao Pang, Dahua Lin
@@ -143,7 +143,7 @@ Publications
 :   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lA8zX8cEEFT43CXDkVcsEdvpHBpg7cBY/view?usp=sharing)
 
 ----------
-**3D Generation and Reconstruction** <br/>
+**Other 3D Vision Research** <br/>
 <img src="../images/DCD.png" width = "180" height = "110" alt="dcd" align="left" />
 &ensp;Density-aware Chamfer Distance as a Comprehensive Metric for <br/> &ensp;Point Cloud Completion
 :   &nbsp;&ensp;Tong Wu, Liang Pan, Junzhe Zhang, **Tai Wang**, Ziwei Liu, Dahua Lin
