@@ -47,13 +47,14 @@ Publications
 
 <img src="../images/bev-survey.png" width = "180" height = "110" alt="bev-survey" align="left" />
 &ensp;Vision-Centric BEV Perception: A Survey
-:   &nbsp;&ensp;Yuexin Ma, **Tai Wang**, Xuyang Bai, Huitong Yang, Yuenan Hou, Yaming Wang, <br/> &ensp;Yu Qiao, Ruigang Yang, Dinesh Manocha, Xinge Zhu
+:   &nbsp;&ensp;Yuexin Ma\*, **Tai Wang\***, Xuyang Bai\*, Huitong Yang, Yuenan Hou, Yaming Wang, <br/> &ensp; Yu Qiao, Ruigang Yang, Dinesh Manocha, Xinge Zhu
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2208.02797)&nbsp;[\[Code\]](https://github.com/4DVLab/Vision-Centric-BEV-Perception)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1sg57-QxoBh5cGgzRbhukiJzCGcV7wIPp/view?usp=sharing)
 
 <img src="../images/occupancy.png" width = "180" height = "110" alt="occupancy" align="left" />
 &ensp;Scene as Occupancy
-:   &nbsp;&ensp;Chonghao Sima, Wenwen Tong, **Tai Wang**, Li Chen, Silei Wu, Hanming Deng, Yi Gu, Lewei Lu, <br/> &ensp;Ping Luo, Dahua Lin, Hongyang Li
+:   &nbsp;&ensp;Chonghao Sima\*, Wenwen Tong\*, **Tai Wang**, Li Chen, Silei Wu, Hanming Deng, Yi Gu, Lewei Lu, <br/> &ensp; Ping Luo, Dahua Lin, Hongyang Li
+:   &nbsp;&ensp;End-to-End Autonomous Driving, CVPR 2023 Workshop and Challenge
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (ICCV) 2023
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2306.02851)&nbsp;[\[Code\]](https://github.com/OpenDriveLab/OccNet)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1wxmnCXPBEb6Fc8gjyHtFZxXPZINtaLR_/view?usp=sharing)
 
