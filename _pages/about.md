@@ -42,7 +42,7 @@ Publications
 <img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
 &ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp;3D Object Detection and Tracking
 :   &nbsp;&ensp;Qing Lian, **Tai Wang**, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;Arxiv preprint
+:   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2023
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.16628)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/DORT)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1S4dzWZJH5jvsPiSGqZfXdy9bm12-AW4j/view?usp=sharing)
 
 <img src="../images/bev-survey.png" width = "180" height = "110" alt="bev-survey" align="left" />
