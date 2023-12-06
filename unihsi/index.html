@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts">
+  <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://github.com/xizaoqu">Zeqi Xiao</a><sup>1, 2</sup>,</span>
+            <span class="author-block">
+              <a href="https://tai-wang.github.io/">Tai Wang</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=GStTsxAAAAAJ&hl=zh-CN&oi=ao">Jingbo Wang</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.jinkuncao.com/">Jinkun Cao</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="http://zhangwenwei.cn/">Wenwei Zhang</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://daibo.info/">Bo Dai</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="http://dahua.site/">Dahua Lin</a><sup>1</sup>
+            </span>
+            <span class="author-block">
+              <a href="https://scholar.google.com.hk/citations?user=ssSfKpAAAAAJ&hl=zh-CN">Jiangmiao Pang</a><sup>1*</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Shanghai AI Laboratory,</span>
+            <span class="author-block"><sup>2</sup>Nanyang Technological University,</span>
+            <span class="author-block"><sup>3</sup>Carnegie Mellon University</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="./static/paper/UniHSI.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2309.07918"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+<!--               <span class="link-block">
+                <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span> -->
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/OpenRobotLab/UniHSI" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code (Coming Soon)</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data (Coming Soon)</span>
+                  </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser"               
+               controls
+               muted
+               preload
+               playsinline height="100%">
+        <source src="./static/videos/demo_editing_5.mp4"
+                type="video/mp4">
+      </video>
+    </div>
+      <h2 class="subtitle has-text-centered">
+        <span class="dnerf">UniHSI</span> supports unified and long-horizon control following language commands, enjoying impressive features like fine-granularity control, diverse interactions with the same object, and multi-obj interaction.
+        </h2>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+This paper presents <b>a UNIfied HSI framework, UniHSI, which supports unified control of diverse interactions through language commands</b>. This framework is built upon the definition of interaction as <b>Chain of Contacts</b> (CoC): steps of human joint-object part pairs, which is inspired by the strong correlation between interaction types and human-object contact regions.
+Based on the definition, UniHSI constitutes a <b>Large Language Model (LLM) Planner</b> to translate language prompts into task plans in the form of CoC, and a <b>Unified Controller</b> that turns CoC into uniform task execution. To facilitate training and evaluation, we collect a new dataset named <b>ScenePlan</b> that encompasses thousands of task plans generated by LLMs based on diverse scenarios. Comprehensive experiments demonstrate the effectiveness of our framework in versatile task execution and generalizability to real scanned scenes.
+        </div>
+      </div>
+    </div>
+<!--     <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-centered">
+          <video id="replay-video"
+                 controls
+                 muted
+                 preload
+                 playsinline
+                 width="100%">
+            <source src="./static/videos/demo_editing_5.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+      </div>
+    </div> -->
+    <!--/ Abstract. -->
+
+    <!-- Paper video. -->
+<!--     <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe src="./static/videos/teaser_gif.gif"
+                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div> -->
+    <!--/ Paper video. -->
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+      <!-- Pipeline -->
+      <div class="columns is-centered has-text-centered">
+      <h3 class="title is-4">Framework Pipeline</h3>
+      </div>
+      <div class="content has-text-centered">
+        <img width="75%" src="./static/images/main_figure.jpg"">
+      </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-justified">
+ The whole pipeline consists of two major components: the LLM Planner and the Unified Controller. The LLM planner takes language inputs and background scenario information as inputs and outputs multi-step plans in the form of a Chain of Contacts. The Unified Controller then executes task plans step-by-step and outputs interaction movements.
+        </div>
+      </div>
+    </div>
+      <div class="content has-text-centered">
+        <video id="replay-video"
+               controls
+               muted
+               preload
+               playsinline
+               width="75%">
+          <source src="./static/videos/scannet_long_demo.mp4"
+                  type="video/mp4">
+        <p>
+          The overview of UniHSI.
+        </p>
+        </video>
+      </div>
+      <!--/ Pipeline -->
+      </div>
+    </div>
+  
+
+  </div>
+</section>
+
+<section class="section">
+    <div class="container is-max-desktop">
+
+      <h3 class="title is-4">Multi-objects Interaction</h3>
+      <div class="columns is-centered">
+        <!-- Visual Effects. -->
+        <div class="column">
+          <div class="content">
+            <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
+              <source src="./static/videos/multiobj_multistep_1.mp4"
+                      type="video/mp4">
+            </video>
+          </div>
+        </div>
+        <!--/ Visual Effects. -->
+  
+        <!-- Matting. -->
+        <div class="column">
+          <div class="columns is-centered">
+            <div class="column content">
+              <video id="matting-video" controls playsinline height="100%">
+                <source src="./static/videos/multiobj_multistep_2.mp4"
+                        type="video/mp4">
+              </video>
+            </div>
+  
+          </div>
+        </div>
+      </div>
+      <!--/ Matting. -->
+  
+
+  
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <h3 class="title is-4">Diverse Interactions with the Same Object</h3>
+      <div class="columns is-centered">
+      
+        <!-- Visual Effects. -->
+        <div class="column">
+          <div class="content">
+            <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
+              <source src="./static/videos/multistep_sit_demo.mp4"
+                      type="video/mp4">
+            </video>
+          </div>
+        </div>
+        <!--/ Visual Effects. -->
+  
+        <!-- Matting. -->
+        <div class="column">
+          <div class="columns is-centered">
+            <div class="column content">
+              <video id="matting-video" controls playsinline height="100%">
+                <source src="./static/videos/multistep_bed_demo.mp4"
+                        type="video/mp4">
+              </video>
+            </div>
+  
+          </div>
+        </div>
+      </div>
+      <!--/ Matting. -->
+  
+
+  
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+  
+      <!-- Multi-agent. -->
+      <h3 class="title is-4">''Multi-agent'' Interaction Planned by LLMs</h3>
+      <div class="content has-text-justified">
+        <p>
+          Using <span class="dnerf">UniHSI</span>, we use LLMs to plan and control multi-agent interaction and synthesis interesting videos. 
+          Note: the ''multi-agent interaction'' can be just fulfilled at the commands level at the current stage.
+        </p>
+      </div>
+      <div class="content has-text-centered">
+        <video id="replay-video"
+               controls
+               muted
+               preload
+               playsinline
+               width="75%">
+          <source src="./static/videos/scannet_two_bed_demo.mp4"
+                  type="video/mp4">
+        </video>
+      </div>
+      <!--/ Multi-agent. -->
+  
+
+  
+    </div>
+  </section>
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@article{xiao2023unified,
+  author    = {Xiao, Zeqi and Wang, Tai and Wang, Jingbo and Cao, Jinkun and Dai, Bo and Lin, Dahua and Pang, Jiangmiao},
+  title     = {Unified Human-Scene Interaction via Prompted Chain-of-Contacts},
+  journal   = {Arxiv},
+  year      = {2023},
+}</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link"
+         href="./static/paper/UniHSI.pdf">
+        <i class="fas fa-file-pdf"></i>
+      </a>
+      <a class="icon-link" href="https://github.com/OpenRobotLab/UniHSI" class="external-link" disabled>
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template/">Academic Project Page Template</a>
+            which was adopted from the <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a> project page.
+          </p>
+          <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5x18u1vl8d4&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
