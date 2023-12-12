@@ -67,7 +67,7 @@
               <a href="https://openreview.net/profile?id=~Peisen_Li1">Peisen Li</a><sup>1,5</sup>,
             </span>
             <span class="author-block">
-              <a href="https://xiao-chen.info/">Xiao Chen</a><sup>1,4</sup>
+              <a href="https://xiao-chen.info/">Xiao Chen</a><sup>1,4</sup>,
             </span>
             <span class="author-block">
               <a href="http://zhangwenwei.cn/">Wenwei Zhang</a><sup>1</sup>,
@@ -76,16 +76,16 @@
               <a href="https://chenkai.site/">Kai Chen</a><sup>1</sup>,
             </span>
             <span class="author-block">
-              <a href="https://tianfan.info/">Tianfan Xue</a><sup>1,4</sup>
+              <a href="https://tianfan.info/">Tianfan Xue</a><sup>1,4</sup>,
             </span>
             <span class="author-block">
               <a href="https://xh-liu.github.io/">Xihui Liu</a><sup>1,3</sup>,
             </span>
             <span class="author-block">
-              <a href="https://www.mvig.org/">Cewu Lu</a><sup>2</sup>
+              <a href="https://www.mvig.org/">Cewu Lu</a><sup>2</sup>,
             </span>
             <span class="author-block">
-              <a href="http://dahua.site/">Dahua Lin</a><sup>1,4</sup>
+              <a href="http://dahua.site/">Dahua Lin</a><sup>1,4</sup>,
             </span>
             <span class="author-block">
               <a href="https://oceanpang.github.io/">Jiangmiao Pang</a><sup>1</sup>
@@ -94,7 +94,7 @@
 
           <div class="is-size-5 publication-authors">
             <span class="author-block"><sup>1</sup>Shanghai AI Laboratory,</span>
-            <span class="author-block"><sup>2</sup>Shanghai Jiaotong University,</span>
+            <span class="author-block"><sup>2</sup>Shanghai Jiao Tong University,</span>
             <span class="author-block"><sup>3</sup>The University of Hong Kong,</span>
             <span class="author-block"><sup>4</sup>The Chinese University of Hong Kong,</span>
             <span class="author-block"><sup>5</sup>Tsinghua University</span>
@@ -171,7 +171,8 @@
       </video>
     </div>
       <h2 class="subtitle has-text-centered">
-        <span class="dnerf">UniHSI</span> supports unified and long-horizon control following language commands, enjoying impressive features like fine-granularity control, diverse interactions with the same object, and multi-obj interaction.
+        <span class="dnerf">EmbodiedScan</span> provides a multi-modal, ego-centric 3D perception dataset and benchmark for holistic 3D scene understanding.
+        Building upon this database, our baseline framework, Embodied Perceptron could process an arbitrary number of multi-modal inputs and demonstrates remarkable 3D perception capabilities, both within the two series of benchmarks we set up and in the wild.
         </h2>
   </div>
 </section>
@@ -186,7 +187,7 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           In the realm of computer vision and robotics, embodied agents are expected to explore their environment and carry out human instructions. 
-          This necessitates the ability to fully understand 3D scenes given their first-person observations and contextualize them into language for interaction.
+          This necessitates the ability to fully understand <b>3D scenes</b> given their <b>first-person observations</b> and contextualize them into language for interaction.
           However, traditional research focuses more on scene-level input and output setups from a global view.
           To address the gap, we introduce <b>EmbodiedScan, a multi-modal, ego-centric 3D perception dataset and benchmark for holistic 3D scene understanding.</b> 
           It encompasses over <b>5k scans encapsulating 1M ego-centric RGB-D views, 1M language prompts, 160k 3D-oriented boxes spanning over 760 categories, some of which partially align with LVIS, and dense semantic occupancy with 80 common categories.</b> 
@@ -231,6 +232,47 @@
 
       <!-- Pipeline -->
       <div class="columns is-centered has-text-centered">
+      <h3 class="title is-4">Dataset Overview</h3>
+      </div>
+      <div class="content has-text-centered">
+        <img width="75%" src="./static/images/teaser.png"">
+      </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-justified">
+          EmbodiedScan provides a multi-modal, ego-centric 3D perception dataset with massive real-scanned data and rich annotations for indoor scenes. It benchmarks language-grounded holistic 3D scene understanding capabilities for real-world embodied agents.
+        </div>
+      </div>
+    </div>
+      <div class="content has-text-centered">
+        <video id="replay-video"
+               controls
+               muted
+               preload
+               playsinline
+               width="75%">
+          <source src="./static/videos/scannet_long_demo.mp4"
+                  type="video/mp4">
+        <p>
+          Dataset Overview.
+        </p>
+        </video>
+      </div>
+      <!--/ Pipeline -->
+      </div>
+    </div>
+  
+
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+      <!-- Pipeline -->
+      <div class="columns is-centered has-text-centered">
       <h3 class="title is-4">Framework Pipeline</h3>
       </div>
       <div class="content has-text-centered">
@@ -254,7 +296,7 @@
           <source src="./static/videos/scannet_long_demo.mp4"
                   type="video/mp4">
         <p>
-          The overview of UniHSI.
+          Framework Overview.
         </p>
         </video>
       </div>
@@ -371,10 +413,10 @@
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
     <pre><code>@article{wang2023embodiedscan,
-  author    = {Wang, Tai and Mao, Xiaohan and Zhu, Chenming and Xu, Runsen and Lyu, Ruiyuan and Li, Peisen and Chen, Xiao and Zhang, Wenwei and Chen, Kai and Xue, Tianfan and Liu, Xihui and Lu, Cewu and Lin, Dahua and Pang, Jiangmiao},
-  title     = {EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI},
-  journal   = {Arxiv},
-  year      = {2023},
+  author={Wang, Tai and Mao, Xiaohan and Zhu, Chenming and Xu, Runsen and Lyu, Ruiyuan and Li, Peisen and Chen, Xiao and Zhang, Wenwei and Chen, Kai and Xue, Tianfan and Liu, Xihui and Lu, Cewu and Lin, Dahua and Pang, Jiangmiao},
+  title={EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI},
+  journal={Arxiv},
+  year={2023},
 }</code></pre>
   </div>
 </section>
