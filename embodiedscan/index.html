@@ -166,7 +166,7 @@
                muted
                preload
                playsinline height="100%">
-        <source src="./static/videos/demo_editing_5.mp4"
+        <source src="./static/videos/demo_video.mp4"
                 type="video/mp4">
       </video>
     </div>
@@ -252,7 +252,7 @@
                preload
                playsinline
                width="75%">
-          <source src="./static/videos/scannet_long_demo.mp4"
+          <source src="./static/videos/dataset_overview.mp4"
                   type="video/mp4">
         <p>
           Dataset Overview.
@@ -285,7 +285,13 @@
           Embodied Perceptron accepts RGB-D sequence with any number of views along with texts as multi-modal input. It uses classical encoders to extract features for each modality and adopts dense and isomorphic sparse fusion with corresponding decoders for different predictions. The 3D features integrated with the text feature can be further used for language-grounded understanding.
         </div>
       </div>
-    </div>
+  </div>
+</section>
+
+<section class="section">
+    <div class="container is-max-desktop">
+
+      <h3 class="title is-4">SAM-Assisted Annotation</h3>
       <div class="content has-text-centered">
         <video id="replay-video"
                controls
@@ -293,90 +299,11 @@
                preload
                playsinline
                width="75%">
-          <source src="./static/videos/scannet_long_demo.mp4"
+          <source src="./static/videos/annotation.mp4"
                   type="video/mp4">
-        <p>
-          Framework Overview.
-        </p>
         </video>
       </div>
-      <!--/ Pipeline -->
-      </div>
-    </div>
-  
-
-  </div>
-</section>
-
-<section class="section">
-    <div class="container is-max-desktop">
-
-      <h3 class="title is-4">Multi-objects Interaction</h3>
-      <div class="columns is-centered">
-        <!-- Visual Effects. -->
-        <div class="column">
-          <div class="content">
-            <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
-              <source src="./static/videos/multiobj_multistep_1.mp4"
-                      type="video/mp4">
-            </video>
-          </div>
-        </div>
-        <!--/ Visual Effects. -->
-  
-        <!-- Matting. -->
-        <div class="column">
-          <div class="columns is-centered">
-            <div class="column content">
-              <video id="matting-video" controls playsinline height="100%">
-                <source src="./static/videos/multiobj_multistep_2.mp4"
-                        type="video/mp4">
-              </video>
-            </div>
-  
-          </div>
-        </div>
-      </div>
       <!--/ Matting. -->
-  
-
-  
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container is-max-desktop">
-      <h3 class="title is-4">Diverse Interactions with the Same Object</h3>
-      <div class="columns is-centered">
-      
-        <!-- Visual Effects. -->
-        <div class="column">
-          <div class="content">
-            <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
-              <source src="./static/videos/multistep_sit_demo.mp4"
-                      type="video/mp4">
-            </video>
-          </div>
-        </div>
-        <!--/ Visual Effects. -->
-  
-        <!-- Matting. -->
-        <div class="column">
-          <div class="columns is-centered">
-            <div class="column content">
-              <video id="matting-video" controls playsinline height="100%">
-                <source src="./static/videos/multistep_bed_demo.mp4"
-                        type="video/mp4">
-              </video>
-            </div>
-  
-          </div>
-        </div>
-      </div>
-      <!--/ Matting. -->
-  
-
-  
     </div>
   </section>
 
@@ -384,11 +311,10 @@
     <div class="container is-max-desktop">
   
       <!-- Multi-agent. -->
-      <h3 class="title is-4">''Multi-agent'' Interaction Planned by LLMs</h3>
+      <h3 class="title is-4">In-the-Wild Test</h3>
       <div class="content has-text-justified">
         <p>
-          Using <span class="dnerf">UniHSI</span>, we use LLMs to plan and control multi-agent interaction and synthesis interesting videos. 
-          Note: the ''multi-agent interaction'' can be just fulfilled at the commands level at the current stage.
+          Trained with <span class="dnerf">EmbodiedScan</span>, our model shows remarkable 3D perception capabilities both in our established benchmarks and in the wild, even with a different RGB-D sensor in a different environment.
         </p>
       </div>
       <div class="content has-text-centered">
@@ -398,7 +324,7 @@
                preload
                playsinline
                width="75%">
-          <source src="./static/videos/scannet_two_bed_demo.mp4"
+          <source src="./static/videos/in_the_wild.mp4"
                   type="video/mp4">
         </video>
       </div>
