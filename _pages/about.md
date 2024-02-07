@@ -37,10 +37,9 @@ Education
 Publications
 ----------
 **Multi-Modal 3D Perception** <br/>
-
 <img src="../images/embodiedscan.gif" width = "180" height = "110" alt="embodiedscan" align="left" />
-&ensp;EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite <br/> &ensp;Towards Embodied AI
-:   &nbsp;&ensp;**Tai Wang**, Xiaohan Mao, Chenming Zhu, Runsen Xu, Ruiyuan Lyu, Peisen Li, Xiao Chen, <br/> &ensp;Wenwei Zhang, Kai Chen, Tianfan Xue, Xihui Liu, Cewu Lu, Dahua Lin, Jiangmiao Pang
+&ensp;EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
+:   &nbsp;&ensp;**Tai Wang**, Xiaohan Mao, Chenming Zhu, Runsen Xu, Ruiyuan Lyu, Peisen Li, Xiao Chen, <br/> &ensp; Wenwei Zhang, Kai Chen, Tianfan Xue, Xihui Liu, Cewu Lu, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/embodiedscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2312.16170)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:G7MOTu5PW8YJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqVhbU:AFWwaeYAAAAAZcOTnbV5mAvO73wbwg75NE_5kas&scisig=AFWwaeYAAAAAZcOTnYDstYIkB0sXGIAT03-92cs&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -50,8 +49,8 @@ Publications
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2309.09456)&nbsp;\[Code\](Coming Soon)&nbsp;[\[Bibtex\]]([https://drive.google.com/file/d/1S4dzWZJH5jvsPiSGqZfXdy9bm12-AW4j/view?usp=sharing](https://scholar.googleusercontent.com/scholar.bib?q=info:ZGY6umGJud0J:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqS8O8:AFWwaeYAAAAAZcOU6O8ntSAE68BvBMbLnYG1Jgc&scisig=AFWwaeYAAAAAZcOU6N8erfC0ffAXK2Hci9A4jTE&scisf=4&ct=citation&cd=-1&hl=en))
 
+----------
 **Perception & Interaction with LLMs** <br/>
-
 <img src="../images/unihsi.gif" width = "180" height = "110" alt="unihsi" align="left" />
 &ensp;UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts
 :   &nbsp;&ensp;Zeqi Xiao, **Tai Wang**, Jingbo Wang, Jinkun Cao, Wenwei Zhang, Bo Dai, Dahua Lin, Jiangmiao Pang
@@ -64,6 +63,7 @@ Publications
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]]([https://arxiv.org/abs/2303.16628](https://arxiv.org/abs/2308.16911))&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:CHGyGL5V4UsJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqQwD4:AFWwaeYAAAAAZcOW2D77E5VrUoxRRgbhtWDl3WE&scisig=AFWwaeYAAAAAZcOW2IcCnNx1s5VvjJdBh9Y0iZg&scisf=4&ct=citation&cd=-1&hl=en)
 
+----------
 **Vision-Based 3D Perception** <br/>
 <img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
 &ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp;3D Object Detection and Tracking
