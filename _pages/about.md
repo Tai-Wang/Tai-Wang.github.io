@@ -10,7 +10,7 @@ redirect_from:
 
 I am a researcher at [OpenRobotLab](https://github.com/OpenRobotLab), [Shanghai AI Laboratory](https://www.shlab.org.cn/), working on embodied AI. My research focuses on constructing a comprehensive 3D understanding of our world from ego-centric, multi-modal inputs, thereby enabling planning and physical interactions on top. In recent years, we have contributed several fundamental endeavors in general 3D perception from [LiDAR point clouds](https://arxiv.org/abs/2011.10033), [monocular images](https://arxiv.org/abs/2104.10956) and [videos](https://arxiv.org/abs/2207.12988) with an open-source codebase, [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
 
-Working with [Dr. Jiangmiao Pang]() and [Prof. Dahua Lin](http://dahua.site/), our group is dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
+Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Dahua Lin](http://dahua.site/), our group is dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
 I earned my Ph.D. degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). Before that, I received my B.Eng degree from [Zhejiang University](https://www.zju.edu.cn/english/) with the highest honors in 2019.
 
