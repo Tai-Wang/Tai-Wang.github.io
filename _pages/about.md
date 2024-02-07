@@ -14,6 +14,13 @@ Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Dahua
 
 I earned my Ph.D. degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). Before that, I received my B.Eng degree from [Zhejiang University](https://www.zju.edu.cn/english/) with the highest honors in 2019.
 
+News
+----------
+- \[2024/02\] We will host the Multi-View 3D Visual Grounding track in the [Autonomous Grand Challenge](https://opendrivelab.com/challenge2024/), CVPR 2024.
+- \[2024/01\] [UniHSI](https://xizaoqu.github.io/unihsi/) is accepted by ICLR 2024 as Spotlight.
+- \[2023/12\] We release [EmbodiedScan](https://tai-wang.github.io/embodiedscan/), the first ego-centric, multi-modal 3D perception suite for holistic 3D scene understanding.
+- \[2023/08\] We release [PointLLM](https://tai-wang.github.io/embodiedscan/), the first work empowering LLMs to understand point clouds with solid evaluation and benchmarks.
+
 Education
 ----------
 <img src="../images/cuhk.png" width = "90" height = "90" alt="cuhk" align="left" />
@@ -29,6 +36,34 @@ Education
 
 Publications
 ----------
+**Multi-Modal 3D Perception** <br/>
+
+<img src="../images/embodiedscan.gif" width = "180" height = "110" alt="embodiedscan" align="left" />
+&ensp;EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite <br/> &ensp;Towards Embodied AI
+:   &nbsp;&ensp;**Tai Wang**, Xiaohan Mao, Chenming Zhu, Runsen Xu, Ruiyuan Lyu, Peisen Li, Xiao Chen, <br/> &ensp;Wenwei Zhang, Kai Chen, Tianfan Xue, Xihui Liu, Cewu Lu, Dahua Lin, Jiangmiao Pang
+:   &nbsp;&ensp;Arxiv preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/embodiedscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2312.16170)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:G7MOTu5PW8YJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqVhbU:AFWwaeYAAAAAZcOTnbV5mAvO73wbwg75NE_5kas&scisig=AFWwaeYAAAAAZcOTnYDstYIkB0sXGIAT03-92cs&scisf=4&ct=citation&cd=-1&hl=en)
+
+<img src="../images/object2scene.png" width = "180" height = "110" alt="object2scene" align="left" />
+&ensp;Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection
+:   &nbsp;&ensp;Chenming Zhu, Wenwei Zhang, **Tai Wang**, Xihui Liu, Kai Chen
+:   &nbsp;&ensp;Arxiv preprint
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2309.09456)&nbsp;\[Code\](Coming Soon)&nbsp;[\[Bibtex\]]([https://drive.google.com/file/d/1S4dzWZJH5jvsPiSGqZfXdy9bm12-AW4j/view?usp=sharing](https://scholar.googleusercontent.com/scholar.bib?q=info:ZGY6umGJud0J:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqS8O8:AFWwaeYAAAAAZcOU6O8ntSAE68BvBMbLnYG1Jgc&scisig=AFWwaeYAAAAAZcOU6N8erfC0ffAXK2Hci9A4jTE&scisf=4&ct=citation&cd=-1&hl=en))
+
+**Perception & Interaction with LLMs** <br/>
+
+<img src="../images/unihsi.gif" width = "180" height = "110" alt="unihsi" align="left" />
+&ensp;UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts
+:   &nbsp;&ensp;Zeqi Xiao, **Tai Wang**, Jingbo Wang, Jinkun Cao, Wenwei Zhang, Bo Dai, Dahua Lin, Jiangmiao Pang
+:   &nbsp;&ensp;International Conference on Learning Representations (**ICLR**) 2024 **Spotlight**
+:   &nbsp;&ensp;[[\[Project Page\]](https://xizaoqu.github.io/unihsi/)&nbsp;\[Paper\]](https://arxiv.org/abs/2309.07918)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/UniHSI)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:3fKuu8DhTtcJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqRiig:AFWwaeYAAAAAZcOXkih97j8XGT-uJRm32cyXQ0E&scisig=AFWwaeYAAAAAZcOXkoucgHTDBSqS6mae_qu3DUI&scisf=4&ct=citation&cd=-1&hl=en)
+
+<img src="../images/pointllm.gif" width = "180" height = "110" alt="pointllm" align="left" />
+&ensp;PointLLM: Empowering Large Language Models to Understand Point Clouds
+:   &nbsp;&ensp;Runsen Xu, Xiaolong Wang, **Tai Wang**, Yilun Chen, Jiangmiao Pang, Dahua Lin
+:   &nbsp;&ensp;Arxiv preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]]([https://arxiv.org/abs/2303.16628](https://arxiv.org/abs/2308.16911))&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:CHGyGL5V4UsJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqQwD4:AFWwaeYAAAAAZcOW2D77E5VrUoxRRgbhtWDl3WE&scisig=AFWwaeYAAAAAZcOW2IcCnNx1s5VvjJdBh9Y0iZg&scisf=4&ct=citation&cd=-1&hl=en)
+
 **Vision-Based 3D Perception** <br/>
 <img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
 &ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp;3D Object Detection and Tracking
@@ -161,7 +196,7 @@ Experience
 ----------
 <img src="../images/shlab.jpg" width = "80" height = "85" alt="shlab" align="left" />
 &ensp;Visiting Scholar, Shanghai AI Laboratory
-:   &nbsp;&ensp;July 2020 - Now. &nbsp;Advisor: Jiangmiao Pang, Kai Chen
+:   &nbsp;&ensp;July 2020 - July 2023. &nbsp;Advisor: Jiangmiao Pang, Kai Chen
 :   &nbsp;&ensp;Focus: The next-generation platform for general 3D perception
 
 <img src="../images/sensetime.jpg" width = "80" height = "90" alt="sensetime" align="left" />
