@@ -38,8 +38,8 @@ Publications
 ----------
 **Multi-Modal 3D Perception** <br/>
 <img src="../images/embodiedscan.gif" width = "180" height = "110" alt="embodiedscan" align="left" />
-&ensp;EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
-:   &nbsp;&ensp;**Tai Wang**, Xiaohan Mao, Chenming Zhu, Runsen Xu, Ruiyuan Lyu, Peisen Li, Xiao Chen, <br/> &ensp; Wenwei Zhang, Kai Chen, Tianfan Xue, Xihui Liu, Cewu Lu, Dahua Lin, Jiangmiao Pang
+&ensp;EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite <br/> &ensp;Towards Embodied AI
+:   &nbsp;&ensp;**Tai Wang\***, Xiaohan Mao\*, Chenming Zhu\*, et al.
 :   &nbsp;&ensp;Arxiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/embodiedscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2312.16170)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:G7MOTu5PW8YJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqVhbU:AFWwaeYAAAAAZcOTnbV5mAvO73wbwg75NE_5kas&scisig=AFWwaeYAAAAAZcOTnYDstYIkB0sXGIAT03-92cs&scisf=4&ct=citation&cd=-1&hl=en)
 
