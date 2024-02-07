@@ -55,7 +55,7 @@ Publications
 &ensp;UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts
 :   &nbsp;&ensp;Zeqi Xiao, **Tai Wang**, Jingbo Wang, Jinkun Cao, Wenwei Zhang, Bo Dai, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;International Conference on Learning Representations (**ICLR**) 2024, **Spotlight**
-:   &nbsp;&ensp;[\[Project Page\]](https://xizaoqu.github.io/unihsi/)&nbsp;\[Paper\]](https://arxiv.org/abs/2309.07918)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/UniHSI)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:3fKuu8DhTtcJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqRiig:AFWwaeYAAAAAZcOXkih97j8XGT-uJRm32cyXQ0E&scisig=AFWwaeYAAAAAZcOXkoucgHTDBSqS6mae_qu3DUI&scisf=4&ct=citation&cd=-1&hl=en)
+:   &nbsp;&ensp;[\[Project Page\]](https://xizaoqu.github.io/unihsi/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2309.07918)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/UniHSI)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:3fKuu8DhTtcJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqRiig:AFWwaeYAAAAAZcOXkih97j8XGT-uJRm32cyXQ0E&scisig=AFWwaeYAAAAAZcOXkoucgHTDBSqS6mae_qu3DUI&scisf=4&ct=citation&cd=-1&hl=en)
 
 <img src="../images/pointllm.gif" width = "180" height = "110" alt="pointllm" align="left" />
 &ensp;PointLLM: Empowering Large Language Models to Understand Point Clouds
