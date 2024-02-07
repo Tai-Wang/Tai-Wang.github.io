@@ -19,7 +19,7 @@ News
 - \[2024/02\] We will host the Multi-View 3D Visual Grounding track in the [Autonomous Grand Challenge](https://opendrivelab.com/challenge2024/).
 - \[2024/01\] [UniHSI](https://xizaoqu.github.io/unihsi/) is accepted by ICLR 2024 as Spotlight.
 - \[2023/12\] We release [EmbodiedScan](https://tai-wang.github.io/embodiedscan/), the first ego-centric, multi-modal 3D perception suite for holistic 3D scene understanding.
-- \[2023/08\] We release [PointLLM](https://tai-wang.github.io/embodiedscan/), the first work empowering LLMs to understand point clouds with solid evaluation and benchmarks.
+- \[2023/08\] We release [PointLLM](https://runsenxu.com/projects/PointLLM/), the first work empowering LLMs to understand point clouds with solid evaluation and benchmarks.
 
 Education
 ----------
@@ -55,13 +55,13 @@ Publications
 &ensp;UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts
 :   &nbsp;&ensp;Zeqi Xiao, **Tai Wang**, Jingbo Wang, Jinkun Cao, Wenwei Zhang, Bo Dai, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;International Conference on Learning Representations (**ICLR**) 2024, **Spotlight**
-:   &nbsp;&ensp;[[\[Project Page\]](https://xizaoqu.github.io/unihsi/)&nbsp;\[Paper\]](https://arxiv.org/abs/2309.07918)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/UniHSI)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:3fKuu8DhTtcJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqRiig:AFWwaeYAAAAAZcOXkih97j8XGT-uJRm32cyXQ0E&scisig=AFWwaeYAAAAAZcOXkoucgHTDBSqS6mae_qu3DUI&scisf=4&ct=citation&cd=-1&hl=en)
+:   &nbsp;&ensp;[\[Project Page\]](https://xizaoqu.github.io/unihsi/)&nbsp;\[Paper\]](https://arxiv.org/abs/2309.07918)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/UniHSI)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:3fKuu8DhTtcJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqRiig:AFWwaeYAAAAAZcOXkih97j8XGT-uJRm32cyXQ0E&scisig=AFWwaeYAAAAAZcOXkoucgHTDBSqS6mae_qu3DUI&scisf=4&ct=citation&cd=-1&hl=en)
 
 <img src="../images/pointllm.gif" width = "180" height = "110" alt="pointllm" align="left" />
 &ensp;PointLLM: Empowering Large Language Models to Understand Point Clouds
 :   &nbsp;&ensp;Runsen Xu, Xiaolong Wang, **Tai Wang**, Yilun Chen, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Arxiv preprint
-:   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]]([https://arxiv.org/abs/2303.16628](https://arxiv.org/abs/2308.16911))&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:CHGyGL5V4UsJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqQwD4:AFWwaeYAAAAAZcOW2D77E5VrUoxRRgbhtWDl3WE&scisig=AFWwaeYAAAAAZcOW2IcCnNx1s5VvjJdBh9Y0iZg&scisf=4&ct=citation&cd=-1&hl=en)
+:   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2308.16911)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:CHGyGL5V4UsJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqQwD4:AFWwaeYAAAAAZcOW2D77E5VrUoxRRgbhtWDl3WE&scisig=AFWwaeYAAAAAZcOW2IcCnNx1s5VvjJdBh9Y0iZg&scisf=4&ct=citation&cd=-1&hl=en)
 
 ----------
 **Vision-Based 3D Perception** <br/>
