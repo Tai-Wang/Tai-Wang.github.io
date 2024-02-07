@@ -8,26 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student of [MMLab](http://mmlab.ie.cuhk.edu.hk/) (Multimedia Laboratory), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by [Dahua Lin](http://dahua.site/). Previously I spent four wonderful years and obtained my Bachelor's Degree at [Zhejiang University](https://www.zju.edu.cn/english/). I am excited about all the vision or AI technologies that can change people's lifestyles, for example, building intelligent agents that can interact with us. My current research is mainly focused on general 3D perception, including different modalities, tasks and scenarios. I am also interested in other extensive 3D vision research and their robotic applications.
+I am a researcher at [OpenRobotLab](https://github.com/OpenRobotLab), [Shanghai AI Laboratory](https://www.shlab.org.cn/), working on embodied AI. My research focuses on constructing a comprehensive 3D understanding of our world from ego-centric, multi-modal inputs, thereby enabling planning and physical interactions on top. In recent years, we have contributed several fundamental endeavors in general 3D perception from [LiDAR point clouds](https://arxiv.org/abs/2011.10033), [monocular images](https://arxiv.org/abs/2104.10956) and [videos](https://arxiv.org/abs/2207.12988) with an open-source codebase, [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
 
-News
-----------
-- \[2022/07\] [DfM](https://arxiv.org/abs/2207.12988), our recent study on 3D perception from monocular videos, is accepted by [ECCV 2022](https://eccv2022.ecva.net/).
-- \[2022/06\] A simple multi-view baseline, [MV-FCOS3D++](https://arxiv.org/abs/2207.12716), obtained the runner-up in the [Waymo Camera-Only 3D Detection Challenge](https://cvpr2022.wad.vision/) with few bells-and-whistles. Code is available [here](https://github.com/Tai-Wang/Depth-from-Motion).
-- \[2021/10\] [FCOS3D](https://arxiv.org/abs/2104.10956) got the best paper award on the [ICCV 3DODI workshop](https://sites.google.com/unitn.it/3dodi/home)! Thanks for the recognition!
-- \[2021/09\] One paper is accepted by [NeurIPS 2021](https://nips.cc/).
-- \[2021/09\] [PGD](https://arxiv.org/abs/2107.14160), our follow-up work of FCOS3D, is accepted by [CoRL 2021](https://www.robot-learning.org/).
-- \[2021/02\] Our further research on voxel representation learning, [Cylinder3D](https://arxiv.org/abs/2011.10033), is accepted by [CVPR 2021](https://cvpr2021.thecvf.com/). We also obtained the runner-up in the [nuScenes LiDAR Segmentation Challenge](https://www.nuscenes.org/lidar-segmentation?externalData=all&mapData=all&modalities=Any).
-- \[2020/12\] MMDet3D Team wins the Best PKL Award and best vision-only results in the 3rd [nuScenes detection challenge](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any) of 5th AI Driving Olympics, [NeurIPS 2020](https://nips.cc/).
-- \[2020/11\] We release the full technical report for our previously developed LiDAR annotation tool, [FLAVA](https://arxiv.org/abs/2011.10174).
-- \[2020/10\] [Reconfigurable Voxels](https://arxiv.org/abs/2004.02724) is accepted to [CoRL 2020](https://sites.google.com/robot-learning.org/corl2020).
-- \[2020/07\] [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) is finally released! Fork this versatile codebase and have a try, pushing forward this field to general 3D detection together.
+Working with [Dr. Jiangmiao Pang]() and [Prof. Dahua Lin](http://dahua.site/), our group is dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
+
+I earned my PhD degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Dahua Lin](http://dahua.site/). Before that, I received my B.Eng degree from [Zhejiang University](https://www.zju.edu.cn/english/) with the highest honors in 2019.
 
 Education
 ----------
 <img src="../images/cuhk.png" width = "90" height = "90" alt="cuhk" align="left" />
 &ensp;The Chinese University of Hong Kong (CUHK)
-:   &nbsp;&ensp;August 2019 - July 2023 (Expected)
+:   &nbsp;&ensp;August 2019 - July 2023
 :   &nbsp;&ensp;Ph.D. in Information Engineering
 
 <img src="../images/zju.png" width = "90" height = "90" alt="zju" align="left" />
