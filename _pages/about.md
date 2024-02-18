@@ -41,13 +41,13 @@ Publications
 &ensp;EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite <br/> &ensp;Towards Embodied AI
 :   &nbsp;&ensp;**Tai Wang\***, Xiaohan Mao\*, Chenming Zhu\*, et al.
 :   &nbsp;&ensp;Arxiv preprint
-:   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/embodiedscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2312.16170)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:G7MOTu5PW8YJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqVhbU:AFWwaeYAAAAAZcOTnbV5mAvO73wbwg75NE_5kas&scisig=AFWwaeYAAAAAZcOTnYDstYIkB0sXGIAT03-92cs&scisf=4&ct=citation&cd=-1&hl=en)
+:   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/embodiedscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2312.16170)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/__cubd_YlvZrTvDHyLI-ow)
 
 <img src="../images/object2scene.png" width = "180" height = "110" alt="object2scene" align="left" />
 &ensp;Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection
 :   &nbsp;&ensp;Chenming Zhu, Wenwei Zhang, **Tai Wang**, Xihui Liu, Kai Chen
 :   &nbsp;&ensp;Arxiv preprint
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2309.09456)&nbsp;\[Code\](Coming Soon)&nbsp;[\[Bibtex\]]([https://drive.google.com/file/d/1S4dzWZJH5jvsPiSGqZfXdy9bm12-AW4j/view?usp=sharing](https://scholar.googleusercontent.com/scholar.bib?q=info:ZGY6umGJud0J:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqS8O8:AFWwaeYAAAAAZcOU6O8ntSAE68BvBMbLnYG1Jgc&scisig=AFWwaeYAAAAAZcOU6N8erfC0ffAXK2Hci9A4jTE&scisf=4&ct=citation&cd=-1&hl=en))
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2309.09456)&nbsp;\[Code\](Coming Soon)
 
 ----------
 **Perception & Interaction with LLMs** <br/>
@@ -55,13 +55,13 @@ Publications
 &ensp;UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts
 :   &nbsp;&ensp;Zeqi Xiao, **Tai Wang**, Jingbo Wang, Jinkun Cao, Wenwei Zhang, Bo Dai, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;International Conference on Learning Representations (**ICLR**) 2024, **Spotlight**
-:   &nbsp;&ensp;[\[Project Page\]](https://xizaoqu.github.io/unihsi/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2309.07918)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/UniHSI)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:3fKuu8DhTtcJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqRiig:AFWwaeYAAAAAZcOXkih97j8XGT-uJRm32cyXQ0E&scisig=AFWwaeYAAAAAZcOXkoucgHTDBSqS6mae_qu3DUI&scisf=4&ct=citation&cd=-1&hl=en)
+:   &nbsp;&ensp;[\[Project Page\]](https://xizaoqu.github.io/unihsi/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2309.07918)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/UniHSI)
 
 <img src="../images/pointllm.gif" width = "180" height = "110" alt="pointllm" align="left" />
 &ensp;PointLLM: Empowering Large Language Models to Understand Point Clouds
 :   &nbsp;&ensp;Runsen Xu, Xiaolong Wang, **Tai Wang**, Yilun Chen, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Arxiv preprint
-:   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2308.16911)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)&nbsp;[\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:CHGyGL5V4UsJ:scholar.google.com/&output=citation&scisdr=ClHXBVKSEJOLmGqQwD4:AFWwaeYAAAAAZcOW2D77E5VrUoxRRgbhtWDl3WE&scisig=AFWwaeYAAAAAZcOW2IcCnNx1s5VvjJdBh9Y0iZg&scisf=4&ct=citation&cd=-1&hl=en)
+:   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2308.16911)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)
 
 ----------
 **Vision-Based 3D Perception** <br/>
@@ -69,63 +69,63 @@ Publications
 &ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp;3D Object Detection and Tracking
 :   &nbsp;&ensp;Qing Lian, **Tai Wang**, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2023
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.16628)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/DORT)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1S4dzWZJH5jvsPiSGqZfXdy9bm12-AW4j/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.16628)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/DORT)
 
 <img src="../images/bev-survey.png" width = "180" height = "110" alt="bev-survey" align="left" />
 &ensp;Vision-Centric BEV Perception: A Survey
 :   &nbsp;&ensp;Yuexin Ma\*, **Tai Wang\***, Xuyang Bai\*, Huitong Yang, Yuenan Hou, Yaming Wang, <br/> &ensp; Yu Qiao, Ruigang Yang, Dinesh Manocha, Xinge Zhu
 :   &nbsp;&ensp;Arxiv preprint
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2208.02797)&nbsp;[\[Code\]](https://github.com/4DVLab/Vision-Centric-BEV-Perception)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1sg57-QxoBh5cGgzRbhukiJzCGcV7wIPp/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2208.02797)&nbsp;[\[Code\]](https://github.com/4DVLab/Vision-Centric-BEV-Perception)
 
 <img src="../images/occupancy.png" width = "180" height = "110" alt="occupancy" align="left" />
 &ensp;Scene as Occupancy
 :   &nbsp;&ensp;Chonghao Sima\*, Wenwen Tong\*, **Tai Wang**, Li Chen, Silei Wu, Hanming Deng, Yi Gu, Lewei Lu, <br/> &ensp; Ping Luo, Dahua Lin, Hongyang Li
 :   &nbsp;&ensp;End-to-End Autonomous Driving, CVPR 2023 Workshop and Challenge
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (**ICCV**) 2023
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2306.02851)&nbsp;[\[Code\]](https://github.com/OpenDriveLab/OccNet)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1wxmnCXPBEb6Fc8gjyHtFZxXPZINtaLR_/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2306.02851)&nbsp;[\[Code\]](https://github.com/OpenDriveLab/OccNet)
 
 <img src="../images/geomim.png" width = "180" height = "110" alt="geomim" align="left" />
 &ensp;GeoMIM: Towards Better 3D Knowledge Transfer via Masked Image Modeling <br/> &ensp;for Multi-view 3D Understanding
 :   &nbsp;&ensp;Jihao Liu, **Tai Wang**, Boxiao Liu, Qihang Zhang, Yu Liu, Hongsheng Li
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (**ICCV**) 2023
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.11325)&nbsp;\[Code\](Comming Soon)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1eNeQuemmt4JWEJhVqMMezorQPqekJDYQ/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.11325)&nbsp;[\[Code\]](https://github.com/Sense-X/GeoMIM)
 
 <img src="../images/monodetr.png" width = "180" height = "110" alt="monodetr" align="left" />
 &ensp;MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection
 :   &nbsp;&ensp;Renrui Zhang, Han Qiu, **Tai Wang**, Ziyu Guo, Ziteng Cui, Peng Gao, Yu Qiao, Hongsheng Li
 :   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (**ICCV**) 2023
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2203.13310)&nbsp;[\[Code\]](https://github.com/ZrrSkywalker/MonoDETR)&nbsp;[\[Bibtex\]](https://github.com/ZrrSkywalker/MonoDETR)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2203.13310)&nbsp;[\[Code\]](https://github.com/ZrrSkywalker/MonoDETR)
 
 <img src="../images/DfM.png" width = "180" height = "110" alt="dfm" align="left" />
 &ensp;Monocular 3D Object Detection with Depth from Motion
 :   &nbsp;&ensp;**Tai Wang**, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2022, **Oral**
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2207.12988)&nbsp;[\[Code\]](https://github.com/Tai-Wang/Depth-from-Motion)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/552559901)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1411QF3F2d3u_5hfQqRRo7EoNIc2ULVxM/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2207.12988)&nbsp;[\[Code\]](https://github.com/Tai-Wang/Depth-from-Motion)
 
 <img src="../images/MV-FCOS3D.png" width = "180" height = "110" alt="mv-fcos3d" align="left" />
 &ensp;MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection <br/> &ensp;with Pretrained Monocular Backbones
 :   &nbsp;&ensp;**Tai Wang**, Qing Lian, Chenming Zhu, Xinge Zhu, Wenwei Zhang
 :   &nbsp;&ensp;Runner-up solution in the Waymo Camera-Only 3D detection challenge, **CVPR** 2022
-:   &nbsp;&ensp;[\[Preliminary Tech Report\]](https://arxiv.org/abs/2207.12716)&nbsp;[\[Code\]](https://github.com/Tai-Wang/Depth-from-Motion)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1KEp4zzysCpS94_IzfnNXswt2x6hLSdva/view?usp=sharing)
+:   &nbsp;&ensp;[\[Preliminary Tech Report\]](https://arxiv.org/abs/2207.12716)&nbsp;[\[Code\]](https://github.com/Tai-Wang/Depth-from-Motion)
 
 <img src="../images/PGD.png" width = "180" height = "110" alt="pgd" align="left" />
 &ensp;Probabilistic and Geometric Depth: Detecting Objects in Perspective
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2021
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Poster\]](https://openreview.net/attachment?id=bEito8UUUmf&name=poster)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lDnsLl0vm6gi4_XhKj-4IuEnE6LwuQRe/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2107.14160)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Poster\]](https://openreview.net/attachment?id=bEito8UUUmf&name=poster)
 
 <img src="../images/FCOS3D.png" width = "180" height = "110" alt="fcos3d" align="left" />
 &ensp;FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;ICCV Workshop on 3D Object Detection from Images (**ICCVW**) 2021, **Best Paper Award**
 :   &nbsp;&ensp;1st place solution of vision-only methods in the nuScenes 3D detection challenge, **NeurIPS** 2020
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2104.10956)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Slides\]](https://drive.google.com/file/d/1mcOxavQetj0CCdP__5XQK_RZB6-VT32u/view?usp=sharing)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/13Qv40nhOUZKenpK5FEbc0fw-IsLnEW2r/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2104.10956)&nbsp;[\[Code\]](https://github.com/open-mmlab/mmdetection3d)&nbsp;[\[Slides\]](https://drive.google.com/file/d/1mcOxavQetj0CCdP__5XQK_RZB6-VT32u/view?usp=sharing)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/400191167)
 
 <img src="../images/SIDE.png" width = "180" height = "110" alt="side" align="left" />
 &ensp;SIDE: Center-Based Stereo 3D Detector with Structure-Aware <br/> &ensp;Instance Depth Estimation
 :   &nbsp;&ensp;Xidong Peng, Xinge Zhu, **Tai Wang**, Yuexin Ma
 :   &nbsp;&ensp;IEEE Winter Conference on Applications of Computer Vision (**WACV**) 2022
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)&nbsp;[\[Code\]](https://github.com/linmo2333/SIDE)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/15FIrYx6HfrX6ijghlbdSk6itN1BQ-wgj/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2108.09663)&nbsp;[\[Code\]](https://github.com/linmo2333/SIDE)
 
 ----------
 **Voxel Representation Learning in LiDAR-Based Perception** <br/>
@@ -133,13 +133,13 @@ Publications
 &ensp;Position-Guided Point Cloud Panoptic Segmentation Transformer
 :   &nbsp;&ensp;Zeqi Xiao\*, Wenwei Zhang\*, **Tai Wang\***, Chen Change Loy, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;Arxiv preprint
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13509)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/P3Former)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1vnWmAdvkGZzVmiBsS_jqA9M0jl6n1eEG/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13509)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/P3Former)
 
 <img src="../images/MV-JAR.png" width = "180" height = "110" alt="mvjar" align="left" />
 &ensp;MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based <br/> &ensp;Self-Supervised Pre-Training
 :   &nbsp;&ensp;Runsen Xu, **Tai Wang**, Wenwei Zhang, Runjian Chen, Jinkun Cao, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13510)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/MV-JAR)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1g8krJnOK1Jp_eOtXerggX_GNfETpEkvi/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13510)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/MV-JAR)
 
 <img src="../images/cylinder3d.png" width = "180" height = "110" alt="cylinder3d" align="left" />
 &ensp;Cylindrical and Asymmetrical 3D Convolution Networks for <br/> &ensp;LiDAR Segmentation
@@ -152,13 +152,13 @@ Publications
 &ensp;Reconfigurable Voxels: A New Representation for LiDAR-Based <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Xinge Zhu, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2020
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1VcsRhtlcbUiFjmqYNu1ertL6REq5RlBT/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)
 
 <img src="../images/SSN.png" width = "180" height = "110" alt="ssn" align="left" />
 &ensp;SSN: Shape Signature Networks for Object Detection from <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;Xinge Zhu, Yuexin Ma, **Tai Wang**, Yan Xu, Jianping Shi, Dahua Lin,
 :   &nbsp;&ensp;European Conference on Computeer Vision (**ECCV**) 2020
-:   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1ABoEED_6JNGf8cvAiCIn_F3AcqwlOdnp/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)&nbsp;[\[Code\]](https://github.com/xinge008/SSN)
 
 ----------
 **Efficient Annotation of LiDAR Point Clouds** <br/>
@@ -166,7 +166,7 @@ Publications
 &ensp;FLAVA: Find, Localize, Adjust and Verify to Annotate LiDAR-based <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Conghui He, Zhe Wang, Jianping Shi, Dahua Lin
 :   &nbsp;&ensp;ACM Symposium on User Interface Software and Technology (**UIST**) 2020, Poster
-:   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1lA8zX8cEEFT43CXDkVcsEdvpHBpg7cBY/view?usp=sharing)
+:   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)
 
 ----------
 **Other 3D Vision Research** <br/>
@@ -174,7 +174,7 @@ Publications
 &ensp;Density-aware Chamfer Distance as a Comprehensive Metric for <br/> &ensp;Point Cloud Completion
 :   &nbsp;&ensp;Tong Wu, Liang Pan, Junzhe Zhang, **Tai Wang**, Ziwei Liu, Dahua Lin
 :   &nbsp;&ensp;Advances in Neural Information Processing Systems (**NeurIPS**), 2021
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2111.12702)&nbsp;[\[Code\]](https://github.com/wutong16/Density_aware_Chamfer_Distance)&nbsp;[\[Bibtex\]](https://drive.google.com/file/d/1UToOE543--hzBF-FEnqj_xUwdPUdpNfZ/view?usp=sharing)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2111.12702)&nbsp;[\[Code\]](https://github.com/wutong16/Density_aware_Chamfer_Distance)
 
 Research Projects
 ----------
