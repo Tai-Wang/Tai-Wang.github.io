@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [OpenRobotLab](https://github.com/OpenRobotLab), [Shanghai AI Laboratory](https://www.shlab.org.cn/), working on embodied AI. My research focuses on constructing a comprehensive 3D understanding of our world from ego-centric, multi-modal inputs, thereby enabling planning and physical interactions on top. In recent years, we have contributed several fundamental endeavors in general 3D perception from [LiDAR point clouds](https://arxiv.org/abs/2011.10033), [monocular images](https://arxiv.org/abs/2104.10956) and [videos](https://arxiv.org/abs/2207.12988) with an open-source codebase, [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
+I am a researcher at [OpenRobotLab](https://github.com/OpenRobotLab), [Shanghai AI Laboratory](https://www.shlab.org.cn/), working on embodied AI. My research focuses on constructing a comprehensive 3D understanding of our world from ego-centric, multi-modal inputs, thereby enabling planning and physical interactions thereon. In recent years, we have contributed several fundamental endeavors in general 3D perception from [LiDAR point clouds](https://arxiv.org/abs/2011.10033), [monocular images](https://arxiv.org/abs/2104.10956) and [videos](https://arxiv.org/abs/2207.12988) with an open-source codebase, [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
 
 Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Dahua Lin](http://dahua.site/), our group is dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
