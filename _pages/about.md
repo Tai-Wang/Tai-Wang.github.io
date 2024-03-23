@@ -192,28 +192,6 @@ Research Projects
 :   &nbsp;&ensp;Under revision and further development
 :   &nbsp;&ensp;Mar 2018 – Nov 2018
 
-Experience
-----------
-<img src="../images/shlab.jpg" width = "80" height = "85" alt="shlab" align="left" />
-&ensp;Visiting Scholar, Shanghai AI Laboratory
-:   &nbsp;&ensp;July 2020 - July 2023. &nbsp;Advisor: Jiangmiao Pang, Kai Chen
-:   &nbsp;&ensp;Focus: The next-generation platform for general 3D perception
-
-<img src="../images/sensetime.jpg" width = "80" height = "90" alt="sensetime" align="left" />
-&ensp;Adjunct Researcher, Sensetime
-:   &nbsp;&ensp;Nov. 2019 - June 2020. &nbsp;Advisor: Conghui He, Zhe Wang, Jianping Shi
-:   &nbsp;&ensp;Focus: Efficient annotation of LiDAR point clouds, development of LiDAR perception system
-
-<img src="../images/cuhk.png" width = "80" height = "90" alt="cuhk" align="left" />
-&ensp;Junior Research Assistant, The Chinese University of Hong Kong (CUHK)
-:   &nbsp;&ensp;Feb. 2019 - May 2019. &nbsp;Advisor: Dahua Lin
-:   &nbsp;&ensp;Focus: Real-time 3D object detection in autonomous driving
-
-<img src="../images/AZFT.png" width = "80" height = "90" alt="AZFT" align="left" />
-&ensp;Research Intern, Alibaba-ZJU Joint Institute of Frontier Technologies (AZFT)
-:   &nbsp;&ensp;Dec. 2017 - June 2019. &nbsp;Advisor: Zicheng Liao, Gang Wang. I also worked with Dr. Lechao Cheng.
-:   &nbsp;&ensp;Focus: Joint analysis of 2D Images and 3D Shapes with machine learning approaches
-
 Selected Awards
 ----------
 - Runner-up of [Waymo Camera-Only 3D Detection Challenge](https://cvpr2022.wad.vision/), CVPR 2022
