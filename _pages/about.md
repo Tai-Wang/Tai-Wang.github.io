@@ -141,7 +141,7 @@ Publications
 <img src="../images/p3former.png" width = "180" height = "110" alt="p3former" align="left" />
 &ensp;Position-Guided Point Cloud Panoptic Segmentation Transformer
 :   &nbsp;&ensp;Zeqi Xiao\*, Wenwei Zhang\*, **Tai Wang\***, Chen Change Loy, Dahua Lin, Jiangmiao Pang
-:   &nbsp;&ensp;Arxiv preprint
+:   &nbsp;&ensp;International Journal of Computer Vision (**IJCV**) 2024
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.13509)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/P3Former)
 
 <img src="../images/MV-JAR.png" width = "180" height = "110" alt="mvjar" align="left" />
