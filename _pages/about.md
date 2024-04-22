@@ -16,7 +16,7 @@ I earned my Ph.D. degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chines
 
 News
 ----------
-- \[2024/03\] [EmbodiedScan](https://tai-wang.github.io/embodiedscan/) and [GenNBV](https://gennbv.tech/) are accepted by CVPR 2024. The EmbodiedScan Challenge [Server](https://huggingface.co/spaces/AGC2024/visual-grounding-2024) is online!
+- \[2024/03\] [EmbodiedScan](https://tai-wang.github.io/embodiedscan/) and [GenNBV](https://gennbv.tech/) are accepted by CVPR 2024. The Challenge [Server](https://huggingface.co/spaces/AGC2024/visual-grounding-2024) is online!
 - \[2024/02\] We will host the Multi-View 3D Visual Grounding track in the [Autonomous Grand Challenge](https://opendrivelab.com/challenge2024/).
 - \[2024/01\] [UniHSI](https://xizaoqu.github.io/unihsi/) is accepted by ICLR 2024 as Spotlight.
 - \[2023/12\] We release [EmbodiedScan](https://tai-wang.github.io/embodiedscan/), the first ego-centric, multi-modal 3D perception suite for holistic 3D scene understanding.
@@ -66,7 +66,7 @@ Publications
 
 ----------
 **Active/Embodied 3D Perception & Reconstruction** <br/>
-<img src="../images/gennbv" width = "180" height = "110" alt="gennbv" align="left" />
+<img src="../images/gennbv.png" width = "180" height = "110" alt="gennbv" align="left" />
 &ensp;GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction
 :   &nbsp;&ensp;Xiao Chen, Quanyi Li, **Tai Wang**, Tianfan Xue, Jiangmiao Pang
 :   &nbsp;&ensp;IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024
