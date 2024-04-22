@@ -65,7 +65,7 @@ Publications
 :   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2308.16911)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)
 
 ----------
-**Active/Embodied 3D Perception & Reconstruction** <br/>
+**Active 3D Perception & Reconstruction** <br/>
 <img src="../images/gennbv.png" width = "180" height = "110" alt="gennbv" align="left" />
 &ensp;GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction
 :   &nbsp;&ensp;Xiao Chen, Quanyi Li, **Tai Wang**, Tianfan Xue, Jiangmiao Pang
