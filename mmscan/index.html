@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations">
+  <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://openreview.net/profile?id=~Ruiyuan_Lyu1">Ruiyuan Lyu</a><sup>1,2*</sup>,
+            <span class="author-block">
+              <a href="https://tai-wang.github.io/">Tai Wang</a><sup>1*</sup>,</span>
+            <span class="author-block">
+              <a href="https://openreview.net/profile?id=~Jingli_Lin1">Jingli Lin</a><sup>1,3*</sup>,</span>
+            <span class="author-block">
+              <a href="https://openreview.net/profile?id=~Shuaiyang1">Shuai Yang</a><sup>1,4*</sup>,</span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=-zT1NKwAAAAJ&hl=zh-CN">Xiaohan Mao</a><sup>1,3</sup>,</span>
+            <span class="author-block">
+              <a href="http://yilunchen.com/about/">Yilun Chen</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://runsenxu.com/">Runsen Xu</a><sup>1,5</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=oUm2gZUAAAAJ&hl=en">Haifeng Huang</a><sup>1,4</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=QabwS_wAAAAJ&hl=zh-CN">Chenming Zhu</a><sup>1,6</sup>,
+            </span>
+            <span class="author-block">
+              <a href="http://dahua.site/">Dahua Lin</a><sup>1,5</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://oceanpang.github.io/">Jiangmiao Pang</a><sup>1</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Shanghai AI Laboratory,</span>
+            <span class="author-block"><sup>2</sup>Tsinghua University,</span>
+            <span class="author-block"><sup>3</sup>Shanghai Jiao Tong University,</span>
+            <span class="author-block"><sup>3</sup>Zhejiang University,</span>
+            <span class="author-block"><sup>4</sup>The Chinese University of Hong Kong,</span>
+            <span class="author-block"><sup>5</sup>The University of Hong Kong</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="./static/paper/MMScan.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <!-- TBD!!!. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2312.16170"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>ArXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+<!--               <span class="link-block">
+                <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span> -->
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/OpenRobotLab/EmbodiedScan" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://github.com/OpenRobotLab/EmbodiedScan" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data</span>
+                  </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser"               
+               controls
+               muted
+               preload
+               playsinline height="100%">
+        <source src="./static/videos/demo_video.mp4"
+                type="video/mp4">
+      </video>
+    </div>
+      <h2 class="subtitle has-text-centered">
+        <span class="dnerf">MMScan</span> provides a multi-modal 3D scene dataset with hierarchical grounded language annotations, covering holistic aspects on both object- and region-level.
+        Building upon MMScan, we establish 3D visual grounding and question answering benchmarks and showcase new challenges in the future.
+        Furthermore, using this high-quality dataset to train state-of-the-art models can achieve remarkable performance improvement both on existing benchmarks and in-the-wild evaluation.
+      </h2>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          With the emergence of LLMs and their integration with other data modalities, multi-modal 3D perception attracts more attention due to its connectivity to the physical world and makes rapid progress.
+          However, limited by existing datasets, previous works mainly focus on understanding object properties or inter-object spatial relationships in a 3D scene.
+          To tackle this problem, this paper builds the first <b>largest ever</b> multi-modal 3D scene dataset and benchmark with <b>hierarchical grounded</b> language annotations, <b>MMScan</b>.
+          It is constructed based on a <b>top-down logic</b>, from region to object level, from a single target to inter-target relationships, covering holistic aspects of <b>spatial and attribute understanding</b>.
+          The overall pipeline incorporates <b>powerful VLMs</b> via carefully designed prompts to initialize the annotations efficiently and further <b>involve humans' correction in the loop</b> to ensure the annotations are natural, correct, and comprehensive.
+          Built upon existing 3D scanning data, the resulting multi-modal 3D dataset encompasses <b>1.4M meta-annotated captions</b> on 109k objects and 7.7k regions as well as over <b>3.04M diverse samples</b> for 3D visual grounding and question-answering benchmarks.
+          We evaluate representative baselines on our benchmarks, analyze their capabilities in different aspects, and showcase the key problems to be addressed in the future.
+          Furthermore, we use this high-quality dataset to train state-of-the-art 3D visual grounding and LLMs and obtain remarkable performance improvement <b>both on existing benchmarks</b> and <b>in-the-wild evaluation</b>.
+        </div>
+      </div>
+    </div>
+<!--     <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-centered">
+          <video id="replay-video"
+                 controls
+                 muted
+                 preload
+                 playsinline
+                 width="100%">
+            <source src="./static/videos/demo_editing_5.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+      </div>
+    </div> -->
+    <!--/ Abstract. -->
+
+    <!-- Paper video. -->
+<!--     <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe src="./static/videos/teaser_gif.gif"
+                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div> -->
+    <!--/ Paper video. -->
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+      <!-- Pipeline -->
+      <div class="columns is-centered has-text-centered">
+      <h3 class="title is-4">Dataset Overview</h3>
+      </div>
+      <div class="content has-text-centered">
+        <img width="75%" src="./static/images/MMScan_teaser.png"">
+      </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-justified">
+          MMScan provides the largest ever multi-modal 3D scene dataset with 6.9M hierarchical grounded language annotations, covering holistic aspects on both object- and region-level.
+        </div>
+      </div>
+    </div>
+      <div class="content has-text-centered">
+        <video id="replay-video"
+               controls
+               muted
+               preload
+               playsinline
+               width="75%">
+          <source src="./static/videos/dataset_overview.mp4"
+                  type="video/mp4">
+        <p>
+          Dataset Overview.
+        </p>
+        </video>
+      </div>
+      <!--/ Pipeline -->
+      </div>
+    </div>
+  
+
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+      <!-- Pipeline -->
+      <div class="columns is-centered has-text-centered">
+      <h3 class="title is-4">Annotation Pipeline</h3>
+      </div>
+      <div class="content has-text-centered">
+        <video id="replay-video"
+               controls
+               muted
+               preload
+               playsinline
+               width="75%">
+          <source src="./static/videos/meta-annotation.mp4"
+                  type="video/mp4">
+        </video>
+      </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-justified">
+          The dataset construction starts with collecting meta-annotations to cover holistic aspects of spatial and attribute understanding for different granularities of 3D scenes.
+          In this paper, we design a top-down logic, to collect object- and region-level annotations.
+          Specifically, we first select optimal views for each object to incorporate VLMs to initialize the annotations efficiently and then involve human’s correction in the loop.
+          The annotation result includes both spatial (geometric shape, pose) and attribute (category, appearance, material, state, etc.) descriptions for the object.
+          We annotate regions in a similar way while focusing on regions’ inherent properties, object-object/region relationships and advanced QA via a different UI and prompts.
+        </div>
+      </div>
+  </div>
+</section>
+
+<section class="section">
+    <div class="container is-max-desktop">
+
+      <h3 class="title is-4">Post-processing for Benchmarks</h3>
+      <div class="content has-text-centered">
+        <video id="replay-video"
+               controls
+               muted
+               preload
+               playsinline
+               width="75%">
+          <source src="./static/videos/post-processing.mp4"
+                  type="video/mp4">
+        </video>
+      </div>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <div class="content has-text-justified">
+            Given these meta-annotations, we further generate comprehensive samples for visual grounding and question-answering benchmarks.
+          </div>
+        </div>
+      <!--/ Matting. -->
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+  
+      <!-- Multi-agent. -->
+      <h3 class="title is-4">In-the-Wild Test</h3>
+      <div class="content has-text-justified">
+        <p>
+          Trained with <span class="dnerf">MMScan</span>, our model obtains remarkable performance improvement both on existing benchmarks and in-the-wild evaluation.
+        </p>
+      </div>
+      <div class="content has-text-centered">
+        <video id="replay-video"
+               controls
+               muted
+               preload
+               playsinline
+               width="75%">
+          <source src="./static/videos/in_the_wild.mp4"
+                  type="video/mp4">
+        </video>
+      </div>
+      <!--/ Multi-agent. -->
+  
+
+  
+    </div>
+  </section>
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@inproceedings{mmscan,
+    title={MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations},
+    author={Lyu, Ruiyuan and Wang, Tai and Lin, Jingli and Yang, Shuai and Mao, Xiaohan and Chen, Yilun and Xu, Runsen and Huang, Haifeng and Zhu, Chenming and Lin, Dahua and Pang, Jiangmiao},
+    year={2024},
+    booktitle={arXiv},
+}</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link"
+         href="https://arxiv.org/pdf/2312.16170.pdf">
+        <i class="fas fa-file-pdf"></i>
+      </a>
+      <a class="icon-link" href="https://github.com/OpenRobotLab/EmbodiedScan" class="external-link" disabled>
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template/">Academic Project Page Template</a>
+            which was adopted from the <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a> project page.
+          </p>
+          <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5oameh3wgab&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
