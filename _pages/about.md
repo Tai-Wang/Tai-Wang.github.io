@@ -38,7 +38,7 @@ Education
 
 Selected Publications
 ----------
-**Multi-Modal 3D Perception** <br/>
+**Embodied Multi-Modal 3D Perception** <br/>
 
 <img src="../images/mmscan.gif" width = "180" height = "110" alt="mmscan" align="left" />
 &ensp;MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical <br/> &ensp;Grounded Language Annotations
