@@ -48,7 +48,7 @@ Selected Publications
 
 <img src="../images/grounded-3d-llm.jpg" width = "180" height = "110" alt="mmscan" align="left" />
 &ensp;Grounded 3D-LLM with Referent Tokens
-:   &nbsp;&ensp;Yilun Chen\*, Shuai Yang\*, Haifeng Huang\*, **Tai Wang**, Ruiyuan Lyu, <br/> &ensp; Runsen Xu, Dahua Lin, Jiangmiao Pang
+:   &nbsp;&ensp;Yilun Chen\*, Shuai Yang\*, Haifeng Huang\*, **Tai Wang**, Ruiyuan Lyu, Runsen Xu, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://groundedscenellm.github.io/grounded_3d-llm.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2405.10370)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/Grounded_3D-LLM)
 
@@ -74,7 +74,7 @@ Selected Publications
 **Embodied Interaction** <br/>
 <img src="../images/GRUtopia.gif" width = "180" height = "110" alt="unihsi" align="left" />
 &ensp;GRUtopia: Dream General Robots in a City at Scale
-:   &nbsp;&ensp;Hanqing Wang\*, Jiahe Chen\*, Wensi Huang\*, Qingwei Ben\*, **Tai Wang\***, **Boyu Mi\***, et al.
+:   &nbsp;&ensp;Hanqing Wang\*, Jiahe Chen\*, Wensi Huang\*, Qingwei Ben\*, **Tai Wang\***, Boyu Mi\*, et al.
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://github.com/OpenRobotLab/GRUtopia)&nbsp;[\[Paper\]](https://arxiv.org/abs/2407.10943)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/GRUtopia)&nbsp;[\[Doc\]](https://grutopia.github.io/)&nbsp;[\[Youtube\]](https://www.youtube.com/watch?v=fD0F1jIax5Y)&nbsp;[\[bilibili\]](https://www.bilibili.com/video/BV1JUbxeMEsL/?buvid=XU42709457560E0722A8AA591EE792A3DAE59&from_spmid=search.search-result.0.0&is_story_h5=false&mid=vxiHfNKVdk6fb8fduRusuX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e78b4bb6-087b-4a72-817b-b06ef91167f3&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1720788955&unique_k=CeKgxGI&up_id=3546722198358311&vd_source=7f685cd616faf836ed7469749c100410)
 
