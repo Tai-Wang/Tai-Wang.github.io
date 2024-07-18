@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [OpenRobotLab](https://github.com/OpenRobotLab), [Shanghai AI Laboratory](https://www.shlab.org.cn/), working on embodied AI. My research focuses on constructing a comprehensive 3D understanding of our world from ego-centric, multi-modal inputs, thereby enabling embodied planning and physical interactions. In recent years, we have contributed several fundamental endeavors in general 3D perception from [LiDAR point clouds](https://arxiv.org/abs/2011.10033), [monocular images](https://arxiv.org/abs/2104.10956) and [videos](https://arxiv.org/abs/2207.12988) with an open-source codebase, [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
+I am a researcher at [OpenRobotLab](https://github.com/OpenRobotLab), [Shanghai AI Laboratory](https://www.shlab.org.cn/), working on embodied AI. My research focuses on constructing a comprehensive 3D understanding of our world from ego-centric, multi-modal inputs, thereby enabling embodied planning and physical interactions. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D](https://arxiv.org/abs/2011.10033),[FCOS3D](https://arxiv.org/abs/2104.10956), [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan](https://arxiv.org/abs/2312.16170), [PointLLM](https://arxiv.org/abs/2308.16911), [Grounded 3D-LLM](https://arxiv.org/abs/2405.10370)), to embodied interaction ([UniHSI](https://arxiv.org/abs/2407.10943), [GRUtopia](https://arxiv.org/abs/2407.10943))
+
+with an open-source codebase, [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
 
 Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Dahua Lin](http://dahua.site/), our group is dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
@@ -46,13 +48,13 @@ Selected Publications
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/mmscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2406.09401)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)
 
-<img src="../images/grounded-3d-llm.jpg" width = "180" height = "110" alt="mmscan" align="left" />
+<img src="../images/grounded-3d-llm.jpg" width = "180" height = "110" alt="grounded-3d-llm" align="left" />
 &ensp;Grounded 3D-LLM with Referent Tokens
 :   &nbsp;&ensp;Yilun Chen\*, Shuai Yang\*, Haifeng Huang\*, **Tai Wang**, Ruiyuan Lyu, Runsen Xu, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://groundedscenellm.github.io/grounded_3d-llm.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2405.10370)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/Grounded_3D-LLM)
 
-<img src="../images/scanreason.png" width = "180" height = "110" alt="pointllm" align="left" />
+<img src="../images/scanreason.png" width = "180" height = "110" alt="scanreason" align="left" />
 &ensp;Empowering 3D Visual Grounding with Reasoning Capabilities
 :   &nbsp;&ensp;Chenming Zhu, **Tai Wang**, Wenwei Zhang, Kai Chen, Xihui Liu
 :   &nbsp;&ensp;European Conference on Computer Vision (ECCV) 2024
@@ -72,7 +74,7 @@ Selected Publications
 
 ----------
 **Embodied Interaction** <br/>
-<img src="../images/GRUtopia.gif" width = "180" height = "110" alt="unihsi" align="left" />
+<img src="../images/GRUtopia.gif" width = "180" height = "110" alt="grutopia" align="left" />
 &ensp;GRUtopia: Dream General Robots in a City at Scale
 :   &nbsp;&ensp;Hanqing Wang\*, Jiahe Chen\*, Wensi Huang\*, Qingwei Ben\*, **Tai Wang\***, Boyu Mi\*, et al.
 :   &nbsp;&ensp;ArXiv preprint
