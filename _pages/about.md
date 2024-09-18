@@ -12,7 +12,7 @@ I am a researcher at [OpenRobotLab](https://openrobotlab.org.cn/), [Shanghai AI 
 
 Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Dahua Lin](http://dahua.site/), our group is dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
-I earned my Ph.D. degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). Before that, I received my B.Eng degree from [Zhejiang University](https://www.zju.edu.cn/english/) with the highest honors in 2019.
+I earned my Ph.D. degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). Before that, I received my B.Eng degree from [Zhejiang University](https://www.zju.edu.cn/english/) with the highest honors.
 
 News
 ----------
@@ -61,7 +61,7 @@ Selected Publications
 <img src="../images/pointllm.gif" width = "180" height = "110" alt="pointllm" align="left" />
 &ensp;PointLLM: Empowering Large Language Models to Understand Point Clouds
 :   &nbsp;&ensp;Runsen Xu, Xiaolong Wang, **Tai Wang**, Yilun Chen, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;European Conference on Computer Vision (ECCV) 2024, **all strong accept**
+:   &nbsp;&ensp;European Conference on Computer Vision (ECCV) 2024, **Oral (all strong accept)**
 :   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2308.16911)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)
 
 <img src="../images/embodiedscan.gif" width = "180" height = "110" alt="embodiedscan" align="left" />
