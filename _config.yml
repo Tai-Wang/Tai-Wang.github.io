@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tai Wang 王泰"
-  avatar           : "HighRes-Vienna.jpeg"
+  avatar           : "avatar-compressed.jpg"
   bio              : "Researcher @ Shanghai AI Lab"
   location         : "Shanghai"
   employer         :
