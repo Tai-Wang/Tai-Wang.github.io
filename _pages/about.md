@@ -81,7 +81,7 @@ Selected Publications
 
 <img src="../images/coohoi.png" width = "180" height = "110" alt="coohoi" align="left" />
 &ensp;CooHOI: Learning Cooperative Human-Object Interaction with <br/> &ensp;Manipulated Object Dynamics
-:   &nbsp;&ensp;Jiawei Gao, Ziqin Wang, Zeqi Xiao, Jingbo Wang, **Tai Wang**, Jinkun Cao, <br/> &ensp; Xiaolin Hu, Si Liu, Jifeng Dai, Jiangmiao Pang
+:   &nbsp;&ensp;Jiawei Gao, Ziqin Wang, Zeqi Xiao, Jingbo Wang, **Tai Wang**, et al.
 :   &nbsp;&ensp;Conference on Neural Information Processing Systems (**NeurIPS**) 2024, **Spotlight**
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2406.14558)&nbsp;\[Code (Coming Soon)\]
 
