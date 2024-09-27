@@ -83,7 +83,7 @@ Selected Publications
 &ensp;CooHOI: Learning Cooperative Human-Object Interaction with <br/> &ensp;Manipulated Object Dynamics
 :   &nbsp;&ensp;Jiawei Gao, Ziqin Wang, Zeqi Xiao, Jingbo Wang, **Tai Wang**, et al.
 :   &nbsp;&ensp;Conference on Neural Information Processing Systems (**NeurIPS**) 2024, **Spotlight**
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2406.14558)&nbsp;\[Code (Coming Soon)\]
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2406.14558)&nbsp;\[Code\](Coming Soon)
 
 <img src="../images/GRUtopia.gif" width = "180" height = "110" alt="grutopia" align="left" />
 &ensp;GRUtopia: Dream General Robots in a City at Scale
