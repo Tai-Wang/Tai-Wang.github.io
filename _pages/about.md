@@ -40,8 +40,8 @@ Selected Publications
 ----------
 **Embodied Multi-Modal 3D Perception** <br/>
 
-<img src="../images/llava3d.jpg" width = "180" height = "110" alt="llava3d" align="left" />
-&ensp;LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness
+<img src="../images/llava3d.png" width = "180" height = "110" alt="llava3d" align="left" />
+&ensp;LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs <br/> &ensp;with 3D-awareness
 :   &nbsp;&ensp;Chenming Zhu, **Tai Wang**, Wenwei Zhang, Jiangmiao Pang, Xihui Liu
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://zcmax.github.io/projects/LLaVA-3D/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2409.18125)&nbsp;[\[Code\]](https://github.com/ZCMax/LLaVA-3D)
@@ -79,8 +79,8 @@ Selected Publications
 ----------
 **Embodied Interaction** <br/>
 
-<img src="../images/coohoi.jpg" width = "180" height = "110" alt="coohoi" align="left" />
-&ensp;CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics
+<img src="../images/coohoi.png" width = "180" height = "110" alt="coohoi" align="left" />
+&ensp;CooHOI: Learning Cooperative Human-Object Interaction with <br/> &ensp;Manipulated Object Dynamics
 :   &nbsp;&ensp;Jiawei Gao, Ziqin Wang, Zeqi Xiao, Jingbo Wang, **Tai Wang**, Jinkun Cao, <br/> &ensp; Xiaolin Hu, Si Liu, Jifeng Dai, Jiangmiao Pang
 :   &nbsp;&ensp;Conference on Neural Information Processing Systems (**NeurIPS**) 2024, **Spotlight**
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2406.14558)&nbsp;\[Code (Coming Soon)\]
