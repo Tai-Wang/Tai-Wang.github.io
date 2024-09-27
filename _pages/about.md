@@ -40,10 +40,16 @@ Selected Publications
 ----------
 **Embodied Multi-Modal 3D Perception** <br/>
 
+<img src="../images/llava3d.jpg" width = "180" height = "110" alt="llava3d" align="left" />
+&ensp;LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness
+:   &nbsp;&ensp;Chenming Zhu, **Tai Wang**, Wenwei Zhang, Jiangmiao Pang, Xihui Liu
+:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://zcmax.github.io/projects/LLaVA-3D/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2409.18125)&nbsp;[\[Code\]](https://github.com/ZCMax/LLaVA-3D)
+
 <img src="../images/mmscan.gif" width = "180" height = "110" alt="mmscan" align="left" />
 &ensp;MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical <br/> &ensp;Grounded Language Annotations
 :   &nbsp;&ensp;Ruiyuan Lyu\*, **Tai Wang\***, Jingli Lin\*, Shuai Yang\*, et al.
-:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;Conference on Neural Information Processing Systems (**NeurIPS**) 2024
 :   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/mmscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2406.09401)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)
 
 <img src="../images/grounded-3d-llm.jpg" width = "180" height = "110" alt="grounded-3d-llm" align="left" />
@@ -55,13 +61,13 @@ Selected Publications
 <img src="../images/scanreason.png" width = "180" height = "110" alt="scanreason" align="left" />
 &ensp;Empowering 3D Visual Grounding with Reasoning Capabilities
 :   &nbsp;&ensp;Chenming Zhu, **Tai Wang**, Wenwei Zhang, Kai Chen, Xihui Liu
-:   &nbsp;&ensp;European Conference on Computer Vision (ECCV) 2024
+:   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2024
 :   &nbsp;&ensp;[\[Project Page\]](https://zcmax.github.io/projects/ScanReason/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2407.01525)&nbsp;[\[Code\]](https://github.com/ZCMax/ScanReason)
 
 <img src="../images/pointllm.gif" width = "180" height = "110" alt="pointllm" align="left" />
 &ensp;PointLLM: Empowering Large Language Models to Understand Point Clouds
 :   &nbsp;&ensp;Runsen Xu, Xiaolong Wang, **Tai Wang**, Yilun Chen, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;European Conference on Computer Vision (ECCV) 2024, **Oral (all strong accept)**
+:   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2024, **Oral (all strong accept)**
 :   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2308.16911)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)
 
 <img src="../images/embodiedscan.gif" width = "180" height = "110" alt="embodiedscan" align="left" />
@@ -72,6 +78,13 @@ Selected Publications
 
 ----------
 **Embodied Interaction** <br/>
+
+<img src="../images/coohoi.jpg" width = "180" height = "110" alt="coohoi" align="left" />
+&ensp;CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics
+:   &nbsp;&ensp;Jiawei Gao, Ziqin Wang, Zeqi Xiao, Jingbo Wang, **Tai Wang**, Jinkun Cao, <br/> &ensp; Xiaolin Hu, Si Liu, Jifeng Dai, Jiangmiao Pang
+:   &nbsp;&ensp;Conference on Neural Information Processing Systems (**NeurIPS**) 2024, **Spotlight**
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2406.14558)&nbsp;\[Code (Coming Soon)\]
+
 <img src="../images/GRUtopia.gif" width = "180" height = "110" alt="grutopia" align="left" />
 &ensp;GRUtopia: Dream General Robots in a City at Scale
 :   &nbsp;&ensp;Hanqing Wang\*, Jiahe Chen\*, Wensi Huang\*, Qingwei Ben\*, **Tai Wang\***, Boyu Mi\*, et al.
