@@ -42,7 +42,7 @@ Selected Publications
 
 <img src="../images/llava3d.png" width = "180" height = "110" alt="llava3d" align="left" />
 &ensp;LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs <br/> &ensp;with 3D-awareness
-:   &nbsp;&ensp;Chenming Zhu, **Tai Wang**, Wenwei Zhang, Jiangmiao Pang, Xihui Liu
+:   &nbsp;&ensp;Chenming Zhu, **Tai Wang†**, Wenwei Zhang, Jiangmiao Pang, Xihui Liu†
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://zcmax.github.io/projects/LLaVA-3D/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2409.18125)&nbsp;[\[Code\]](https://github.com/ZCMax/LLaVA-3D)
 
@@ -66,8 +66,8 @@ Selected Publications
 
 <img src="../images/pointllm.gif" width = "180" height = "110" alt="pointllm" align="left" />
 &ensp;PointLLM: Empowering Large Language Models to Understand Point Clouds
-:   &nbsp;&ensp;Runsen Xu, Xiaolong Wang, **Tai Wang**, Yilun Chen, Jiangmiao Pang, Dahua Lin
-:   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2024, **Oral (all strong accept)**
+:   &nbsp;&ensp;Runsen Xu, Xiaolong Wang, **Tai Wang†**, Yilun Chen, Jiangmiao Pang†, Dahua Lin
+:   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2024, **Best Paper Candidate (all strong accept)**
 :   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/PointLLM/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2308.16911)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/PointLLM)
 
 <img src="../images/embodiedscan.gif" width = "180" height = "110" alt="embodiedscan" align="left" />
