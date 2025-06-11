@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [OpenRobotLab](https://openrobotlab.org.cn/), [Shanghai AI Laboratory](https://www.shlab.org.cn/), working on embodied AI. My research focuses on constructing a comprehensive 3D understanding of our world from ego-centric, multi-modal inputs, thereby enabling embodied planning and physical interactions. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [Grounded 3D-LLM](https://arxiv.org/abs/2405.10370)), to embodied interaction ([UniHSI,](https://arxiv.org/abs/2407.10943) [GRUtopia](https://arxiv.org/abs/2407.10943)), with continuing open-source efforts ([MMDetection3D,](https://github.com/open-mmlab/mmdetection3d) [OpenRobotLab](https://github.com/OpenRobotLab)).
+I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on 3D Perception and Navigation Intelligence. My research focuses on constructing a foundation model that can understand our 3D world comprehensively (a.k.a. Spatial Intelligence), especially from ego-centric observations, and ultimately enabling general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to embodied interaction ([NavDP,](https://arxiv.org/abs/2505.08712) [GRUtopia](https://arxiv.org/abs/2407.10943)), with continuing open-source efforts ([MMDetection3D,](GitHub - open-mmlab/mmdetection3d: OpenMMLab's next-generation platform for general 3D object detect) [OpenRobotLab](OpenRobotLab)).
 
-Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Dahua Lin](http://dahua.site/), our group is dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
+Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/), we are dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
-I earned my Ph.D. degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). Before that, I received my B.Eng degree from [Zhejiang University](https://www.zju.edu.cn/english/) with the highest honors.
+I earned my Ph.D. degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Dahua Lin](http://dahua.site/). Before that, I received my B.Eng degree from [Zhejiang University](https://www.zju.edu.cn/english/) with the highest honors.
 
 News
 ----------
+- \[2025/06\] We release [NavDP](https://wzcai99.github.io/navigation-diffusion-policy.github.io/), [StreamVLN](https://streamvln.github.io/), [MMSI-Bench](https://runsenxu.com/projects/MMSI_Bench/) and [GLEAM](https://xiao-chen.tech/gleam/).
 - \[2024/07\] We release [GRUtopia](https://github.com/OpenRobotLab/GRUtopia), [MMScan](https://tai-wang.github.io/mmscan/) and [Grounded 3D-LLM](https://groundedscenellm.github.io/grounded_3d-llm.github.io/).
 - \[2024/03\] [EmbodiedScan](https://tai-wang.github.io/embodiedscan/) and [GenNBV](https://gennbv.tech/) are accepted by CVPR 2024. The Challenge [Server](https://huggingface.co/spaces/AGC2024/visual-grounding-2024) is online!
 - \[2024/02\] We will host the Multi-View 3D Visual Grounding track in the [Autonomous Grand Challenge](https://opendrivelab.com/challenge2024/).
@@ -38,7 +39,34 @@ Education
 
 Selected Publications
 ----------
+**Navigation \& Exploration** <br/>
+
+<img src="../images/StreamVLN.png" width = "180" height = "110" alt="streamvln" align="left" />
+&ensp;StreamVLN: Streaming Vision-and-Language Navigation via <br/> &ensp;SlowFast Context Modeling
+:   &nbsp;&ensp;Meng Wei\*, Chenyang Wan\*, Xiqian Yu\*, **Tai Wang\*‡**, et al.
+:   &nbsp;&ensp;To be preprinted on arXiv
+:   &nbsp;&ensp;[\[Project Page\]](https://streamvln.github.io/)&nbsp;\[Paper\]\(Coming Soon)&nbsp;\[Code\](Coming Soon)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/1914387005099451505)
+
+<img src="../images/NavDP.png" width = "180" height = "110" alt="navdp" align="left" />
+&ensp;NavDP: Learning Sim-to-Real Navigation Diffusion Policy with <br/> &ensp;Privileged Information Guidance
+:   &nbsp;&ensp;Wenzhe Cai, Jiaqi Peng, Yuqiang Yang, Yujian Zhang, ..., **Tai Wang\†**, Jiangmiao Pang†
+:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.08712)&nbsp;[\[Code\]](https://github.com/wzcai99/NavDP)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/1914387005099451505)
+
+<img src="../images/GLEAM.gif" width = "180" height = "110" alt="gleam" align="left" />
+&ensp;GLEAM: Learning Generalizable Exploration Policy for Active Mapping <br/> &ensp;in Complex 3D Indoor Scenes
+:   &nbsp;&ensp;Xiao Chen, Tai Wang, Quanyi Li, Tao Huang, Jiangmiao Pang, Tianfan Xue
+:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://xiao-chen.tech/gleam/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.20294)&nbsp;[\[Code\]](https://github.com/zjwzcx/GLEAM)
+
+----------
 **Embodied Multi-Modal 3D Perception** <br/>
+
+<img src="../images/MMSI-bench.png" width = "180" height = "110" alt="navdp" align="left" />
+&ensp;MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence
+:   &nbsp;&ensp;Sihan Yang\*, Runsen Xu\*‡, Yiman Xie, Sizhe Yang, ..., **Tai Wang\†**, Jiangmiao Pang†
+:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/MMSI_Bench/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.23764)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/MMSI-Bench)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/2YAvQeGib137tjfnULpRng)
 
 <img src="../images/llava3d.png" width = "180" height = "110" alt="llava3d" align="left" />
 &ensp;LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs <br/> &ensp;with 3D-awareness
@@ -77,7 +105,7 @@ Selected Publications
 :   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/embodiedscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2312.16170)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/__cubd_YlvZrTvDHyLI-ow)
 
 ----------
-**Embodied Interaction** <br/>
+**Embodied Interaction \& Simulation** <br/>
 
 <img src="../images/coohoi.png" width = "180" height = "110" alt="coohoi" align="left" />
 &ensp;CooHOI: Learning Cooperative Human-Object Interaction with <br/> &ensp;Manipulated Object Dynamics
