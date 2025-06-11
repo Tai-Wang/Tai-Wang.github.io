@@ -55,7 +55,7 @@ Selected Publications
 
 <img src="../images/GLEAM.gif" width = "180" height = "110" alt="gleam" align="left" />
 &ensp;GLEAM: Learning Generalizable Exploration Policy for Active Mapping <br/> &ensp;in Complex 3D Indoor Scenes
-:   &nbsp;&ensp;Xiao Chen, *Tai Wang*, Quanyi Li, Tao Huang, Jiangmiao Pang, Tianfan Xue
+:   &nbsp;&ensp;Xiao Chen, **Tai Wang**, Quanyi Li, Tao Huang, Jiangmiao Pang, Tianfan Xue
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://xiao-chen.tech/gleam/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.20294)&nbsp;[\[Code\]](https://github.com/zjwzcx/GLEAM)
 
