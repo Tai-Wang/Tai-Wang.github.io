@@ -49,22 +49,22 @@ Selected Publications
 
 <img src="../images/NavDP.png" width = "180" height = "110" alt="navdp" align="left" />
 &ensp;NavDP: Learning Sim-to-Real Navigation Diffusion Policy with <br/> &ensp;Privileged Information Guidance
-:   &nbsp;&ensp;Wenzhe Cai, Jiaqi Peng, Yuqiang Yang, Yujian Zhang, ..., **Tai Wang\†**, Jiangmiao Pang†
+:   &nbsp;&ensp;Wenzhe Cai, Jiaqi Peng, Yuqiang Yang, Yujian Zhang, ..., **Tai Wang†**, Jiangmiao Pang†
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.08712)&nbsp;[\[Code\]](https://github.com/wzcai99/NavDP)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/1914387005099451505)
 
 <img src="../images/GLEAM.gif" width = "180" height = "110" alt="gleam" align="left" />
 &ensp;GLEAM: Learning Generalizable Exploration Policy for Active Mapping <br/> &ensp;in Complex 3D Indoor Scenes
-:   &nbsp;&ensp;Xiao Chen, Tai Wang, Quanyi Li, Tao Huang, Jiangmiao Pang, Tianfan Xue
+:   &nbsp;&ensp;Xiao Chen, *Tai Wang*, Quanyi Li, Tao Huang, Jiangmiao Pang, Tianfan Xue
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://xiao-chen.tech/gleam/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.20294)&nbsp;[\[Code\]](https://github.com/zjwzcx/GLEAM)
 
 ----------
 **Embodied Multi-Modal 3D Perception** <br/>
 
-<img src="../images/MMSI-bench.png" width = "180" height = "110" alt="navdp" align="left" />
+<img src="../images/MMSI-bench.jpg" width = "180" height = "110" alt="navdp" align="left" />
 &ensp;MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence
-:   &nbsp;&ensp;Sihan Yang\*, Runsen Xu\*‡, Yiman Xie, Sizhe Yang, ..., **Tai Wang\†**, Jiangmiao Pang†
+:   &nbsp;&ensp;Sihan Yang\*, Runsen Xu\*‡, Yiman Xie, Sizhe Yang, ..., **Tai Wang†**, Jiangmiao Pang†
 :   &nbsp;&ensp;ArXiv preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/MMSI_Bench/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.23764)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/MMSI-Bench)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/2YAvQeGib137tjfnULpRng)
 
