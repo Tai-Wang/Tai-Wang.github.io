@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on 3D Perception and Navigation Intelligence. My research focuses on constructing a foundation model that can understand our 3D world comprehensively (a.k.a. Spatial Intelligence), especially from ego-centric observations, and ultimately enabling general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to embodied interaction ([NavDP,](https://arxiv.org/abs/2505.08712) [GRUtopia](https://arxiv.org/abs/2407.10943)), with continuing open-source efforts ([MMDetection3D,](GitHub - open-mmlab/mmdetection3d: OpenMMLab's next-generation platform for general 3D object detect) [OpenRobotLab](OpenRobotLab)).
+I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on 3D Perception and Navigation Intelligence. My research focuses on constructing a foundation model that can understand our 3D world comprehensively (a.k.a. Spatial Intelligence), especially from ego-centric observations, and ultimately enabling general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to downstream embodied tasks ([NavDP,](https://arxiv.org/abs/2505.08712) [GRUtopia](https://arxiv.org/abs/2407.10943)), with continuing open-source efforts ([MMDetection3D,](GitHub - open-mmlab/mmdetection3d: OpenMMLab's next-generation platform for general 3D object detect) [OpenRobotLab](OpenRobotLab)).
 
 Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/), we are dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
@@ -39,7 +39,7 @@ Education
 
 Selected Publications
 ----------
-**Navigation \& Exploration** <br/>
+**Navigation & Exploration** <br/>
 
 <img src="../images/StreamVLN.png" width = "180" height = "110" alt="streamvln" align="left" />
 &ensp;StreamVLN: Streaming Vision-and-Language Navigation via <br/> &ensp;SlowFast Context Modeling
@@ -62,7 +62,7 @@ Selected Publications
 ----------
 **Embodied Multi-Modal 3D Perception** <br/>
 
-<img src="../images/MMSI-bench.jpg" width = "180" height = "110" alt="navdp" align="left" />
+<img src="../images/MMSI-Bench.jpg" width = "180" height = "110" alt="mmsi-bench" align="left" />
 &ensp;MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence
 :   &nbsp;&ensp;Sihan Yang\*, Runsen Xu\*‡, Yiman Xie, Sizhe Yang, ..., **Tai Wang†**, Jiangmiao Pang†
 :   &nbsp;&ensp;ArXiv preprint
@@ -105,7 +105,7 @@ Selected Publications
 :   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/embodiedscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2312.16170)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/__cubd_YlvZrTvDHyLI-ow)
 
 ----------
-**Embodied Interaction \& Simulation** <br/>
+**Embodied Interaction & Simulation** <br/>
 
 <img src="../images/coohoi.png" width = "180" height = "110" alt="coohoi" align="left" />
 &ensp;CooHOI: Learning Cooperative Human-Object Interaction with <br/> &ensp;Manipulated Object Dynamics
@@ -205,6 +205,7 @@ Research Projects
 
 Selected Awards
 ----------
+- Best Paper Award Candidate of ECCV 2024
 - Runner-up of [Waymo Camera-Only 3D Detection Challenge](https://cvpr2022.wad.vision/), CVPR 2022
 - Best Paper Award of [Workshop on 3D Object Detection from Images](https://sites.google.com/unitn.it/3dodi/home), ICCV 2021
 - 1st place of vision-only track and best PKL award of overall track, [NuScenes 3D Detection Challenge](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any), NeurIPS 2020
