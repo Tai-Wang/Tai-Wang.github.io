@@ -56,7 +56,7 @@ Selected Publications
 <img src="../images/GLEAM.gif" width = "180" height = "110" alt="gleam" align="left" />
 &ensp;GLEAM: Learning Generalizable Exploration Policy for Active Mapping <br/> &ensp;in Complex 3D Indoor Scenes
 :   &nbsp;&ensp;Xiao Chen, **Tai Wang**, Quanyi Li, Tao Huang, Jiangmiao Pang, Tianfan Xue
-:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (**ICCV**) 2025
 :   &nbsp;&ensp;[\[Project Page\]](https://xiao-chen.tech/gleam/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.20294)&nbsp;[\[Code\]](https://github.com/zjwzcx/GLEAM)
 
 ----------
@@ -71,7 +71,7 @@ Selected Publications
 <img src="../images/llava3d.png" width = "180" height = "110" alt="llava3d" align="left" />
 &ensp;LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs <br/> &ensp;with 3D-awareness
 :   &nbsp;&ensp;Chenming Zhu, **Tai Wang†**, Wenwei Zhang, Jiangmiao Pang, Xihui Liu†
-:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;IEEE/CVF International Conference on Computer Vision (**ICCV**) 2025
 :   &nbsp;&ensp;[\[Project Page\]](https://zcmax.github.io/projects/LLaVA-3D/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2409.18125)&nbsp;[\[Code\]](https://github.com/ZCMax/LLaVA-3D)
 
 <img src="../images/mmscan.gif" width = "180" height = "110" alt="mmscan" align="left" />
