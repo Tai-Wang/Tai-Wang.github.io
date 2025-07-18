@@ -44,8 +44,8 @@ Selected Publications
 <img src="../images/StreamVLN.png" width = "180" height = "110" alt="streamvln" align="left" />
 &ensp;StreamVLN: Streaming Vision-and-Language Navigation via <br/> &ensp;SlowFast Context Modeling
 :   &nbsp;&ensp;Meng Wei\*, Chenyang Wan\*, Xiqian Yu\*, **Tai Wang\*‡**, et al.
-:   &nbsp;&ensp;To be preprinted on arXiv
-:   &nbsp;&ensp;[\[Project Page\]](https://streamvln.github.io/)&nbsp;\[Paper\]\(https://arxiv.org/abs/2507.05240)&nbsp;\[Code\](https://github.com/OpenRobotLab/StreamVLN)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/1914387005099451505)
+:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://streamvln.github.io/)&nbsp;[\[Paper\]\](https://arxiv.org/abs/2507.05240)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/StreamVLN)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/1914387005099451505)
 
 <img src="../images/NavDP.png" width = "180" height = "110" alt="navdp" align="left" />
 &ensp;NavDP: Learning Sim-to-Real Navigation Diffusion Policy with <br/> &ensp;Privileged Information Guidance
@@ -111,7 +111,7 @@ Selected Publications
 &ensp;CooHOI: Learning Cooperative Human-Object Interaction with <br/> &ensp;Manipulated Object Dynamics
 :   &nbsp;&ensp;Jiawei Gao, Ziqin Wang, Zeqi Xiao, Jingbo Wang, **Tai Wang**, et al.
 :   &nbsp;&ensp;Conference on Neural Information Processing Systems (**NeurIPS**) 2024, **Spotlight**
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2406.14558)&nbsp;\[Code\](https://github.com/Winston-Gu/CooHOI)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2406.14558)&nbsp;[\[Code\]](https://github.com/Winston-Gu/CooHOI)
 
 <img src="../images/GRUtopia.gif" width = "180" height = "110" alt="grutopia" align="left" />
 &ensp;GRUtopia: Dream General Robots in a City at Scale
