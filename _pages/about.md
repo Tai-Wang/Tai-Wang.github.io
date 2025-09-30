@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on 3D Perception and Navigation Intelligence. My research focuses on building a foundation model that can understand our 3D world comprehensively (a.k.a. Spatial Intelligence), especially from ego-centric observations, and ultimately enables general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to downstream embodied tasks ([NavDP,](https://arxiv.org/abs/2505.08712) [GRUtopia](https://arxiv.org/abs/2407.10943)), with continuing open-source efforts ([MMDetection3D,](GitHub - open-mmlab/mmdetection3d: OpenMMLab's next-generation platform for general 3D object detect) [OpenRobotLab](OpenRobotLab)).
+I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on Spatial Intelligence. My research focuses on building a foundation model that can understand our 3D world, especially from ego-centric observations with multi-modal interaction capabilities, and ultimately enables general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to downstream embodied tasks ([InternVLA-N1](https://internrobotics.github.io/internvla-n1.github.io/), [InternUtopia](https://github.com/InternRobotics/InternUtopia)), with continuing open-source efforts ([MMDetection3D,](https://github.com/open-mmlab/mmdetection3d) [Intern Robotics](https://github.com/InternRobotics)).
 
 Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/), we are dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
@@ -16,6 +16,7 @@ I earned my Ph.D. degree from [MMLab](http://mmlab.ie.cuhk.edu.hk/), [The Chines
 
 News
 ----------
+- \[2025/09\] We release [InternVLA-N1](https://internrobotics.github.io/internvla-n1.github.io/) with [InternNav](https://github.com/InternRobotics/InternNav). See [Intern Robotics](https://github.com/InternRobotics) for more progress on manipulation and locomotion from our team.
 - \[2025/06\] We release [NavDP](https://wzcai99.github.io/navigation-diffusion-policy.github.io/), [StreamVLN](https://streamvln.github.io/), [MMSI-Bench](https://runsenxu.com/projects/MMSI_Bench/) and [GLEAM](https://xiao-chen.tech/gleam/).
 - \[2024/07\] We release [GRUtopia](https://github.com/OpenRobotLab/GRUtopia), [MMScan](https://tai-wang.github.io/mmscan/) and [Grounded 3D-LLM](https://groundedscenellm.github.io/grounded_3d-llm.github.io/).
 - \[2024/03\] [EmbodiedScan](https://tai-wang.github.io/embodiedscan/) and [GenNBV](https://gennbv.tech/) are accepted by CVPR 2024. The Challenge [Server](https://huggingface.co/spaces/AGC2024/visual-grounding-2024) is online!
@@ -24,7 +25,7 @@ News
 - \[2023/12\] We release [EmbodiedScan](https://tai-wang.github.io/embodiedscan/), the first ego-centric, multi-modal 3D perception suite for holistic 3D scene understanding.
 - \[2023/08\] We release [PointLLM](https://runsenxu.com/projects/PointLLM/), the first work empowering LLMs to understand point clouds with solid evaluation and benchmarks.
 
-Education
+<!-- Education
 ----------
 <img src="../images/cuhk.png" width = "90" height = "90" alt="cuhk" align="left" />
 &ensp;The Chinese University of Hong Kong (CUHK)
@@ -35,13 +36,19 @@ Education
 &ensp;Zhejiang University (ZJU)
 :   &nbsp;&ensp;August 2015 - July 2019
 :   &nbsp;&ensp;Major: B.E. in Information Engineering
-:   &nbsp;&ensp;Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College
+:   &nbsp;&ensp;Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College -->
 
 Selected Publications
 ----------
 **Navigation & Exploration** <br/>
 
-<img src="../images/StreamVLN.png" width = "180" height = "110" alt="streamvln" align="left" />
+<img src="../images/internvla-n1.png" width = "180" height = "110" alt="internvla-n1" align="left" />
+&ensp;InternVLA-N1: An Open Dual-System Vision-Language Navigation <br/> &ensp;Foundation Model with Learned Latent Plans
+:   &nbsp;&ensp;InternVLA-N1 Team
+:   &nbsp;&ensp;Preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://internrobotics.github.io/internvla-n1.github.io/)&nbsp;[\[Paper\]](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf)&nbsp;[\[Code\]](https://github.com/InternRobotics/InternNav)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/0LYdp6XBOZbeqiCu8ADcYQ)
+
+<img src="../images/streamvln.gif" width = "180" height = "110" alt="streamvln" align="left" />
 &ensp;StreamVLN: Streaming Vision-and-Language Navigation via <br/> &ensp;SlowFast Context Modeling
 :   &nbsp;&ensp;Meng Wei\*, Chenyang Wan\*, Xiqian Yu\*, **Tai Wang\*‡**, et al.
 :   &nbsp;&ensp;ArXiv preprint
