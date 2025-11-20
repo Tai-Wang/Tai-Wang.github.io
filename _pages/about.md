@@ -112,6 +112,21 @@ Selected Publications
 :   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/embodiedscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2312.16170)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/__cubd_YlvZrTvDHyLI-ow)
 
 ----------
+**Manipulation** <br/>
+
+<img src="../images/internvla-m1.png" width = "180" height = "110" alt="internvla-m1" align="left" />
+&ensp;InternVLA-M1: A Spatially Guided Vision-Language-Action Framework <br/> &ensp;for Generalist Robot Policy
+:   &nbsp;&ensp;InternVLA-M1 Team
+:   &nbsp;&ensp;Preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://internrobotics.github.io/internvla-m1.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2510.13778)&nbsp;[\[Code\]](https://github.com/InternRobotics/InternVLA-M1/tree/InternVLA-M1)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/JH8yObJJlrxWTqbtj3og6Q)
+
+<img src="../images/x-vla.png" width = "180" height = "110" alt="x-vla" align="left" />
+&ensp;X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment <br/> &ensp;Vision-Language-Action Model
+:   &nbsp;&ensp;Jinliang Zheng\*, Jianxiong Li\*, et al.
+:   &nbsp;&ensp;Preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://thu-air-dream.github.io/X-VLA/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2510.10274)&nbsp;[\[Code\]](https://github.com/2toinf/X-VLA)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/IYefBawxqgJyOxNiXL0hVg)
+
+----------
 **Embodied Interaction & Simulation** <br/>
 
 <img src="../images/coohoi.png" width = "180" height = "110" alt="coohoi" align="left" />
