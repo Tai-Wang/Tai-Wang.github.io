@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on Spatial Intelligence. My research focuses on building a foundation model that can understand our 3D world with multi-modal interaction capabilities, especially from ego-centric observations, and ultimately enables general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to downstream embodied tasks ([InternVLA-N1](https://internrobotics.github.io/internvla-n1.github.io/), [X-VLA](https://thu-air-dream.github.io/X-VLA/)), with continuing open-source efforts ([MMDetection3D,](https://github.com/open-mmlab/mmdetection3d) [Intern Robotics](https://github.com/InternRobotics)).
+I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on Spatial Intelligence. My research focuses on building a foundation model that can understand our 3D world with multi-modal interaction capabilities, especially from ego-centric observations, and ultimately enables general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to downstream embodied tasks ([InternVLA](https://internrobotics.shlab.org.cn/largemodel.html), [X-VLA](https://thu-air-dream.github.io/X-VLA/)), with continuing open-source efforts ([MMDetection3D,](https://github.com/open-mmlab/mmdetection3d) [Intern Robotics](https://github.com/InternRobotics)).
 
 Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/), we are dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
@@ -81,7 +81,7 @@ Selected Publications
 ----------
 **Embodied Multi-Modal 3D Perception** <br/>
 
-<img src="../images/MMSI-Video-Bench.png" width = "180" height = "130" alt="mmsi-video-bench" align="left" />
+<img src="../images/MMSI-Video-Bench.png" width = "180" height = "110" alt="mmsi-video-bench" align="left" />
 &ensp;MMSI-Video-Bench: A Holistic Benchmark for Video-based Spatial Intelligence
 :   &nbsp;&ensp;Jingli Lin\*, Runsen Xu\*‡, ..., **Tai Wang†**, Jiangmiao Pang†
 :   &nbsp;&ensp;Arxiv Preprint
