@@ -43,8 +43,8 @@ Selected Publications
 **Navigation & Exploration** <br/>
 
 <img src="../images/vl-ln-bench.png" width = "180" height = "110" alt="vl-ln-bench" align="left" />
-&ensp;VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs
-:   &nbsp;&ensp;Wensi Huang\*, Shaohao Zhu\*, Meng Wei, Jinming Xu, Xihui Liu, Hanqing Wang†, **Tai Wang†**, Feng Zhao†, Jiangmiao Pang
+&ensp;VL-LN Bench: Towards Long-horizon Goal-oriented Navigation <br/> &ensp;with Active Dialogs
+:   &nbsp;&ensp;Wensi Huang\*, Shaohao Zhu\*, ..., Hanqing Wang†, **Tai Wang†**, Feng Zhao†, Jiangmiao Pang
 :   &nbsp;&ensp;Arxiv Preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://0309hws.github.io/VL-LN.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2512.22342)&nbsp;[\[Code\]](https://github.com/InternRobotics/VL-LN)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/Sbac5L2fUbnF2TBBW8O1xg)
 
@@ -81,7 +81,7 @@ Selected Publications
 ----------
 **Embodied Multi-Modal 3D Perception** <br/>
 
-<img src="../images/MMSI-Video-Bench.jpg" width = "180" height = "110" alt="mmsi-video-bench" align="left" />
+<img src="../images/MMSI-Video-Bench.png" width = "180" height = "130" alt="mmsi-video-bench" align="left" />
 &ensp;MMSI-Video-Bench: A Holistic Benchmark for Video-based Spatial Intelligence
 :   &nbsp;&ensp;Jingli Lin\*, Runsen Xu\*‡, ..., **Tai Wang†**, Jiangmiao Pang†
 :   &nbsp;&ensp;Arxiv Preprint
@@ -173,6 +173,7 @@ Selected Publications
 
 ----------
 **Vision-Based 3D Perception** <br/>
+
 <!-- <img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
 &ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp;3D Object Detection and Tracking
 :   &nbsp;&ensp;Qing Lian, **Tai Wang**, Jiangmiao Pang, Dahua Lin
