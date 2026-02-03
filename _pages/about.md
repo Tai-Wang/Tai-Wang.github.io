@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on Spatial Intelligence. My research focuses on building a foundation model that can understand our 3D world with multi-modal interaction capabilities, especially from ego-centric observations, and ultimately enables general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to downstream embodied tasks ([InternVLA-N1](https://internrobotics.github.io/internvla-n1.github.io/), [InternUtopia](https://github.com/InternRobotics/InternUtopia)), with continuing open-source efforts ([MMDetection3D,](https://github.com/open-mmlab/mmdetection3d) [Intern Robotics](https://github.com/InternRobotics)).
+I am a Research Scientist at Embodied AI Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), and lead a team working on Spatial Intelligence. My research focuses on building a foundation model that can understand our 3D world with multi-modal interaction capabilities, especially from ego-centric observations, and ultimately enables general physical intelligence. In recent years, we have contributed several fundamental endeavors from general 3D perception ([Cylinder3D,](https://arxiv.org/abs/2011.10033) [FCOS3D,](https://arxiv.org/abs/2104.10956) [DfM](https://arxiv.org/abs/2207.12988)), embodied multi-modal 3D perception ([EmbodiedScan,](https://arxiv.org/abs/2312.16170) [PointLLM,](https://arxiv.org/abs/2308.16911) [LLaVA-3D](https://arxiv.org/abs/2409.18125)), to downstream embodied tasks ([InternVLA-N1](https://internrobotics.github.io/internvla-n1.github.io/), [X-VLA](https://thu-air-dream.github.io/X-VLA/)), with continuing open-source efforts ([MMDetection3D,](https://github.com/open-mmlab/mmdetection3d) [Intern Robotics](https://github.com/InternRobotics)).
 
 Working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/), we are dedicated to building Embodied AGI systems and empowering academia and industry through open-source initiatives. If you are interested, please reach out to us for potential positions or collaborations.
 
@@ -42,22 +42,34 @@ Selected Publications
 ----------
 **Navigation & Exploration** <br/>
 
+<img src="../images/vl-ln-bench.png" width = "180" height = "110" alt="vl-ln-bench" align="left" />
+&ensp;VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs
+:   &nbsp;&ensp;Wensi Huang\*, Shaohao Zhu\*, Meng Wei, Jinming Xu, Xihui Liu, Hanqing Wang†, **Tai Wang†**, Feng Zhao†, Jiangmiao Pang
+:   &nbsp;&ensp;Arxiv Preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://0309hws.github.io/VL-LN.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2512.22342)&nbsp;[\[Code\]](https://github.com/InternRobotics/VL-LN)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/Sbac5L2fUbnF2TBBW8O1xg)
+
 <img src="../images/internvla-n1.png" width = "180" height = "110" alt="internvla-n1" align="left" />
 &ensp;InternVLA-N1: An Open Dual-System Vision-Language Navigation <br/> &ensp;Foundation Model with Learned Latent Plans
 :   &nbsp;&ensp;InternVLA-N1 Team
-:   &nbsp;&ensp;Preprint
-:   &nbsp;&ensp;[\[Project Page\]](https://internrobotics.github.io/internvla-n1.github.io/)&nbsp;[\[Paper\]](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf)&nbsp;[\[Code\]](https://github.com/InternRobotics/InternNav)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/0LYdp6XBOZbeqiCu8ADcYQ)
+:   &nbsp;&ensp;International Conference on Learning Representations (**ICLR**) 2026
+:   &nbsp;&ensp;[\[Project Page\]](https://internrobotics.github.io/internvla-n1.github.io/)&nbsp;[\[Tech Report\]](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf)&nbsp;[\[DualVLN (ICLR version)\]](https://arxiv.org/abs/2512.08186)&nbsp;[\[Code\]](https://github.com/InternRobotics/InternNav)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/0LYdp6XBOZbeqiCu8ADcYQ)
 
 <img src="../images/streamvln.gif" width = "180" height = "110" alt="streamvln" align="left" />
 &ensp;StreamVLN: Streaming Vision-and-Language Navigation via <br/> &ensp;SlowFast Context Modeling
 :   &nbsp;&ensp;Meng Wei\*, Chenyang Wan\*, Xiqian Yu\*, **Tai Wang\*‡**, et al.
-:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;International Conference on Robotics and Automation (**ICRA**) 2026
 :   &nbsp;&ensp;[\[Project Page\]](https://streamvln.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2507.05240)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/StreamVLN)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/1914387005099451505)
+
+<img src="../images/LoGoPlanner.jpg" width = "180" height = "110" alt="logoplanner" align="left" />
+&ensp;LoGoPlanner: Localization Grounded Navigation Policy with <br/> &ensp;Metric-aware Visual Geometry
+:   &nbsp;&ensp;Jiaqi Peng\*, Wenzhe Cai\*, Yuqiang Yang\*, **Tai Wang†**, Yuan Shen†, Jiangmiao Pang
+:   &nbsp;&ensp;International Conference on Robotics and Automation (**ICRA**) 2026
+:   &nbsp;&ensp;[\[Project Page\]](https://steinate.github.io/logoplanner.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2512.19629)&nbsp;[\[Code\]](https://github.com/InternRobotics/NavDP/tree/master/baselines/logoplanner)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/HnmRBUW2QvqN_QeLynNFZg)
 
 <img src="../images/NavDP.png" width = "180" height = "110" alt="navdp" align="left" />
 &ensp;NavDP: Learning Sim-to-Real Navigation Diffusion Policy with <br/> &ensp;Privileged Information Guidance
 :   &nbsp;&ensp;Wenzhe Cai, Jiaqi Peng, Yuqiang Yang, Yujian Zhang, ..., **Tai Wang†**, Jiangmiao Pang†
-:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;International Conference on Robotics and Automation (**ICRA**) 2026
 :   &nbsp;&ensp;[\[Project Page\]](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.08712)&nbsp;[\[Code\]](https://github.com/wzcai99/NavDP)&nbsp;[\[Zhihu\]](https://zhuanlan.zhihu.com/p/1914387005099451505)
 
 <img src="../images/GLEAM.gif" width = "180" height = "110" alt="gleam" align="left" />
@@ -69,10 +81,16 @@ Selected Publications
 ----------
 **Embodied Multi-Modal 3D Perception** <br/>
 
+<img src="../images/MMSI-Video-Bench.jpg" width = "180" height = "110" alt="mmsi-video-bench" align="left" />
+&ensp;MMSI-Video-Bench: A Holistic Benchmark for Video-based Spatial Intelligence
+:   &nbsp;&ensp;Jingli Lin\*, Runsen Xu\*‡, ..., **Tai Wang†**, Jiangmiao Pang†
+:   &nbsp;&ensp;Arxiv Preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://rbler1234.github.io/MMSI-VIdeo-Bench.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2512.10863)&nbsp;[\[Code\]](https://github.com/InternRobotics/MMSI-Video-Bench)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/M4XBlVXjd3Alv5pH3h4tyw)
+
 <img src="../images/MMSI-Bench.jpg" width = "180" height = "110" alt="mmsi-bench" align="left" />
 &ensp;MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence
 :   &nbsp;&ensp;Sihan Yang\*, Runsen Xu\*‡, Yiman Xie, Sizhe Yang, ..., **Tai Wang†**, Jiangmiao Pang†
-:   &nbsp;&ensp;ArXiv preprint
+:   &nbsp;&ensp;International Conference on Learning Representations (**ICLR**) 2026
 :   &nbsp;&ensp;[\[Project Page\]](https://runsenxu.com/projects/MMSI_Bench/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2505.23764)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/MMSI-Bench)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/2YAvQeGib137tjfnULpRng)
 
 <img src="../images/llava3d.png" width = "180" height = "110" alt="llava3d" align="left" />
@@ -87,7 +105,7 @@ Selected Publications
 :   &nbsp;&ensp;Conference on Neural Information Processing Systems (**NeurIPS**) 2024
 :   &nbsp;&ensp;[\[Project Page\]](https://tai-wang.github.io/mmscan/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2406.09401)&nbsp;[\[Code\]](https://github.com/OpenRobotLab/EmbodiedScan)
 
-<img src="../images/grounded-3d-llm.jpg" width = "180" height = "110" alt="grounded-3d-llm" align="left" />
+<!-- <img src="../images/grounded-3d-llm.jpg" width = "180" height = "110" alt="grounded-3d-llm" align="left" />
 &ensp;Grounded 3D-LLM with Referent Tokens
 :   &nbsp;&ensp;Yilun Chen\*, Shuai Yang\*, Haifeng Huang\*, **Tai Wang**, Ruiyuan Lyu, Runsen Xu, Dahua Lin, Jiangmiao Pang
 :   &nbsp;&ensp;ArXiv preprint
@@ -97,7 +115,7 @@ Selected Publications
 &ensp;Empowering 3D Visual Grounding with Reasoning Capabilities
 :   &nbsp;&ensp;Chenming Zhu, **Tai Wang**, Wenwei Zhang, Kai Chen, Xihui Liu
 :   &nbsp;&ensp;European Conference on Computer Vision (**ECCV**) 2024
-:   &nbsp;&ensp;[\[Project Page\]](https://zcmax.github.io/projects/ScanReason/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2407.01525)&nbsp;[\[Code\]](https://github.com/ZCMax/ScanReason)
+:   &nbsp;&ensp;[\[Project Page\]](https://zcmax.github.io/projects/ScanReason/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2407.01525)&nbsp;[\[Code\]](https://github.com/ZCMax/ScanReason) -->
 
 <img src="../images/pointllm.gif" width = "180" height = "110" alt="pointllm" align="left" />
 &ensp;PointLLM: Empowering Large Language Models to Understand Point Clouds
@@ -120,14 +138,20 @@ Selected Publications
 :   &nbsp;&ensp;Preprint
 :   &nbsp;&ensp;[\[Project Page\]](https://internrobotics.github.io/internvla-m1.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2510.13778)&nbsp;[\[Code\]](https://github.com/InternRobotics/InternVLA-M1/tree/InternVLA-M1)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/JH8yObJJlrxWTqbtj3og6Q)
 
+<img src="../images/internvla-a1.png" width = "180" height = "110" alt="internvla-a1" align="left" />
+&ensp;InternVLA-A1: Unifying Understanding, Generation and Action <br/> &ensp;for Robotic Manipulation
+:   &nbsp;&ensp;InternVLA-A1 Team
+:   &nbsp;&ensp;Preprint
+:   &nbsp;&ensp;[\[Project Page\]](https://internrobotics.github.io/internvla-a1.github.io/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2601.02456)&nbsp;[\[Code\]](https://github.com/InternRobotics/InternVLA-A1)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/7dRRI8nwEoz8C7Bw3rjf3w)
+
 <img src="../images/x-vla.png" width = "180" height = "110" alt="x-vla" align="left" />
 &ensp;X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment <br/> &ensp;Vision-Language-Action Model
-:   &nbsp;&ensp;Jinliang Zheng\*, Jianxiong Li\*, et al.
-:   &nbsp;&ensp;Preprint
+:   &nbsp;&ensp;Jinliang Zheng\*, Jianxiong Li\*, ..., **Tai Wang†**, Xianyuan Zhan†
+:   &nbsp;&ensp;International Conference on Learning Representations (**ICLR**) 2026
 :   &nbsp;&ensp;[\[Project Page\]](https://thu-air-dream.github.io/X-VLA/)&nbsp;[\[Paper\]](https://arxiv.org/abs/2510.10274)&nbsp;[\[Code\]](https://github.com/2toinf/X-VLA)&nbsp;[\[中文解读\]](https://mp.weixin.qq.com/s/IYefBawxqgJyOxNiXL0hVg)
 
 ----------
-**Embodied Interaction & Simulation** <br/>
+**Humanoid Agent & Simulation** <br/>
 
 <img src="../images/coohoi.png" width = "180" height = "110" alt="coohoi" align="left" />
 &ensp;CooHOI: Learning Cooperative Human-Object Interaction with <br/> &ensp;Manipulated Object Dynamics
@@ -149,11 +173,11 @@ Selected Publications
 
 ----------
 **Vision-Based 3D Perception** <br/>
-<img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
+<!-- <img src="../images/DORT.png" width = "180" height = "110" alt="dort" align="left" />
 &ensp;DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera <br/> &ensp;3D Object Detection and Tracking
 :   &nbsp;&ensp;Qing Lian, **Tai Wang**, Jiangmiao Pang, Dahua Lin
 :   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2023
-:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.16628)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/DORT)
+:   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2303.16628)&nbsp;[\[Code\]](https://github.com/SmartBot-PJLab/DORT) -->
 
 <img src="../images/bev-survey.png" width = "180" height = "110" alt="bev-survey" align="left" />
 &ensp;Vision-Centric BEV Perception: A Survey
@@ -208,13 +232,13 @@ Selected Publications
 :   &nbsp;&ensp;Conference on Robot Learning (**CoRL**) 2020
 :   &nbsp;&ensp;[\[Paper\]](https://arxiv.org/abs/2004.02724)&nbsp;[\[Spotlight Talk\]](https://www.youtube.com/watch?v=qooEVl8XF9o&t=4s)
 
-----------
+<!-- ----------
 **Efficient Annotation of LiDAR Point Clouds** <br/>
 <img src="../images/flava.gif" width = "180" height = "110" alt="flava" align="left" />
 &ensp;FLAVA: Find, Localize, Adjust and Verify to Annotate LiDAR-based <br/> &ensp;Point Clouds
 :   &nbsp;&ensp;**Tai Wang**, Conghui He, Zhe Wang, Jianping Shi, Dahua Lin
 :   &nbsp;&ensp;ACM Symposium on User Interface Software and Technology (**UIST**) 2020, Poster
-:   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI)
+:   &nbsp;&ensp;[\[Full Tech Report\]](https://arxiv.org/abs/2011.10174)&nbsp;[\[Poster\]](https://uist.acm.org/uist2020/data/posters/1024.pdf)&nbsp;[\[Poster Summary\]](https://dl.acm.org/doi/10.1145/3379350.3416176)&nbsp;[\[Demo\]](https://www.youtube.com/watch?v=hri54dzPxnI) -->
 
 Research Projects
 ----------
@@ -251,4 +275,4 @@ Miscellaneous
 I served as a reviewer for CVPR, ICCV, ECCV, CoRL, NeurIPS, ICLR, ICML, WACV, TPAMI, IJCV, TVCG.
 
 **Hobbies** <br/>
-Love: 🏀Basketball (I am a big fan of [Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry) and [Tracy McGrady](https://en.wikipedia.org/wiki/Tracy_McGrady)), 🎵music/🎤singing and good at 🖌️Chinese calligraphy (learned from [MA Liangchen](https://baike.baidu.com/item/%E9%A9%AC%E8%89%AF%E8%BE%B0/5438872) and [MA Shanshuang](https://baike.baidu.com/item/%E9%A9%AC%E5%96%84%E5%8F%8C/5954206)).
+Love: 🏀Basketball (I am a big fan of [Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry)), 🎵music/🎤singing and good at 🖌️Chinese calligraphy (learned from [MA Liangchen](https://baike.baidu.com/item/%E9%A9%AC%E8%89%AF%E8%BE%B0/5438872) and [MA Shanshuang](https://baike.baidu.com/item/%E9%A9%AC%E5%96%84%E5%8F%8C/5954206)).
