@@ -71,7 +71,7 @@ export default function PublicationsSection() {
     <section id="publications" className="px-6 py-12">
       <div className="mb-8">
         <h2 className="text-[24px] font-bold text-[#1a1a1a] dark:text-[#e2e8f0] tracking-tight">
-          Publications
+          Selected Publications
         </h2>
         <div className="w-8 h-[3px] bg-[#C8917A] mt-2 rounded-full" />
       </div>
