@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages & Vercel
 
 on:
   push:
@@ -16,11 +16,10 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
+    outputs:
+      vercel-deployment-url: ${{ steps.vercel-deploy.outputs.preview-url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -38,14 +37,58 @@ jobs:
       - name: Build
         run: cd app && npm run build
 
+      - name: Add CNAME for custom domain
+        # Replace YOUR_DOMAIN below or set DOMAIN secret in repo settings
+        run: |
+          DOMAIN="${{ secrets.DOMAIN }}"
+          if [ -z "$DOMAIN" ]; then
+            echo "No DOMAIN secret set. Skipping CNAME."
+            echo "To use a custom domain, go to Settings > Secrets and variables > Actions,"
+            echo "and add a secret named DOMAIN with your domain (e.g., taiwang.dev)."
+          else
+            echo "$DOMAIN" > app/dist/CNAME
+            echo "CNAME created: $DOMAIN"
+          fi
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload artifact
+      - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
           path: './app/dist'
 
+      - name: Deploy to Vercel
+        if: env.VERCEL_TOKEN != ''
+        id: vercel-deploy
+        uses: amondnet/vercel-action@v25
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          working-directory: ./app/dist
+          vercel-args: '--prod'
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+
+      - name: Vercel deploy skipped
+        if: env.VERCEL_TOKEN == ''
+        run: |
+          echo "VERCEL_TOKEN not set. Skipping Vercel deploy."
+          echo "To enable Vercel dual-deploy, add these secrets in GitHub Settings > Secrets and variables > Actions:"
+          echo "  - VERCEL_TOKEN (from https://vercel.com/account/tokens)"
+          echo "  - VERCEL_ORG_ID (from Vercel project settings)"
+          echo "  - VERCEL_PROJECT_ID (from Vercel project settings)"
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+
+  deploy-github-pages:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
