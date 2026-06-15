@@ -37,18 +37,8 @@ jobs:
       - name: Build
         run: cd app && npm run build
 
-      - name: Add CNAME for custom domain
-        # Replace YOUR_DOMAIN below or set DOMAIN secret in repo settings
-        run: |
-          DOMAIN="${{ secrets.DOMAIN }}"
-          if [ -z "$DOMAIN" ]; then
-            echo "No DOMAIN secret set. Skipping CNAME."
-            echo "To use a custom domain, go to Settings > Secrets and variables > Actions,"
-            echo "and add a secret named DOMAIN with your domain (e.g., taiwang.dev)."
-          else
-            echo "$DOMAIN" > app/dist/CNAME
-            echo "CNAME created: $DOMAIN"
-          fi
+      - name: Copy CNAME for custom domain
+        run: cp CNAME app/dist/CNAME
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
