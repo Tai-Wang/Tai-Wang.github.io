@@ -45,29 +45,6 @@ export default function TeachingSection() {
               I served as a reviewer for CVPR, ICCV, ECCV, CoRL, NeurIPS, ICLR, ICML, WACV, TPAMI, IJCV, TVCG.
             </p>
           </div>
-
-          <div>
-            <h3 className="text-[17px] font-semibold text-[#1a1a1a] dark:text-[#e2e8f0] mb-2">
-              Hobbies
-            </h3>
-            <p className="text-[14px] text-[#333] dark:text-[#c9d1d9] leading-relaxed">
-              Love:{' '}
-              <span className="font-medium">Basketball</span> (big fan of{' '}
-              <a href="https://en.wikipedia.org/wiki/Stephen_Curry" target="_blank" rel="noopener noreferrer" className="text-[#C8917A] hover:underline">
-                Stephen Curry
-              </a>
-              ), <span className="font-medium">music/singing</span> and good at{' '}
-              <span className="font-medium">Chinese calligraphy</span> (learned from{' '}
-              <a href="https://baike.baidu.com/item/%E9%A9%AC%E8%89%AF%E8%87%A3/5438872" target="_blank" rel="noopener noreferrer" className="text-[#C8917A] hover:underline">
-                MA Liangchen
-              </a>{' '}
-              and{' '}
-              <a href="https://baike.baidu.com/item/%E9%A9%AC%E5%96%84%E5%8F%8C/5954206" target="_blank" rel="noopener noreferrer" className="text-[#C8917A] hover:underline">
-                MA Shanshuang
-              </a>
-              ).
-            </p>
-          </div>
         </div>
       </div>
     </section>
