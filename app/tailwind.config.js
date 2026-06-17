@@ -61,7 +61,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans: ['-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
+        sans: ['"Inter"', '"Segoe UI"', 'system-ui', '-apple-system', 'BlinkMacSystemFont', '"Roboto"', '"Helvetica Neue"', 'Arial', 'sans-serif'],
         serif: ['Georgia', '"Times New Roman"', 'Times', 'serif'],
         mono: ['"SF Mono"', '"Fira Code"', '"Cascadia Code"', 'Monaco', 'Inconsolata', 'monospace'],
       },
