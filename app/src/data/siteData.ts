@@ -60,7 +60,7 @@ export const newsItems: NewsItem[] = [
     content: 'We release GRUtopia, MMScan and Grounded 3D-LLM.',
     links: [
       { text: 'GRUtopia', url: 'https://github.com/OpenRobotLab/GRUtopia' },
-      { text: 'MMScan', url: 'https://tai-wang.github.io/mmscan/' },
+      { text: 'MMScan', url: 'https://taiwang.me/mmscan/' },
       { text: 'Grounded 3D-LLM', url: 'https://groundedscenellm.github.io/grounded_3d-llm.github.io/' },
     ],
   },
@@ -68,7 +68,7 @@ export const newsItems: NewsItem[] = [
     date: '2024.03',
     content: 'EmbodiedScan and GenNBV are accepted by CVPR 2024. The Challenge Server is online!',
     links: [
-      { text: 'EmbodiedScan', url: 'https://tai-wang.github.io/embodiedscan/' },
+      { text: 'EmbodiedScan', url: 'https://taiwang.me/embodiedscan/' },
       { text: 'GenNBV', url: 'https://gennbv.tech/' },
       { text: 'Server', url: 'https://huggingface.co/spaces/AGC2024/visual-grounding-2024' },
     ],
@@ -91,7 +91,7 @@ export const newsItems: NewsItem[] = [
     date: '2023.12',
     content: 'We release EmbodiedScan, the first ego-centric, multi-modal 3D perception suite for holistic 3D scene understanding.',
     links: [
-      { text: 'EmbodiedScan', url: 'https://tai-wang.github.io/embodiedscan/' },
+      { text: 'EmbodiedScan', url: 'https://taiwang.me/embodiedscan/' },
     ],
   },
   {
@@ -235,7 +235,7 @@ export const paperCategories: PaperCategory[] = [
         venueTag: 'NeurIPS 2024',
         image: '/images/mmscan.gif',
         links: [
-          { label: 'Project Page', url: 'https://tai-wang.github.io/mmscan/' },
+          { label: 'Project Page', url: 'https://taiwang.me/mmscan/' },
           { label: 'Paper', url: 'https://arxiv.org/abs/2406.09401' },
           { label: 'Code', url: 'https://github.com/InternRobotics/EmbodiedScan' },
         ],
@@ -259,7 +259,7 @@ export const paperCategories: PaperCategory[] = [
         venueTag: 'CVPR 2024',
         image: '/images/embodiedscan.gif',
         links: [
-          { label: 'Project Page', url: 'https://tai-wang.github.io/embodiedscan/' },
+          { label: 'Project Page', url: 'https://taiwang.me/embodiedscan/' },
           { label: 'Paper', url: 'https://arxiv.org/abs/2312.16170' },
           { label: 'Code', url: 'https://github.com/OpenRobotLab/EmbodiedScan' },
           { label: '中文解读', url: 'https://mp.weixin.qq.com/s/__cubd_YlvZrTvDHyLI-ow' },
